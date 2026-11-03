@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/epifpga/report_20261028_competition/sgbm_path_check/path_core.v" into library work
+INFO: [VRFC 10-311] analyzing module sgbm_path_core_bus
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/epifpga/report_20261028_competition/sgbm_path_check/tb.sv" into library work
+INFO: [VRFC 10-311] analyzing module tb

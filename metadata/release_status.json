@@ -1,0 +1,53 @@
+{
+  "release": "2026.1 optimized navigator Slice 88.62%",
+  "source_hashes_match_final_software_manifests": true,
+  "packaging_board_accessed": true,
+  "sd_cold_boot_verified": true,
+  "full_clean_implementation_repeated_during_packaging": false,
+  "dependencies": "Default board images retained. BSP/lwIP/CPU1/CPU0 and FSBL rebuilt from source with AMD 2026.1 in a new directory; candidate BOOT packaged, board-tested and cold-boot verified.",
+  "hardware_reference": "reports/implementation",
+  "known_gaps": [
+    "fresh full hardware implementation verification",
+    "complete external I/O timing and CDC signoff",
+    "multi-frame statistical recognition accuracy and full stereo/liveness same-frame validation"
+  ],
+  "packaging_recheck": {
+    "software_navigator": true,
+    "software_ax7020": true,
+    "sgm_simulation": true,
+    "hls_c_equivalence": true,
+    "recreate_navigator": true,
+    "recreate_ax7020": true,
+    "boot_navigator_exact": true,
+    "boot_ax7020_exact": true,
+    "sgm_rtl_matches_implementation": true
+  },
+  "live_capture_date": "2026-11-01",
+  "live_capture_read_only": true,
+  "stable_sd_runtime_observed": true,
+  "sd_cold_boot_process_recorded": true,
+  "running_firmware_identity": "Stable SD program observed through dual-board runtime logs; board memory/image hash was not independently read back during this measurement",
+  "new_checks": {
+    "identity_host_reference_cases": 1067,
+    "identity_mismatches": 0,
+    "access_host_regression": true,
+    "idle_capture_seconds": 150,
+    "auth_capture_seconds": 240,
+    "auth_decisions": 10,
+    "auth_grants": 10
+  },
+  "full_model_same_frame": {
+    "frame": 2495,
+    "integer_operations": 124,
+    "integer_mismatches": 0,
+    "embedding_mismatches": 0,
+    "onnx_end_to_end_cosine": 0.9718518814769669,
+    "onnx_identity_agrees": true,
+    "single_frame_only": true
+  },
+  "all_software_source_rebuilt_2026_1": true,
+  "candidate_boot_board_tested": true,
+  "temporary_diagnostic_downloaded": true,
+  "stable_navigator_restored": true,
+  "sd_written_this_round": false
+}

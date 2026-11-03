@@ -1,0 +1,117 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2026.1 (win64) Build 6511674 Tue Jun 16 11:02:23 MDT 2026
+| Date         : Sun Nov  1 14:16:23 2026
+| Host         : LAPTOP-5ER987R0 running 64-bit major release  (build 9200)
+| Command      : report_utilization -hierarchical -hierarchical_depth 3 -file F:/fpga_2026_1_work/reports/navigator_bram4_stride_shift_compact90_right/utilization_hierarchical.rpt
+| Design       : system_wrapper
+| Device       : xc7z020clg400-2
+| Speed File   : -2
+| Design State : Physopt postRoute
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Utilization Design Information
+
+Table of Contents
+-----------------
+1. Utilization by Hierarchy
+
+1. Utilization by Hierarchy
+---------------------------
+
++-------------------------+------------------------------------------------------------------------+------------+------------+---------+------+-------+--------+--------+------------+
+|         Instance        |                                 Module                                 | Total LUTs | Logic LUTs | LUTRAMs | SRLs |  FFs  | RAMB36 | RAMB18 | DSP Blocks |
++-------------------------+------------------------------------------------------------------------+------------+------------+---------+------+-------+--------+--------+------------+
+| system_wrapper          |                                                                  (top) |      36672 |      33861 |     734 | 2077 | 51420 |     87 |     68 |         96 |
+|   (system_wrapper)      |                                                                  (top) |          0 |          0 |       0 |    0 |     0 |      0 |      0 |          0 |
+|   system_i              |                                                                 system |      36672 |      33861 |     734 | 2077 | 51420 |     87 |     68 |         96 |
+|     v_vid_in_axi4s_1    |                                              system_v_vid_in_axi4s_1_0 |        101 |        101 |       0 |    0 |   258 |      1 |      0 |          0 |
+|       inst              |                        system_v_vid_in_axi4s_1_0_v_vid_in_axi4s_v5_0_8 |        101 |        101 |       0 |    0 |   258 |      1 |      0 |          0 |
+|     audio_i2s_tx        |                                                  system_audio_i2s_tx_0 |        290 |        114 |     176 |    0 |   108 |      0 |      0 |          0 |
+|       inst              |                           system_audio_i2s_tx_0_es8388_i2s_tx_buffered |        290 |        114 |     176 |    0 |   108 |      0 |      0 |          0 |
+|     axi_gpio_audio      |                                                system_axi_gpio_audio_0 |         57 |         57 |       0 |    0 |   107 |      0 |      0 |          0 |
+|       U0                |                                       system_axi_gpio_audio_0_axi_gpio |         57 |         57 |       0 |    0 |   107 |      0 |      0 |          0 |
+|     axi_gpio_key        |                                                  system_axi_gpio_key_0 |         87 |         87 |       0 |    0 |   179 |      0 |      0 |          0 |
+|       U0                |                                         system_axi_gpio_key_0_axi_gpio |         87 |         87 |       0 |    0 |   179 |      0 |      0 |          0 |
+|     axi_mem_intercon    |                                              system_axi_mem_intercon_0 |        533 |        513 |      16 |    4 |   552 |      0 |      0 |          0 |
+|       s00_couplers      |                                               s00_couplers_imp_1P403ZT |        173 |        165 |       8 |    0 |   214 |      0 |      0 |          0 |
+|       s01_couplers      |                                                s01_couplers_imp_VQ497S |        172 |        164 |       8 |    0 |   214 |      0 |      0 |          0 |
+|       xbar              |                                     system_axi_mem_intercon_imp_xbar_0 |        188 |        184 |       0 |    4 |   124 |      0 |      0 |          0 |
+|     axi_mem_intercon_1  |                                            system_axi_mem_intercon_1_0 |       2237 |       2136 |      22 |   79 |  2581 |      0 |      0 |          0 |
+|       s00_couplers      |                                               s00_couplers_imp_1AIV7DJ |        309 |        299 |      10 |    0 |   356 |      0 |      0 |          0 |
+|       s01_couplers      |                                                s01_couplers_imp_2PLUVA |        915 |        855 |      10 |   50 |  1198 |      0 |      0 |          0 |
+|       s02_couplers      |                                                s02_couplers_imp_8W5GTW |        411 |        384 |       2 |   25 |   593 |      0 |      0 |          0 |
+|       xbar              |                                   system_axi_mem_intercon_1_imp_xbar_0 |        606 |        602 |       0 |    4 |   434 |      0 |      0 |          0 |
+|     axi_mem_intercon_2  |                                            system_axi_mem_intercon_2_0 |        306 |        296 |      10 |    0 |   356 |      0 |      0 |          0 |
+|       s00_couplers      |                                                s00_couplers_imp_282SIL |        306 |        296 |      10 |    0 |   356 |      0 |      0 |          0 |
+|     axi_vdma_0          |                                                    system_axi_vdma_0_0 |       1367 |       1264 |       8 |   95 |  1980 |      1 |      1 |          0 |
+|       U0                |                                           system_axi_vdma_0_0_axi_vdma |       1367 |       1264 |       8 |   95 |  1980 |      1 |      1 |          0 |
+|     axi_vdma_1          |                                                    system_axi_vdma_1_0 |       1363 |       1260 |       8 |   95 |  1980 |      1 |      1 |          0 |
+|       U0                |                                           system_axi_vdma_1_0_axi_vdma |       1363 |       1260 |       8 |   95 |  1980 |      1 |      1 |          0 |
+|     capture_green_left  |                                            system_capture_green_left_0 |         82 |         82 |       0 |    0 |   265 |      0 |      0 |          0 |
+|       inst              |                   system_capture_green_left_0_axis_rgb_to_green_oneway |         80 |         80 |       0 |    0 |   265 |      0 |      0 |          0 |
+|     capture_green_right |                                           system_capture_green_right_0 |         82 |         82 |       0 |    0 |   265 |      0 |      0 |          0 |
+|       inst              |                  system_capture_green_right_0_axis_rgb_to_green_oneway |         81 |         81 |       0 |    0 |   265 |      0 |      0 |          0 |
+|     face_act_cc         |                                                   system_face_act_cc_0 |        371 |        193 |     178 |    0 |   988 |      0 |      0 |          0 |
+|       inst              |   system_face_act_cc_0_axi_clock_converter_v2_1_36_axi_clock_converter |        371 |        193 |     178 |    0 |   988 |      0 |      0 |          0 |
+|     face_int8_accel_0   |                                             system_face_int8_accel_0_0 |      15164 |      14327 |     198 |  639 | 16705 |     18 |     57 |         72 |
+|       inst              |                             system_face_int8_accel_0_0_face_int8_accel |      15164 |      14327 |     198 |  639 | 16705 |     18 |     57 |         72 |
+|     face_param_cc       |                                                 system_face_param_cc_0 |        163 |         79 |      84 |    0 |   442 |      0 |      0 |          0 |
+|       inst              | system_face_param_cc_0_axi_clock_converter_v2_1_36_axi_clock_converter |        163 |         79 |      84 |    0 |   442 |      0 |      0 |          0 |
+|     frame_clock         |                                                   system_frame_clock_0 |         95 |         95 |       0 |    0 |   318 |      0 |      0 |          0 |
+|       U0                |                                          system_frame_clock_0_axi_gpio |         95 |         95 |       0 |    0 |   318 |      0 |      0 |          0 |
+|     frame_tag_left      |                                                system_frame_tag_left_0 |        129 |        129 |       0 |    0 |   542 |      0 |      0 |          0 |
+|       U0                |                                       system_frame_tag_left_0_axi_gpio |        129 |        129 |       0 |    0 |   542 |      0 |      0 |          0 |
+|     frame_tag_right     |                                               system_frame_tag_right_0 |        129 |        129 |       0 |    0 |   542 |      0 |      0 |          0 |
+|       U0                |                                      system_frame_tag_right_0_axi_gpio |        129 |        129 |       0 |    0 |   542 |      0 |      0 |          0 |
+|     lcd_dma             |                                                       system_lcd_dma_0 |       1090 |       1023 |       0 |   67 |  1678 |      2 |      1 |          0 |
+|       U0                |                                              system_lcd_dma_0_axi_vdma |       1090 |       1023 |       0 |   67 |  1678 |      2 |      1 |          0 |
+|     lcd_video           |                                                     system_lcd_video_0 |        203 |        203 |       0 |    0 |   415 |      1 |      0 |          0 |
+|       inst              |                             system_lcd_video_0_v_axi4s_vid_out_v4_0_21 |        203 |        203 |       0 |    0 |   415 |      1 |      0 |          0 |
+|     lcd_vtc             |                                                       system_lcd_vtc_0 |        924 |        919 |       0 |    5 |  2542 |      0 |      0 |          0 |
+|       U0                |                                                  system_lcd_vtc_0_v_tc |        924 |        919 |       0 |    5 |  2542 |      0 |      0 |          0 |
+|     photo_left          |                                                    system_photo_left_0 |       1545 |       1439 |       8 |   98 |  2419 |      5 |      2 |          0 |
+|       U0                |                                           system_photo_left_0_axi_vdma |       1545 |       1439 |       8 |   98 |  2419 |      5 |      2 |          0 |
+|     photo_right         |                                                   system_photo_right_0 |       1556 |       1450 |       8 |   98 |  2419 |      5 |      2 |          0 |
+|       U0                |                                          system_photo_right_0_axi_vdma |       1556 |       1450 |       8 |   98 |  2419 |      5 |      2 |          0 |
+|     photo_tag_left      |                                                system_photo_tag_left_0 |        129 |        129 |       0 |    0 |   542 |      0 |      0 |          0 |
+|       U0                |                                       system_photo_tag_left_0_axi_gpio |        129 |        129 |       0 |    0 |   542 |      0 |      0 |          0 |
+|     photo_tag_right     |                                               system_photo_tag_right_0 |        128 |        128 |       0 |    0 |   542 |      0 |      0 |          0 |
+|       U0                |                                      system_photo_tag_right_0_axi_gpio |        128 |        128 |       0 |    0 |   542 |      0 |      0 |          0 |
+|     photo_tap_left      |                                                system_photo_tap_left_0 |         64 |         64 |       0 |    0 |   102 |      1 |      0 |          0 |
+|       inst              |                                 system_photo_tap_left_0_axis_photo_tap |         62 |         62 |       0 |    0 |   102 |      1 |      0 |          0 |
+|     photo_tap_right     |                                               system_photo_tap_right_0 |         64 |         64 |       0 |    0 |   102 |      1 |      0 |          0 |
+|       inst              |                                system_photo_tap_right_0_axis_photo_tap |         62 |         62 |       0 |    0 |   102 |      1 |      0 |          0 |
+|     ps7_0_axi_periph    |                                              system_ps7_0_axi_periph_0 |       1807 |       1746 |       0 |   61 |  3627 |      0 |      0 |          0 |
+|       m04_couplers      |                                                m04_couplers_imp_TUCI1Y |         49 |         49 |       0 |    0 |   241 |      0 |      0 |          0 |
+|       m05_couplers      |                                               m05_couplers_imp_1IWS6WN |         49 |         49 |       0 |    0 |   241 |      0 |      0 |          0 |
+|       m06_couplers      |                                               m06_couplers_imp_1TJ5H51 |         47 |         47 |       0 |    0 |   261 |      0 |      0 |          0 |
+|       m07_couplers      |                                                m07_couplers_imp_IE0TQS |         49 |         49 |       0 |    0 |   261 |      0 |      0 |          0 |
+|       m08_couplers      |                                               m08_couplers_imp_1KSFJCE |         49 |         49 |       0 |    0 |   241 |      0 |      0 |          0 |
+|       m09_couplers      |                                                m09_couplers_imp_REJNZZ |         49 |         49 |       0 |    0 |   253 |      0 |      0 |          0 |
+|       m10_couplers      |                                                m10_couplers_imp_FKDLSY |         49 |         49 |       0 |    0 |   181 |      0 |      0 |          0 |
+|       m11_couplers      |                                               m11_couplers_imp_15QQ90Z |         48 |         48 |       0 |    0 |   241 |      0 |      0 |          0 |
+|       m12_couplers      |                                               m12_couplers_imp_1H73OOX |         48 |         48 |       0 |    0 |   253 |      0 |      0 |          0 |
+|       m13_couplers      |                                                m13_couplers_imp_4XZ9E8 |         49 |         49 |       0 |    0 |   181 |      0 |      0 |          0 |
+|       m14_couplers      |                                               m14_couplers_imp_1TIX63P |         49 |         49 |       0 |    0 |   241 |      0 |      0 |          0 |
+|       s00_couplers      |                                               s00_couplers_imp_11SE3QO |        398 |        337 |       0 |   61 |   534 |      0 |      0 |          0 |
+|       tier2_xbar_0      |                             system_ps7_0_axi_periph_imp_tier2_xbar_0_0 |        273 |        273 |       0 |    0 |   128 |      0 |      0 |          0 |
+|       tier2_xbar_1      |                             system_ps7_0_axi_periph_imp_tier2_xbar_1_0 |        288 |        288 |       0 |    0 |   126 |      0 |      0 |          0 |
+|       tier2_xbar_2      |                             system_ps7_0_axi_periph_imp_tier2_xbar_2_0 |        138 |        138 |       0 |    0 |   123 |      0 |      0 |          0 |
+|       xbar              |                                     system_ps7_0_axi_periph_imp_xbar_0 |        182 |        182 |       0 |    0 |   121 |      0 |      0 |          0 |
+|     rectify_left        |                                                  system_rectify_left_0 |       2846 |       2431 |       0 |  415 |  3747 |     25 |      2 |         12 |
+|       inst              |                                    system_rectify_left_0_rectify_accel |       2846 |       2431 |       0 |  415 |  3747 |     25 |      2 |         12 |
+|     rectify_right       |                                                 system_rectify_right_0 |       2839 |       2425 |       0 |  414 |  3747 |     25 |      2 |         12 |
+|       inst              |                                   system_rectify_right_0_rectify_accel |       2839 |       2425 |       0 |  414 |  3747 |     25 |      2 |         12 |
+|     rgb_memory          |                                                    system_rgb_memory_0 |        617 |        595 |      18 |    4 |   748 |      0 |      0 |          0 |
+|       s00_couplers      |                                                s00_couplers_imp_7G8YR0 |         95 |         87 |       8 |    0 |   158 |      0 |      0 |          0 |
+|       s01_couplers      |                                               s01_couplers_imp_1E4XMKD |         94 |         86 |       8 |    0 |   158 |      0 |      0 |          0 |
+|       s02_couplers      |                                               s02_couplers_imp_17P0PZJ |         44 |         42 |       2 |    0 |    88 |      0 |      0 |          0 |
+|       xbar              |                                           system_rgb_memory_imp_xbar_0 |        386 |        382 |       0 |    4 |   344 |      0 |      0 |          0 |
+|     touch_gpio          |                                                    system_touch_gpio_0 |         39 |         39 |       0 |    0 |    77 |      0 |      0 |          0 |
+|     v_vid_in_axi4s_0    |                                              system_v_vid_in_axi4s_0_0 |        101 |        101 |       0 |    0 |   258 |      1 |      0 |          0 |
+|       inst              |                        system_v_vid_in_axi4s_0_0_v_vid_in_axi4s_v5_0_8 |        101 |        101 |       0 |    0 |   258 |      1 |      0 |          0 |
++-------------------------+------------------------------------------------------------------------+------------+------------+---------+------+-------+--------+--------+------------+
+* Note: The sum of lower-level cells may be larger than their parent cells total, due to cross-hierarchy LUT combining
+
+

@@ -1,0 +1,5 @@
+      comparison_1: [1x1 struct]
+      comparison_2: [1x1 struct]
+    matlab_version: '24.2.0.2712019 (R2024b)'
+             scope: 'Metrics only; one captured frame, not population recognition accuracy'
+

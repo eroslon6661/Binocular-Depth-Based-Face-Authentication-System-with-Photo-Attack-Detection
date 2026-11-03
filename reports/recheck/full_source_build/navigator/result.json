@@ -1,0 +1,14 @@
+{
+  "role": "navigator",
+  "compiler": "arm-xilinx-eabi-gcc.exe (GCC) 13.4.0",
+  "vendor_api": "retained legacy BSP configuration",
+  "prebuilt_libraries_used": false,
+  "board_tested": false,
+  "objects_compiled_libxil": 145,
+  "outputs": {
+    "bsp\\lib\\libxil.a": "ae1963f702ba36c0c99d28a8c7841ca2c59e1256d2719a85303739536a29421d",
+    "bsp\\lib\\liblwip4.a": "2e30247259cd7590c9b32f8b6702fe6d4cf88ecfb75653491b2e157cd8ae3fb3",
+    "crc_core1\\crc_core1.elf": "0e28fbe082c7ff45683f17a05d3cca5fd65164bcce9527723eca74eca5cd5fe4",
+    "crc_core1\\crc_core1.bin": "d0053221ee53dee6a9f0983bc80ac523750719408e93a079cb7181bdd0498bba"
+  }
+}

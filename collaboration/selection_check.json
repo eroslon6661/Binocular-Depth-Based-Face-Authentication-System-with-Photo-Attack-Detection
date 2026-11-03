@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "cases": 11,
+  "selected_messages": 39,
+  "unique_message_ids": 39,
+  "all_excerpt_ranges_match_original": true,
+  "whole_history_included": false
+}

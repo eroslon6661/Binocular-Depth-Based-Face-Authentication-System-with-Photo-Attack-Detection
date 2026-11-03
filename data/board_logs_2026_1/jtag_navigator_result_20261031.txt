@@ -1,0 +1,24 @@
+tool=Vitis 2026.1 XSDB
+board=navigator
+cable=Digilent JTAG-HS1 210512180081
+time_local=2026-10-31 19:30:10
+source=F:\fpga_2026_1_project\board\navigator\jtag
+PL_BEFORE=FPGA is not configured
+CHECKED_PROGRAM_BEGIN role=navigator
+PL_AFTER_BIT=FPGA is configured
+CPU_AFTER_10S=ARM Cortex-A9 MPCore #0 Running
+PL_AFTER_10S=FPGA is configured
+CHECKED_PROGRAM_COMPLETE=1 ROLE=navigator
+uart_functional_test=pending
+display_functional_test=pending
+system.bit_sha256=9DD1E8A1CC431072541C818346DC8BFA89C8BD3C38A11DDD51703828EF3E79E3
+ps7_init.tcl_sha256=2D4DE8FBA1FBC5643F7B59F3A2EE5BC919061A24B2E136857ECED3314C5E41D5
+application.elf_sha256=8649FA999DDFB99AFB226BBCC10AE87F0492C17C687192C5F0A5D2D7DFF91970
+
+rerun_time_local=2026-10-31 19:45:48
+rerun_boot_mode_before=0x00000000 JTAG
+rerun_PL_AFTER_BIT=FPGA is configured
+rerun_CPU_AFTER_10S=ARM Cortex-A9 MPCore #0 Running
+rerun_PL_AFTER_10S=FPGA is configured
+rerun_CHECKED_PROGRAM_COMPLETE=1 ROLE=navigator
+rerun_UART_COM3=main loop active; peer=0; sent=0

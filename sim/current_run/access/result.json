@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "scope": "Host decision truth table, 5-second auto-close and uint32 timer wraparound; not live accuracy or physical lock actuation.",
+  "test_origin": "Preserved test_access.c from dual_fpga_verified_20261012/05_validation/shared_tests; linked with current release PS code.",
+  "source_sha256": {
+    "test_access.c": "77cfb121bde0c6d8f1b63c2b7bc1f84e2b9d0039c14ba2b19f82e1adbef0d094",
+    "db_access.c": "12d93ed948b8e3fc1c0456cdc36d675b2d77e6f6c53a42e3c7e6e07a463edb78",
+    "db_access.h": "16c2fa87b921ca26445d71617e804170e1bd292bd9de2ae9bdbe60b943311e45"
+  }
+}

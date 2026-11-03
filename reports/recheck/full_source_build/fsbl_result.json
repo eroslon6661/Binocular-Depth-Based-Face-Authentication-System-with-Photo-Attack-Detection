@@ -1,0 +1,32 @@
+[
+  {
+    "role": "navigator",
+    "xsa_sha256": "188fa7d5397de6a6b1c713cd8b4aba7a6aab3ee5d32228f573e2f1f313ccda02",
+    "fsbl": [
+      {
+        "path": "navigator_source\\zynq_fsbl\\build\\fsbl.elf",
+        "sha256": "6a347a5ab2ed28324b40a5a609c7bf506b73a2ade5afed54f97b070e3296aaa1"
+      },
+      {
+        "path": "navigator_source\\export\\navigator_source\\sw\\boot\\fsbl.elf",
+        "sha256": "6a347a5ab2ed28324b40a5a609c7bf506b73a2ade5afed54f97b070e3296aaa1"
+      }
+    ],
+    "board_tested": false
+  },
+  {
+    "role": "ax7020",
+    "xsa_sha256": "c7c28a35dbf6100f7d387f5fc68e13123a5138972a12e7a8c7603e4b9d8411ee",
+    "fsbl": [
+      {
+        "path": "ax7020_source\\zynq_fsbl\\build\\fsbl.elf",
+        "sha256": "206246c242304bf093b51501e455abbab37aa8c843f9753e804c59981d8ae946"
+      },
+      {
+        "path": "ax7020_source\\export\\ax7020_source\\sw\\boot\\fsbl.elf",
+        "sha256": "206246c242304bf093b51501e455abbab37aa8c843f9753e804c59981d8ae946"
+      }
+    ],
+    "board_tested": false
+  }
+]

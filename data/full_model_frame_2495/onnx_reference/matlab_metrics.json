@@ -1,0 +1,18 @@
+{
+  "comparison_1": {
+    "different": 309,
+    "max_abs": 3,
+    "mean_abs": 0.724609375,
+    "rmse": 0.993140536379419,
+    "cosine": 0.98438725820482265
+  },
+  "comparison_2": {
+    "different": 362,
+    "max_abs": 4,
+    "mean_abs": 1.01171875,
+    "rmse": 1.3346347815039139,
+    "cosine": 0.97185188147696677
+  },
+  "matlab_version": "24.2.0.2712019 (R2024b)",
+  "scope": "Metrics only; one captured frame, not population recognition accuracy"
+}

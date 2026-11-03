@@ -1,0 +1,930 @@
+{"text":"\u0000ONE_WAY_NAV copied=1714 rectified=1713 sent=1666 rectify_us=22744 aborted=1 dropped=45 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:38.8665475Z","seconds":0.1953657,"port":"COM3"}
+{"text":"NET rx_dma=2149 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:38.8818306Z","seconds":0.2106504,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:38.8820820Z","seconds":0.2109026,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36278 service_gap_max_us=81 prepare_us=2 prepare_max_us=0 pacing_waits=36210","utc":"2026-11-01T08:50:38.8821811Z","seconds":0.2110033,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004b76c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:38.9207069Z","seconds":0.2495238,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349578 tx_submit_us=111602 poll_us=114432","utc":"2026-11-01T08:50:38.9212591Z","seconds":0.2500807,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=1742 rectified=1741 sent=1694 rectify_us=22736 aborted=1 dropped=46 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:39.8719270Z","seconds":1.2007436,"port":"COM3"}
+{"text":"NET rx_dma=2185 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:39.8727303Z","seconds":1.2015512,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:39.8863147Z","seconds":1.2151341,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36451 service_gap_max_us=90 prepare_us=2 prepare_max_us=0 pacing_waits=36242","utc":"2026-11-01T08:50:39.8867056Z","seconds":1.2155269,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a7ac0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:39.9017021Z","seconds":1.2305215,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349627 tx_submit_us=111400 poll_us=114784","utc":"2026-11-01T08:50:39.9183829Z","seconds":1.2472002,"port":"COM3"}
+{"text":"LCD_TOUCH reads=4373 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:50:40.2378430Z","seconds":1.5666602,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=1771 rectified=1770 sent=1722 rectify_us=22726 aborted=1 dropped=47 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:40.8695927Z","seconds":2.19841,"port":"COM3"}
+{"text":"NET rx_dma=2221 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:40.8700770Z","seconds":2.1988984,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:40.8854057Z","seconds":2.2142249,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36348 service_gap_max_us=117 prepare_us=2 prepare_max_us=0 pacing_waits=36128","utc":"2026-11-01T08:50:40.8857692Z","seconds":2.2145901,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00497ec0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:40.9004696Z","seconds":2.2292894,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348586 tx_submit_us=111081 poll_us=114549","utc":"2026-11-01T08:50:40.9218935Z","seconds":2.2507125,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=1799 rectified=1799 sent=1750 rectify_us=22756 aborted=1 dropped=47 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:41.8669659Z","seconds":3.1957871,"port":"COM3"}
+{"text":"NET rx_dma=2257 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:41.8818704Z","seconds":3.2106914,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:41.8820664Z","seconds":3.2108886,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36375 service_gap_max_us=92 prepare_us=2 prepare_max_us=0 pacing_waits=36306","utc":"2026-11-01T08:50:41.8821747Z","seconds":3.2109971,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004882c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:41.9045719Z","seconds":3.2333932,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350339 tx_submit_us=111690 poll_us=114820","utc":"2026-11-01T08:50:41.9209664Z","seconds":3.2497859,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=1828 rectified=1827 sent=1777 rectify_us=22735 aborted=1 dropped=49 flight=3 peer=1 session=be1169ab","utc":"2026-11-01T08:50:42.8725314Z","seconds":4.2013526,"port":"COM3"}
+{"text":"NET rx_dma=2292 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:42.8727781Z","seconds":4.2016002,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:42.8872676Z","seconds":4.2160884,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=40608 service_gap_max_us=116 prepare_us=2 prepare_max_us=0 pacing_waits=34490","utc":"2026-11-01T08:50:42.8875830Z","seconds":4.2164042,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00478dc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:42.9027870Z","seconds":4.2316083,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=332792 tx_submit_us=106028 poll_us=119215","utc":"2026-11-01T08:50:42.9186475Z","seconds":4.2474687,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=1857 rectified=1856 sent=1804 rectify_us=22762 aborted=1 dropped=50 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:43.8664332Z","seconds":5.1952542,"port":"COM3"}
+{"text":"NET rx_dma=2328 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:43.8830061Z","seconds":5.211827,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:43.8833194Z","seconds":5.2121414,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36279 service_gap_max_us=92 prepare_us=2 prepare_max_us=0 pacing_waits=36086","utc":"2026-11-01T08:50:43.8984768Z","seconds":5.227298,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d98c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:43.9134293Z","seconds":5.2422496,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348225 tx_submit_us=111009 poll_us=114295","utc":"2026-11-01T08:50:43.9137760Z","seconds":5.2425981,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=1885 rectified=1884 sent=1832 rectify_us=22751 aborted=1 dropped=51 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:44.8688338Z","seconds":6.1976557,"port":"COM3"}
+{"text":"NET rx_dma=2364 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:44.8689228Z","seconds":6.1977452,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:44.8838930Z","seconds":6.2127151,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36399 service_gap_max_us=81 prepare_us=2 prepare_max_us=0 pacing_waits=36331","utc":"2026-11-01T08:50:44.8839650Z","seconds":6.2127874,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004c9cc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:44.8989133Z","seconds":6.2277352,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350476 tx_submit_us=111761 poll_us=114916","utc":"2026-11-01T08:50:44.9151926Z","seconds":6.2440142,"port":"COM3"}
+{"text":"LCD_TOUCH reads=4730 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:50:45.2396794Z","seconds":6.5684997,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=1914 rectified=1913 sent=1860 rectify_us=22741 aborted=1 dropped=51 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:45.8670776Z","seconds":7.1958994,"port":"COM3"}
+{"text":"NET rx_dma=2400 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:45.8834891Z","seconds":7.2123094,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:45.8838230Z","seconds":7.2126447,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36242 service_gap_max_us=91 prepare_us=3 prepare_max_us=0 pacing_waits=36145","utc":"2026-11-01T08:50:45.8839882Z","seconds":7.2128106,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004ba0c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:45.9232081Z","seconds":7.2520287,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348904 tx_submit_us=111318 poll_us=114504","utc":"2026-11-01T08:50:45.9235895Z","seconds":7.2524108,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=1942 rectified=1942 sent=1888 rectify_us=22757 aborted=1 dropped=52 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:46.8716531Z","seconds":8.2004739,"port":"COM3"}
+{"text":"NET rx_dma=2436 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:46.8719231Z","seconds":8.2007453,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:46.8869990Z","seconds":8.2158203,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36410 service_gap_max_us=83 prepare_us=2 prepare_max_us=0 pacing_waits=36186","utc":"2026-11-01T08:50:46.8871908Z","seconds":8.2160131,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004aa4c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:46.9020728Z","seconds":8.230894,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349117 tx_submit_us=111368 poll_us=114687","utc":"2026-11-01T08:50:46.9159231Z","seconds":8.244745,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=1971 rectified=1970 sent=1916 rectify_us=22751 aborted=1 dropped=53 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:47.8680419Z","seconds":9.1968629,"port":"COM3"}
+{"text":"NET rx_dma=2472 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:47.8849583Z","seconds":9.2137792,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:47.8851993Z","seconds":9.2140214,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36292 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36223","utc":"2026-11-01T08:50:47.8853389Z","seconds":9.2141611,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0049a8c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:47.9060403Z","seconds":9.23486,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349574 tx_submit_us=111445 poll_us=114603","utc":"2026-11-01T08:50:47.9064683Z","seconds":9.2352901,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2000 rectified=1999 sent=1944 rectify_us=22747 aborted=1 dropped=53 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:48.8670947Z","seconds":10.1959158,"port":"COM3"}
+{"text":"NET rx_dma=2508 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:48.8808738Z","seconds":10.2096957,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:48.8809633Z","seconds":10.2097856,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36307 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36153","utc":"2026-11-01T08:50:48.9056701Z","seconds":10.2344901,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0048acc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:48.9058995Z","seconds":10.2347217,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348986 tx_submit_us=111186 poll_us=114388","utc":"2026-11-01T08:50:48.9366796Z","seconds":10.2655002,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2028 rectified=2027 sent=1972 rectify_us=22748 aborted=1 dropped=54 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:49.8649561Z","seconds":11.1937776,"port":"COM3"}
+{"text":"NET rx_dma=2544 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:49.8890099Z","seconds":11.2178303,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:49.8893410Z","seconds":11.2181631,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36543 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36292","utc":"2026-11-01T08:50:49.8894916Z","seconds":11.2183138,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0047b0c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:49.9040865Z","seconds":11.2329078,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350094 tx_submit_us=111517 poll_us=114936","utc":"2026-11-01T08:50:49.9197370Z","seconds":11.2485582,"port":"COM3"}
+{"text":"LCD_TOUCH reads=5088 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:50:50.2331440Z","seconds":11.5619638,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2057 rectified=2056 sent=2000 rectify_us=22730 aborted=1 dropped=55 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:50.8737762Z","seconds":12.202597,"port":"COM3"}
+{"text":"NET rx_dma=2580 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:50.8742621Z","seconds":12.2030831,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:50.9043276Z","seconds":12.2331478,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36186 service_gap_max_us=82 prepare_us=3 prepare_max_us=0 pacing_waits=36119","utc":"2026-11-01T08:50:50.9046641Z","seconds":12.2334863,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004dbbc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:50.9047684Z","seconds":12.2335907,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348763 tx_submit_us=111182 poll_us=114156","utc":"2026-11-01T08:50:50.9202408Z","seconds":12.2490619,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2085 rectified=2085 sent=2028 rectify_us=22743 aborted=1 dropped=55 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:51.8715782Z","seconds":13.2003996,"port":"COM3"}
+{"text":"NET rx_dma=2616 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:51.8717617Z","seconds":13.200584,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:51.8866083Z","seconds":13.2154297,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36360 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36261","utc":"2026-11-01T08:50:51.8867674Z","seconds":13.2155896,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004cbfc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:51.9025077Z","seconds":13.2313291,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349960 tx_submit_us=111476 poll_us=114720","utc":"2026-11-01T08:50:51.9183836Z","seconds":13.2472048,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2114 rectified=2113 sent=2055 rectify_us=22743 aborted=1 dropped=57 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:52.8678423Z","seconds":14.1966637,"port":"COM3"}
+{"text":"NET rx_dma=2652 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:52.8827493Z","seconds":14.211571,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:52.8828615Z","seconds":14.2116838,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=39618 service_gap_max_us=83 prepare_us=2 prepare_max_us=0 pacing_waits=34801","utc":"2026-11-01T08:50:52.8829130Z","seconds":14.2117354,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004bc3c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:52.9146012Z","seconds":14.2434226,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=336064 tx_submit_us=107014 poll_us=117902","utc":"2026-11-01T08:50:52.9147829Z","seconds":14.2436052,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2142 rectified=2142 sent=2083 rectify_us=22715 aborted=1 dropped=58 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:53.8711323Z","seconds":15.1999537,"port":"COM3"}
+{"text":"NET rx_dma=2688 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:53.8712966Z","seconds":15.2001189,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:53.8878590Z","seconds":15.2166799,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36283 service_gap_max_us=83 prepare_us=2 prepare_max_us=0 pacing_waits=36083","utc":"2026-11-01T08:50:53.8880986Z","seconds":15.2169208,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004ac7c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:53.9031584Z","seconds":15.2319795,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348313 tx_submit_us=110991 poll_us=114272","utc":"2026-11-01T08:50:53.9187700Z","seconds":15.2475912,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2171 rectified=2170 sent=2111 rectify_us=22748 aborted=1 dropped=58 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:54.8603670Z","seconds":16.1891889,"port":"COM3"}
+{"text":"NET rx_dma=2724 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:54.8762733Z","seconds":16.2050952,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:54.8763771Z","seconds":16.2051994,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36469 service_gap_max_us=116 prepare_us=2 prepare_max_us=0 pacing_waits=36400","utc":"2026-11-01T08:50:54.8919668Z","seconds":16.2207887,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0049cbc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:54.9226248Z","seconds":16.2514444,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=351334 tx_submit_us=111918 poll_us=115217","utc":"2026-11-01T08:50:54.9230287Z","seconds":16.2518509,"port":"COM3"}
+{"text":"LCD_TOUCH reads=5445 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:50:55.2353550Z","seconds":16.5641763,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2200 rectified=2199 sent=2138 rectify_us=22742 aborted=1 dropped=59 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:55.8715205Z","seconds":17.2003399,"port":"COM3"}
+{"text":"NET rx_dma=2759 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:55.8718383Z","seconds":17.2006604,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:55.8929066Z","seconds":17.2217283,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36240 service_gap_max_us=92 prepare_us=3 prepare_max_us=0 pacing_waits=36061","utc":"2026-11-01T08:50:55.8930472Z","seconds":17.2218695,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0048d6c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:55.9072316Z","seconds":17.2360531,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348161 tx_submit_us=110950 poll_us=114267","utc":"2026-11-01T08:50:55.9073794Z","seconds":17.2362016,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2228 rectified=2227 sent=2166 rectify_us=22733 aborted=1 dropped=60 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:56.8656358Z","seconds":18.1944569,"port":"COM3"}
+{"text":"NET rx_dma=2795 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:56.8972084Z","seconds":18.2260302,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:56.8973450Z","seconds":18.2261672,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36362 service_gap_max_us=91 prepare_us=3 prepare_max_us=0 pacing_waits=36293","utc":"2026-11-01T08:50:56.8974053Z","seconds":18.2262277,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0047dac0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:56.9131146Z","seconds":18.2419356,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350234 tx_submit_us=111489 poll_us=114753","utc":"2026-11-01T08:50:56.9133577Z","seconds":18.2421797,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2257 rectified=2256 sent=2194 rectify_us=22760 aborted=1 dropped=60 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:57.8715242Z","seconds":19.2003436,"port":"COM3"}
+{"text":"NET rx_dma=2831 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:57.8719217Z","seconds":19.2007435,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:57.8858138Z","seconds":19.2146352,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36388 service_gap_max_us=118 prepare_us=2 prepare_max_us=0 pacing_waits=36186","utc":"2026-11-01T08:50:57.8860040Z","seconds":19.2148262,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004de5c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:57.9027880Z","seconds":19.2316078,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349298 tx_submit_us=111348 poll_us=114733","utc":"2026-11-01T08:50:57.9180333Z","seconds":19.2468542,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2285 rectified=2285 sent=2221 rectify_us=22736 aborted=1 dropped=62 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:58.8695684Z","seconds":20.1983883,"port":"COM3"}
+{"text":"NET rx_dma=2867 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:58.8852357Z","seconds":20.2140577,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:58.8853157Z","seconds":20.2141381,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=40304 service_gap_max_us=115 prepare_us=2 prepare_max_us=0 pacing_waits=34431","utc":"2026-11-01T08:50:58.8853450Z","seconds":20.2141674,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004ce9c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:58.9001362Z","seconds":20.2289579,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=332331 tx_submit_us=106003 poll_us=118446","utc":"2026-11-01T08:50:58.9160459Z","seconds":20.2448677,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2314 rectified=2313 sent=2249 rectify_us=22743 aborted=1 dropped=63 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:50:59.8714192Z","seconds":21.20024,"port":"COM3"}
+{"text":"NET rx_dma=2903 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:50:59.8717534Z","seconds":21.2005751,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:50:59.8851531Z","seconds":21.2139743,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36389 service_gap_max_us=114 prepare_us=3 prepare_max_us=0 pacing_waits=36231","utc":"2026-11-01T08:50:59.8853531Z","seconds":21.2141752,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004bedc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:50:59.9009759Z","seconds":21.229797,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349539 tx_submit_us=111567 poll_us=114732","utc":"2026-11-01T08:50:59.9246916Z","seconds":21.2535122,"port":"COM3"}
+{"text":"LCD_TOUCH reads=5803 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:51:00.2352128Z","seconds":21.5640347,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2343 rectified=2342 sent=2277 rectify_us=22733 aborted=1 dropped=64 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:00.8625741Z","seconds":22.191396,"port":"COM3"}
+{"text":"NET rx_dma=2939 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:00.8880510Z","seconds":22.2168729,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:00.8881507Z","seconds":22.2169731,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36273 service_gap_max_us=94 prepare_us=3 prepare_max_us=0 pacing_waits=36045","utc":"2026-11-01T08:51:00.8881869Z","seconds":22.2170094,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004af1c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:00.9033619Z","seconds":22.2321838,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347936 tx_submit_us=111067 poll_us=114133","utc":"2026-11-01T08:51:00.9186610Z","seconds":22.2474828,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2371 rectified=2370 sent=2305 rectify_us=22740 aborted=1 dropped=64 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:01.8683768Z","seconds":23.1971977,"port":"COM3"}
+{"text":"NET rx_dma=2975 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:01.8846818Z","seconds":23.2135029,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:01.8849171Z","seconds":23.2137392,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36434 service_gap_max_us=80 prepare_us=2 prepare_max_us=0 pacing_waits=36364","utc":"2026-11-01T08:51:01.9059339Z","seconds":23.2347559,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0049f5c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:01.9060341Z","seconds":23.2348565,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350783 tx_submit_us=111745 poll_us=115026","utc":"2026-11-01T08:51:01.9367604Z","seconds":23.2655816,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2400 rectified=2399 sent=2333 rectify_us=22746 aborted=1 dropped=65 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:02.8884706Z","seconds":24.2172915,"port":"COM3"}
+{"text":"NET rx_dma=3011 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:02.8887598Z","seconds":24.2175818,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:02.8889046Z","seconds":24.2177268,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36319 service_gap_max_us=118 prepare_us=3 prepare_max_us=0 pacing_waits=36153","utc":"2026-11-01T08:51:02.8890272Z","seconds":24.2178493,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0048f9c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:02.9193615Z","seconds":24.248182,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348821 tx_submit_us=111157 poll_us=114424","utc":"2026-11-01T08:51:02.9196773Z","seconds":24.2484994,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2428 rectified=2428 sent=2361 rectify_us=22754 aborted=1 dropped=66 flight=3 peer=1 session=be1169ab","utc":"2026-11-01T08:51:03.8736733Z","seconds":25.2024928,"port":"COM3"}
+{"text":"NET rx_dma=3046 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:03.8742039Z","seconds":25.2030248,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:03.9056958Z","seconds":25.2345168,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36316 service_gap_max_us=90 prepare_us=2 prepare_max_us=0 pacing_waits=36214","utc":"2026-11-01T08:51:03.9059544Z","seconds":25.2347765,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004804c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:03.9060653Z","seconds":25.2348876,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349508 tx_submit_us=111367 poll_us=114542","utc":"2026-11-01T08:51:03.9202050Z","seconds":25.249025,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2457 rectified=2456 sent=2389 rectify_us=22736 aborted=1 dropped=66 flight=3 peer=1 session=be1169ab","utc":"2026-11-01T08:51:04.8639533Z","seconds":26.1927751,"port":"COM3"}
+{"text":"NET rx_dma=3082 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:04.8800172Z","seconds":26.2088391,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:04.8801272Z","seconds":26.2089495,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36390 service_gap_max_us=80 prepare_us=3 prepare_max_us=0 pacing_waits=36225","utc":"2026-11-01T08:51:04.8957154Z","seconds":26.2245372,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004708c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:04.9111690Z","seconds":26.2399906,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349748 tx_submit_us=111790 poll_us=114786","utc":"2026-11-01T08:51:04.9113089Z","seconds":26.2401311,"port":"COM3"}
+{"text":"LCD_TOUCH reads=6161 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:51:05.2572625Z","seconds":26.5860841,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2486 rectified=2485 sent=2415 rectify_us=22754 aborted=1 dropped=68 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:05.8666685Z","seconds":27.19549,"port":"COM3"}
+{"text":"NET rx_dma=3118 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:05.8819232Z","seconds":27.2107444,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:05.8822157Z","seconds":27.2110377,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=38880 service_gap_max_us=85 prepare_us=2 prepare_max_us=0 pacing_waits=34785","utc":"2026-11-01T08:51:05.8981849Z","seconds":27.2270049,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d13c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:05.9130633Z","seconds":27.241885,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=335667 tx_submit_us=107072 poll_us=116822","utc":"2026-11-01T08:51:05.9132016Z","seconds":27.2420228,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2514 rectified=2513 sent=2443 rectify_us=22743 aborted=1 dropped=69 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:06.8660905Z","seconds":28.1949117,"port":"COM3"}
+{"text":"NET rx_dma=3154 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:06.8889820Z","seconds":28.2178033,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:06.8891726Z","seconds":28.2179948,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36417 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36327","utc":"2026-11-01T08:51:06.8892550Z","seconds":28.2180773,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004c17c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:06.9051455Z","seconds":28.2339669,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350569 tx_submit_us=111721 poll_us=114988","utc":"2026-11-01T08:51:06.9214157Z","seconds":28.2502371,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2543 rectified=2542 sent=2471 rectify_us=22759 aborted=1 dropped=69 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:07.8664117Z","seconds":29.1952336,"port":"COM3"}
+{"text":"NET rx_dma=3190 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:07.8820425Z","seconds":29.2108644,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:07.8821397Z","seconds":29.2109621,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36288 service_gap_max_us=80 prepare_us=2 prepare_max_us=0 pacing_waits=36140","utc":"2026-11-01T08:51:07.8969629Z","seconds":29.2257847,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004b1bc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:07.9125446Z","seconds":29.2413664,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348959 tx_submit_us=111179 poll_us=114423","utc":"2026-11-01T08:51:07.9126714Z","seconds":29.2414937,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2571 rectified=2571 sent=2499 rectify_us=22744 aborted=1 dropped=70 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:08.8693339Z","seconds":30.1981554,"port":"COM3"}
+{"text":"NET rx_dma=3226 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:08.8836113Z","seconds":30.2124334,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:08.8836865Z","seconds":30.2125089,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36375 service_gap_max_us=85 prepare_us=3 prepare_max_us=0 pacing_waits=36201","utc":"2026-11-01T08:51:08.8995453Z","seconds":30.2283669,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a1fc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:08.9153370Z","seconds":30.2441588,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349262 tx_submit_us=111321 poll_us=114591","utc":"2026-11-01T08:51:08.9154300Z","seconds":30.2442524,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2600 rectified=2599 sent=2527 rectify_us=22737 aborted=1 dropped=71 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:09.8687264Z","seconds":31.1975478,"port":"COM3"}
+{"text":"NET rx_dma=3262 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:09.8843338Z","seconds":31.2131552,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:09.8845647Z","seconds":31.2133863,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36296 service_gap_max_us=83 prepare_us=2 prepare_max_us=0 pacing_waits=36228","utc":"2026-11-01T08:51:09.9004110Z","seconds":31.2292307,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004923c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:09.9210605Z","seconds":31.2498805,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349637 tx_submit_us=111496 poll_us=114540","utc":"2026-11-01T08:51:09.9215112Z","seconds":31.250333,"port":"COM3"}
+{"text":"LCD_TOUCH reads=6518 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:51:10.2533576Z","seconds":31.582178,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2629 rectified=2628 sent=2555 rectify_us=22732 aborted=1 dropped=71 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:10.8702261Z","seconds":32.199047,"port":"COM3"}
+{"text":"NET rx_dma=3298 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:10.8852467Z","seconds":32.2140678,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:10.8854599Z","seconds":32.214282,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36306 service_gap_max_us=91 prepare_us=3 prepare_max_us=0 pacing_waits=36161","utc":"2026-11-01T08:51:10.8855674Z","seconds":32.2143896,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004827c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:10.9198807Z","seconds":32.2487015,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349059 tx_submit_us=111233 poll_us=114477","utc":"2026-11-01T08:51:10.9201467Z","seconds":32.2489688,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2657 rectified=2656 sent=2583 rectify_us=22745 aborted=1 dropped=72 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:11.8756583Z","seconds":33.2044793,"port":"COM3"}
+{"text":"NET rx_dma=3334 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:11.8759015Z","seconds":33.2047237,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:11.9029576Z","seconds":33.2317789,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36724 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36243","utc":"2026-11-01T08:51:11.9031501Z","seconds":33.2319723,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00472bc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:11.9032342Z","seconds":33.2320565,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349677 tx_submit_us=111358 poll_us=115230","utc":"2026-11-01T08:51:11.9190270Z","seconds":33.2478473,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2686 rectified=2685 sent=2611 rectify_us=22745 aborted=1 dropped=73 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:12.8702395Z","seconds":34.1990613,"port":"COM3"}
+{"text":"NET rx_dma=3370 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:12.8857457Z","seconds":34.2145677,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:12.8858303Z","seconds":34.2146527,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36227 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36129","utc":"2026-11-01T08:51:12.8858603Z","seconds":34.2146827,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d36c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:12.9047380Z","seconds":34.2335596,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348722 tx_submit_us=111187 poll_us=114298","utc":"2026-11-01T08:51:12.9167231Z","seconds":34.245545,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2714 rectified=2714 sent=2639 rectify_us=22739 aborted=1 dropped=73 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:13.8718469Z","seconds":35.2006676,"port":"COM3"}
+{"text":"NET rx_dma=3406 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:13.8721476Z","seconds":35.2009698,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:13.8875703Z","seconds":35.2163903,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36420 service_gap_max_us=81 prepare_us=2 prepare_max_us=0 pacing_waits=36247","utc":"2026-11-01T08:51:13.8878978Z","seconds":35.2167199,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004df3c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:13.9035197Z","seconds":35.2323403,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349790 tx_submit_us=111441 poll_us=114843","utc":"2026-11-01T08:51:13.9183590Z","seconds":35.2471804,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2743 rectified=2742 sent=2667 rectify_us=22745 aborted=1 dropped=74 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:14.8701992Z","seconds":36.199019,"port":"COM3"}
+{"text":"NET rx_dma=3442 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:14.8852814Z","seconds":36.2141027,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:14.8854759Z","seconds":36.214298,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36416 service_gap_max_us=91 prepare_us=3 prepare_max_us=0 pacing_waits=36211","utc":"2026-11-01T08:51:14.8855631Z","seconds":36.2143854,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004b3ec0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:14.9186225Z","seconds":36.2474437,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349172 tx_submit_us=111363 poll_us=114679","utc":"2026-11-01T08:51:14.9188174Z","seconds":36.2476396,"port":"COM3"}
+{"text":"LCD_TOUCH reads=6876 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:51:15.2534191Z","seconds":36.5822389,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2771 rectified=2771 sent=2695 rectify_us=22749 aborted=1 dropped=74 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:15.8694660Z","seconds":37.1982859,"port":"COM3"}
+{"text":"NET rx_dma=3478 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:15.8850061Z","seconds":37.213827,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:15.8852452Z","seconds":37.2140674,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36287 service_gap_max_us=80 prepare_us=2 prepare_max_us=0 pacing_waits=36220","utc":"2026-11-01T08:51:15.9003656Z","seconds":37.2291867,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a42c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:15.9203962Z","seconds":37.2492169,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348738 tx_submit_us=111354 poll_us=114455","utc":"2026-11-01T08:51:15.9206745Z","seconds":37.2494967,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2800 rectified=2799 sent=2723 rectify_us=22757 aborted=1 dropped=75 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:16.8710237Z","seconds":38.1998451,"port":"COM3"}
+{"text":"NET rx_dma=3514 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:16.8712394Z","seconds":38.2000613,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:16.8866657Z","seconds":38.2154869,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36523 service_gap_max_us=116 prepare_us=2 prepare_max_us=0 pacing_waits=36425","utc":"2026-11-01T08:51:16.8868445Z","seconds":38.2156667,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004946c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:16.9028715Z","seconds":38.231693,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350602 tx_submit_us=111925 poll_us=115229","utc":"2026-11-01T08:51:16.9172159Z","seconds":38.2460373,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2829 rectified=2828 sent=2750 rectify_us=22730 aborted=1 dropped=77 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:17.8678548Z","seconds":39.1966755,"port":"COM3"}
+{"text":"NET rx_dma=3550 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:17.8841514Z","seconds":39.2129725,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:17.8843685Z","seconds":39.2131906,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=38551 service_gap_max_us=87 prepare_us=2 prepare_max_us=0 pacing_waits=34939","utc":"2026-11-01T08:51:17.9086422Z","seconds":39.2374624,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00484ac0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:17.9089677Z","seconds":39.2377897,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=336301 tx_submit_us=107445 poll_us=116340","utc":"2026-11-01T08:51:17.9251791Z","seconds":39.254,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2857 rectified=2856 sent=2778 rectify_us=22744 aborted=1 dropped=77 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:18.8661989Z","seconds":40.1950186,"port":"COM3"}
+{"text":"NET rx_dma=3586 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:18.8913257Z","seconds":40.2201453,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:18.8917313Z","seconds":40.2205534,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36403 service_gap_max_us=81 prepare_us=2 prepare_max_us=0 pacing_waits=36332","utc":"2026-11-01T08:51:18.8918360Z","seconds":40.2206583,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00474ec0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:18.9226226Z","seconds":40.2514427,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350355 tx_submit_us=111793 poll_us=114762","utc":"2026-11-01T08:51:18.9230168Z","seconds":40.2518388,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2886 rectified=2885 sent=2806 rectify_us=22754 aborted=1 dropped=78 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:19.8697700Z","seconds":41.1985912,"port":"COM3"}
+{"text":"NET rx_dma=3622 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:19.8859857Z","seconds":41.2148068,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:19.8862328Z","seconds":41.2150549,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36417 service_gap_max_us=120 prepare_us=3 prepare_max_us=0 pacing_waits=36223","utc":"2026-11-01T08:51:19.8863390Z","seconds":41.2151613,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d59c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:19.9192286Z","seconds":41.2480497,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348711 tx_submit_us=111404 poll_us=114734","utc":"2026-11-01T08:51:19.9194677Z","seconds":41.2482899,"port":"COM3"}
+{"text":"LCD_TOUCH reads=7234 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:51:20.2537712Z","seconds":41.5825922,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2914 rectified=2914 sent=2834 rectify_us=22745 aborted=1 dropped=78 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:20.8866752Z","seconds":42.2154966,"port":"COM3"}
+{"text":"NET rx_dma=3658 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:20.8868503Z","seconds":42.2156708,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:20.8869225Z","seconds":42.2157448,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36392 service_gap_max_us=89 prepare_us=2 prepare_max_us=0 pacing_waits=36324","utc":"2026-11-01T08:51:20.8869888Z","seconds":42.2158112,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004c5dc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:20.9193699Z","seconds":42.2481911,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349437 tx_submit_us=111949 poll_us=114734","utc":"2026-11-01T08:51:20.9195833Z","seconds":42.2484054,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2943 rectified=2942 sent=2862 rectify_us=22756 aborted=1 dropped=79 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:21.8712564Z","seconds":43.2000778,"port":"COM3"}
+{"text":"NET rx_dma=3694 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:21.8863637Z","seconds":43.2151849,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:21.8866187Z","seconds":43.2154405,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36560 service_gap_max_us=116 prepare_us=2 prepare_max_us=0 pacing_waits=36356","utc":"2026-11-01T08:51:21.8867707Z","seconds":43.2155926,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004b61c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:21.9069894Z","seconds":43.2358106,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349760 tx_submit_us=111771 poll_us=114980","utc":"2026-11-01T08:51:21.9225168Z","seconds":43.2513381,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=2972 rectified=2971 sent=2890 rectify_us=22735 aborted=1 dropped=80 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:22.8900630Z","seconds":44.2188829,"port":"COM3"}
+{"text":"NET rx_dma=3730 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:22.8904723Z","seconds":44.2192941,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:22.8906475Z","seconds":44.2194697,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36255 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36112","utc":"2026-11-01T08:51:22.8907979Z","seconds":44.2196201,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a65c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:22.9203186Z","seconds":44.2491387,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347547 tx_submit_us=111018 poll_us=114113","utc":"2026-11-01T08:51:22.9207021Z","seconds":44.2495241,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3000 rectified=2999 sent=2918 rectify_us=22759 aborted=1 dropped=80 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:23.8690387Z","seconds":45.1978595,"port":"COM3"}
+{"text":"NET rx_dma=3766 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:23.8922165Z","seconds":45.2210372,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:23.8924955Z","seconds":45.2213175,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36525 service_gap_max_us=83 prepare_us=2 prepare_max_us=0 pacing_waits=36455","utc":"2026-11-01T08:51:23.8926136Z","seconds":45.2214358,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004969c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:23.9236898Z","seconds":45.2525096,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350490 tx_submit_us=112049 poll_us=115085","utc":"2026-11-01T08:51:23.9240525Z","seconds":45.2528745,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3029 rectified=3028 sent=2946 rectify_us=22741 aborted=1 dropped=81 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:24.8692470Z","seconds":46.1980679,"port":"COM3"}
+{"text":"NET rx_dma=3802 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:24.8848040Z","seconds":46.2136254,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:24.8849747Z","seconds":46.213797,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36419 service_gap_max_us=117 prepare_us=3 prepare_max_us=0 pacing_waits=36204","utc":"2026-11-01T08:51:24.9006031Z","seconds":46.2294245,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00486dc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:24.9263878Z","seconds":46.2552078,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347999 tx_submit_us=111351 poll_us=114510","utc":"2026-11-01T08:51:24.9267454Z","seconds":46.2555673,"port":"COM3"}
+{"text":"LCD_TOUCH reads=7591 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:51:25.2532609Z","seconds":46.582082,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3057 rectified=3057 sent=2974 rectify_us=22738 aborted=1 dropped=81 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:25.8721360Z","seconds":47.2009572,"port":"COM3"}
+{"text":"NET rx_dma=3838 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:25.8879590Z","seconds":47.2167799,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:25.8882111Z","seconds":47.2170331,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36501 service_gap_max_us=82 prepare_us=3 prepare_max_us=0 pacing_waits=36434","utc":"2026-11-01T08:51:25.8883199Z","seconds":47.2171421,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004771c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:25.9207079Z","seconds":47.2495277,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350142 tx_submit_us=112178 poll_us=115100","utc":"2026-11-01T08:51:25.9211120Z","seconds":47.249934,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3086 rectified=3085 sent=3002 rectify_us=22745 aborted=1 dropped=82 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:26.8713531Z","seconds":48.2001738,"port":"COM3"}
+{"text":"NET rx_dma=3874 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:26.8867700Z","seconds":48.2155903,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:26.8871097Z","seconds":48.2159309,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36542 service_gap_max_us=117 prepare_us=3 prepare_max_us=0 pacing_waits=36286","utc":"2026-11-01T08:51:26.8872922Z","seconds":48.2161142,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d7cc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:26.9257311Z","seconds":48.2545511,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348488 tx_submit_us=111516 poll_us=114763","utc":"2026-11-01T08:51:26.9261576Z","seconds":48.2549795,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3115 rectified=3114 sent=3030 rectify_us=22739 aborted=1 dropped=82 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:27.8704910Z","seconds":49.1993111,"port":"COM3"}
+{"text":"NET rx_dma=3910 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:27.8864163Z","seconds":49.2152365,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:27.8867273Z","seconds":49.2155494,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36260 service_gap_max_us=93 prepare_us=2 prepare_max_us=0 pacing_waits=36193","utc":"2026-11-01T08:51:27.9087076Z","seconds":49.2375277,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004c80c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:27.9090769Z","seconds":49.237898,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347969 tx_submit_us=111374 poll_us=114279","utc":"2026-11-01T08:51:27.9239504Z","seconds":49.2527719,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3143 rectified=3142 sent=3058 rectify_us=22745 aborted=1 dropped=83 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:28.8638516Z","seconds":50.1926729,"port":"COM3"}
+{"text":"NET rx_dma=3946 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:28.8791455Z","seconds":50.207967,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:28.8792879Z","seconds":50.2081102,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36621 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36510","utc":"2026-11-01T08:51:28.8941781Z","seconds":50.2229989,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004b84c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:28.9094044Z","seconds":50.238226,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350696 tx_submit_us=112199 poll_us=115383","utc":"2026-11-01T08:51:28.9102746Z","seconds":50.2390965,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3172 rectified=3171 sent=3086 rectify_us=22752 aborted=1 dropped=84 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:29.8704044Z","seconds":51.1992239,"port":"COM3"}
+{"text":"NET rx_dma=3982 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:29.8859575Z","seconds":51.2147773,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:29.8863135Z","seconds":51.2151357,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36416 service_gap_max_us=118 prepare_us=2 prepare_max_us=0 pacing_waits=36189","utc":"2026-11-01T08:51:29.9028101Z","seconds":51.2316312,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a88c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:29.9193456Z","seconds":51.2481654,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=346792 tx_submit_us=111343 poll_us=114447","utc":"2026-11-01T08:51:29.9197306Z","seconds":51.2485527,"port":"COM3"}
+{"text":"LCD_TOUCH reads=7948 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:51:30.2548175Z","seconds":51.5836382,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3200 rectified=3200 sent=3114 rectify_us=22744 aborted=1 dropped=84 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:30.8700612Z","seconds":52.1988826,"port":"COM3"}
+{"text":"NET rx_dma=4018 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:30.8861582Z","seconds":52.2149794,"port":"COM3"}
+{"text":"NET_TX pending=4 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:30.8863578Z","seconds":52.21518,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36580 service_gap_max_us=92 prepare_us=2 prepare_max_us=0 pacing_waits=36513","utc":"2026-11-01T08:51:30.9006907Z","seconds":52.229512,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00498cc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:30.9210661Z","seconds":52.2498827,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349496 tx_submit_us=112320 poll_us=115235","utc":"2026-11-01T08:51:30.9215639Z","seconds":52.2503853,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3229 rectified=3228 sent=3142 rectify_us=22743 aborted=1 dropped=85 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:31.8707496Z","seconds":53.1995696,"port":"COM3"}
+{"text":"NET rx_dma=4054 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:31.8862197Z","seconds":53.2150407,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:31.8864595Z","seconds":53.2152816,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36548 service_gap_max_us=83 prepare_us=3 prepare_max_us=0 pacing_waits=36264","utc":"2026-11-01T08:51:31.9023057Z","seconds":53.2311267,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004890c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:31.9244026Z","seconds":53.2532139,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347010 tx_submit_us=111532 poll_us=114632","utc":"2026-11-01T08:51:31.9247712Z","seconds":53.2535928,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3258 rectified=3257 sent=3170 rectify_us=22736 aborted=1 dropped=85 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:32.8654062Z","seconds":54.1942277,"port":"COM3"}
+{"text":"NET rx_dma=4090 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:32.8823172Z","seconds":54.2111385,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:32.8824936Z","seconds":54.2113158,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36531 service_gap_max_us=92 prepare_us=2 prepare_max_us=0 pacing_waits=36461","utc":"2026-11-01T08:51:32.8972849Z","seconds":54.2261063,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004794c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:32.9138277Z","seconds":54.2426486,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348536 tx_submit_us=112226 poll_us=115074","utc":"2026-11-01T08:51:32.9140728Z","seconds":54.2428949,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3286 rectified=3285 sent=3198 rectify_us=22744 aborted=1 dropped=86 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:33.8684019Z","seconds":55.1972221,"port":"COM3"}
+{"text":"NET rx_dma=4126 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:33.8830492Z","seconds":55.2118697,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:33.8833404Z","seconds":55.2121624,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36674 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36369","utc":"2026-11-01T08:51:33.9090761Z","seconds":55.2378965,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d9fc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:33.9093850Z","seconds":55.2382071,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347797 tx_submit_us=111933 poll_us=114968","utc":"2026-11-01T08:51:33.9250815Z","seconds":55.2539018,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3315 rectified=3314 sent=3226 rectify_us=22745 aborted=1 dropped=86 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:34.8706470Z","seconds":56.1994669,"port":"COM3"}
+{"text":"NET rx_dma=4162 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:34.8850933Z","seconds":56.2139129,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:34.8855523Z","seconds":56.2143733,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36556 service_gap_max_us=81 prepare_us=2 prepare_max_us=0 pacing_waits=36487","utc":"2026-11-01T08:51:34.9021991Z","seconds":56.2310206,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004ca3c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:34.9194013Z","seconds":56.2482222,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348835 tx_submit_us=112169 poll_us=115131","utc":"2026-11-01T08:51:34.9196915Z","seconds":56.2485134,"port":"COM3"}
+{"text":"LCD_TOUCH reads=8305 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:51:35.2554332Z","seconds":56.5842529,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3343 rectified=3343 sent=3254 rectify_us=22729 aborted=1 dropped=87 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:35.8698523Z","seconds":57.1986734,"port":"COM3"}
+{"text":"NET rx_dma=4198 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:35.8855312Z","seconds":57.2143523,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:35.8857247Z","seconds":57.2145469,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36559 service_gap_max_us=85 prepare_us=2 prepare_max_us=0 pacing_waits=36289","utc":"2026-11-01T08:51:35.9014757Z","seconds":57.2302969,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004ba7c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:35.9197620Z","seconds":57.2485833,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347060 tx_submit_us=111669 poll_us=114569","utc":"2026-11-01T08:51:35.9199398Z","seconds":57.2487621,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3372 rectified=3371 sent=3282 rectify_us=22733 aborted=1 dropped=87 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:36.8664795Z","seconds":58.1952991,"port":"COM3"}
+{"text":"NET rx_dma=4234 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:36.8917985Z","seconds":58.2206185,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:36.8921427Z","seconds":58.2209648,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36545 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36476","utc":"2026-11-01T08:51:36.8922929Z","seconds":58.221115,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004aabc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:36.9073646Z","seconds":58.2361856,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350306 tx_submit_us=112066 poll_us=115223","utc":"2026-11-01T08:51:36.9229939Z","seconds":58.2518144,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3400 rectified=3400 sent=3310 rectify_us=22750 aborted=1 dropped=88 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:37.8727983Z","seconds":59.2016195,"port":"COM3"}
+{"text":"NET rx_dma=4270 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:37.8872047Z","seconds":59.2160258,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:37.8874206Z","seconds":59.2162427,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36346 service_gap_max_us=92 prepare_us=2 prepare_max_us=0 pacing_waits=36170","utc":"2026-11-01T08:51:37.8875316Z","seconds":59.2163539,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0049afc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:37.9267797Z","seconds":59.2555997,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347810 tx_submit_us=111147 poll_us=114301","utc":"2026-11-01T08:51:37.9271099Z","seconds":59.255932,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3429 rectified=3428 sent=3339 rectify_us=22754 aborted=1 dropped=88 flight=3 peer=1 session=be1169ab","utc":"2026-11-01T08:51:38.8735841Z","seconds":60.202406,"port":"COM3"}
+{"text":"NET rx_dma=4306 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:38.8736905Z","seconds":60.2025128,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:38.8889591Z","seconds":60.2177808,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36619 service_gap_max_us=115 prepare_us=3 prepare_max_us=0 pacing_waits=36548","utc":"2026-11-01T08:51:38.8890788Z","seconds":60.217901,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0048b3c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:38.9043105Z","seconds":60.2331322,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=351227 tx_submit_us=112300 poll_us=115424","utc":"2026-11-01T08:51:38.9202735Z","seconds":60.249095,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3458 rectified=3457 sent=3366 rectify_us=22745 aborted=1 dropped=89 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:39.8698678Z","seconds":61.1986893,"port":"COM3"}
+{"text":"NET rx_dma=4342 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:39.8875806Z","seconds":61.2164021,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:39.8877532Z","seconds":61.2165754,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36368 service_gap_max_us=90 prepare_us=2 prepare_max_us=0 pacing_waits=36172","utc":"2026-11-01T08:51:39.8878285Z","seconds":61.2166509,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0047b7c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:39.9191950Z","seconds":61.2480165,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347485 tx_submit_us=111206 poll_us=114316","utc":"2026-11-01T08:51:39.9193608Z","seconds":61.248183,"port":"COM3"}
+{"text":"LCD_TOUCH reads=8663 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:51:40.2531084Z","seconds":61.5819298,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3486 rectified=3485 sent=3395 rectify_us=22761 aborted=1 dropped=89 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:40.8703214Z","seconds":62.1991426,"port":"COM3"}
+{"text":"NET rx_dma=4379 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:40.8863925Z","seconds":62.2152134,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:40.8867294Z","seconds":62.2155502,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36415 service_gap_max_us=92 prepare_us=3 prepare_max_us=0 pacing_waits=36346","utc":"2026-11-01T08:51:40.9024368Z","seconds":62.2312576,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004dbbc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:40.9200874Z","seconds":62.2489081,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349214 tx_submit_us=111720 poll_us=114726","utc":"2026-11-01T08:51:40.9203224Z","seconds":62.2491444,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3515 rectified=3514 sent=3423 rectify_us=22747 aborted=1 dropped=90 flight=3 peer=1 session=be1169ab","utc":"2026-11-01T08:51:41.8897112Z","seconds":63.2185321,"port":"COM3"}
+{"text":"NET rx_dma=4414 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:41.8899637Z","seconds":63.2187859,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:41.8900785Z","seconds":63.2189007,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36585 service_gap_max_us=119 prepare_us=2 prepare_max_us=0 pacing_waits=36382","utc":"2026-11-01T08:51:41.8901778Z","seconds":63.2190001,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004cc6c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:41.9209850Z","seconds":63.2498058,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349547 tx_submit_us=112036 poll_us=115057","utc":"2026-11-01T08:51:41.9212872Z","seconds":63.250109,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3543 rectified=3543 sent=3451 rectify_us=22745 aborted=1 dropped=91 flight=3 peer=1 session=be1169ab","utc":"2026-11-01T08:51:42.8674375Z","seconds":64.1962594,"port":"COM3"}
+{"text":"NET rx_dma=4450 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:42.8902575Z","seconds":64.2190787,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:42.8903937Z","seconds":64.2192161,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36455 service_gap_max_us=85 prepare_us=2 prepare_max_us=0 pacing_waits=36176","utc":"2026-11-01T08:51:42.8904366Z","seconds":64.219259,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004bcac0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:42.9210771Z","seconds":64.2498983,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347370 tx_submit_us=111546 poll_us=114365","utc":"2026-11-01T08:51:42.9212829Z","seconds":64.2501051,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3572 rectified=3571 sent=3479 rectify_us=22743 aborted=1 dropped=91 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:43.8725324Z","seconds":65.2013542,"port":"COM3"}
+{"text":"NET rx_dma=4487 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:43.8884182Z","seconds":65.2172401,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:43.8885154Z","seconds":65.2173378,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36553 service_gap_max_us=116 prepare_us=2 prepare_max_us=0 pacing_waits=36485","utc":"2026-11-01T08:51:43.8885495Z","seconds":65.2173719,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004ac7c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:43.9194589Z","seconds":65.2482806,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350234 tx_submit_us=112386 poll_us=115183","utc":"2026-11-01T08:51:43.9195813Z","seconds":65.2484036,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3601 rectified=3600 sent=3507 rectify_us=22741 aborted=1 dropped=92 flight=3 peer=1 session=be1169ab","utc":"2026-11-01T08:51:44.8695218Z","seconds":66.1983436,"port":"COM3"}
+{"text":"NET rx_dma=4522 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:44.8851677Z","seconds":66.2139897,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:44.8852718Z","seconds":66.2140941,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36378 service_gap_max_us=85 prepare_us=2 prepare_max_us=0 pacing_waits=36164","utc":"2026-11-01T08:51:44.9003979Z","seconds":66.2292199,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0049d2c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:44.9157466Z","seconds":66.2445685,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347187 tx_submit_us=111174 poll_us=114268","utc":"2026-11-01T08:51:44.9158546Z","seconds":66.244677,"port":"COM3"}
+{"text":"LCD_TOUCH reads=9020 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:51:45.2485003Z","seconds":66.577322,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3629 rectified=3628 sent=3535 rectify_us=22745 aborted=1 dropped=92 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:45.8699534Z","seconds":67.1987746,"port":"COM3"}
+{"text":"NET rx_dma=4559 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:45.8865615Z","seconds":67.2153827,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:45.8867356Z","seconds":67.2155578,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36606 service_gap_max_us=78 prepare_us=2 prepare_max_us=0 pacing_waits=36539","utc":"2026-11-01T08:51:45.9024351Z","seconds":67.2312549,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0048cfc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:45.9216950Z","seconds":67.2505152,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350798 tx_submit_us=112294 poll_us=115366","utc":"2026-11-01T08:51:45.9219891Z","seconds":67.2508113,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3658 rectified=3657 sent=3563 rectify_us=22752 aborted=1 dropped=93 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:46.8744679Z","seconds":68.2032885,"port":"COM3"}
+{"text":"NET rx_dma=4595 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:46.9043390Z","seconds":68.2331598,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:46.9046131Z","seconds":68.2334351,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36460 service_gap_max_us=118 prepare_us=4 prepare_max_us=0 pacing_waits=36253","utc":"2026-11-01T08:51:46.9047474Z","seconds":68.2335697,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0047d3c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:46.9215544Z","seconds":68.2503745,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348064 tx_submit_us=111431 poll_us=114683","utc":"2026-11-01T08:51:46.9218853Z","seconds":68.2507073,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3686 rectified=3686 sent=3591 rectify_us=22749 aborted=1 dropped=93 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:47.8722980Z","seconds":69.2011186,"port":"COM3"}
+{"text":"NET rx_dma=4631 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:47.8878071Z","seconds":69.2166279,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:47.8880669Z","seconds":69.216889,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36477 service_gap_max_us=82 prepare_us=3 prepare_max_us=0 pacing_waits=36408","utc":"2026-11-01T08:51:47.9019334Z","seconds":69.2307546,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004ddec0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:47.9273031Z","seconds":69.2561234,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349795 tx_submit_us=112038 poll_us=115008","utc":"2026-11-01T08:51:47.9276518Z","seconds":69.256474,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3715 rectified=3714 sent=3619 rectify_us=22733 aborted=1 dropped=94 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:48.8711833Z","seconds":70.2000046,"port":"COM3"}
+{"text":"NET rx_dma=4667 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:48.8859590Z","seconds":70.2147806,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:48.8861083Z","seconds":70.2149306,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36523 service_gap_max_us=117 prepare_us=3 prepare_max_us=0 pacing_waits=36322","utc":"2026-11-01T08:51:48.9017770Z","seconds":70.2305983,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004ce2c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:48.9170695Z","seconds":70.245891,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348971 tx_submit_us=111837 poll_us=114884","utc":"2026-11-01T08:51:48.9172477Z","seconds":70.2460699,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3743 rectified=3743 sent=3647 rectify_us=22748 aborted=1 dropped=95 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:49.8708969Z","seconds":71.1997169,"port":"COM3"}
+{"text":"NET rx_dma=4703 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:49.8864427Z","seconds":71.2152626,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:49.8867862Z","seconds":71.2156085,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36350 service_gap_max_us=94 prepare_us=2 prepare_max_us=0 pacing_waits=36235","utc":"2026-11-01T08:51:49.9021453Z","seconds":71.2309656,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004be6c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:49.9221950Z","seconds":71.2510148,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348001 tx_submit_us=111563 poll_us=114446","utc":"2026-11-01T08:51:49.9225821Z","seconds":71.2514041,"port":"COM3"}
+{"text":"LCD_TOUCH reads=9377 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:51:50.2545843Z","seconds":71.5834054,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3772 rectified=3771 sent=3675 rectify_us=22747 aborted=1 dropped=95 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:50.8709400Z","seconds":72.19976,"port":"COM3"}
+{"text":"NET rx_dma=4739 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:50.8884205Z","seconds":72.2172415,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:50.8887178Z","seconds":72.2175396,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36654 service_gap_max_us=116 prepare_us=2 prepare_max_us=0 pacing_waits=36451","utc":"2026-11-01T08:51:50.9044457Z","seconds":72.2332667,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004aeac0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:50.9205026Z","seconds":72.2493233,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349993 tx_submit_us=112061 poll_us=115222","utc":"2026-11-01T08:51:50.9207551Z","seconds":72.2495771,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3801 rectified=3800 sent=3703 rectify_us=22748 aborted=1 dropped=96 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:51.8724490Z","seconds":73.2012684,"port":"COM3"}
+{"text":"NET rx_dma=4775 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:51.8881713Z","seconds":73.216992,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:51.8884063Z","seconds":73.2172284,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36342 service_gap_max_us=117 prepare_us=2 prepare_max_us=0 pacing_waits=36127","utc":"2026-11-01T08:51:51.9106354Z","seconds":73.2394564,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0049eec0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:51.9108897Z","seconds":73.2397119,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=346993 tx_submit_us=111191 poll_us=114167","utc":"2026-11-01T08:51:51.9265385Z","seconds":73.2553561,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3829 rectified=3829 sent=3731 rectify_us=22741 aborted=1 dropped=96 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:52.8670349Z","seconds":74.1958563,"port":"COM3"}
+{"text":"NET rx_dma=4811 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:52.8831841Z","seconds":74.2120054,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:52.8833657Z","seconds":74.2121879,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36550 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36481","utc":"2026-11-01T08:51:52.8986237Z","seconds":74.227445,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0048f2c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:52.9159410Z","seconds":74.244762,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350284 tx_submit_us=112181 poll_us=115195","utc":"2026-11-01T08:51:52.9161576Z","seconds":74.2449799,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3858 rectified=3857 sent=3759 rectify_us=22750 aborted=1 dropped=97 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:53.8705513Z","seconds":75.1993722,"port":"COM3"}
+{"text":"NET rx_dma=4847 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:53.8858685Z","seconds":75.2146897,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:53.8860674Z","seconds":75.2148896,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36455 service_gap_max_us=83 prepare_us=2 prepare_max_us=0 pacing_waits=36258","utc":"2026-11-01T08:51:53.9018261Z","seconds":75.2306471,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0047f6c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:53.9172963Z","seconds":75.2461172,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348281 tx_submit_us=111752 poll_us=114640","utc":"2026-11-01T08:51:53.9175450Z","seconds":75.246367,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3887 rectified=3886 sent=3787 rectify_us=22750 aborted=1 dropped=97 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:54.8719000Z","seconds":76.2007209,"port":"COM3"}
+{"text":"NET rx_dma=4883 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:54.8889567Z","seconds":76.2177776,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:54.8892092Z","seconds":76.2180313,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36387 service_gap_max_us=93 prepare_us=2 prepare_max_us=0 pacing_waits=36319","utc":"2026-11-01T08:51:54.9030367Z","seconds":76.2318568,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0046fac0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:54.9216347Z","seconds":76.2504557,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348863 tx_submit_us=112019 poll_us=114616","utc":"2026-11-01T08:51:54.9218612Z","seconds":76.2506834,"port":"COM3"}
+{"text":"LCD_TOUCH reads=9735 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:51:55.2562539Z","seconds":76.5850747,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3915 rectified=3914 sent=3815 rectify_us=22762 aborted=1 dropped=98 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:55.8713148Z","seconds":77.2001356,"port":"COM3"}
+{"text":"NET rx_dma=4919 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:55.8872561Z","seconds":77.2160769,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:55.8875201Z","seconds":77.2163423,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36620 service_gap_max_us=90 prepare_us=2 prepare_max_us=0 pacing_waits=36420","utc":"2026-11-01T08:51:55.9055204Z","seconds":77.2343416,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d05c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:55.9220043Z","seconds":77.2508242,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349550 tx_submit_us=112077 poll_us=115122","utc":"2026-11-01T08:51:55.9224245Z","seconds":77.2512463,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3944 rectified=3943 sent=3843 rectify_us=22751 aborted=1 dropped=99 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:56.8668547Z","seconds":78.1956766,"port":"COM3"}
+{"text":"NET rx_dma=4955 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:56.8918709Z","seconds":78.2206923,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:56.8921083Z","seconds":78.2209296,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36268 service_gap_max_us=83 prepare_us=3 prepare_max_us=0 pacing_waits=36200","utc":"2026-11-01T08:51:56.8922306Z","seconds":78.2210526,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004c09c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:56.9066913Z","seconds":78.2355133,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347712 tx_submit_us=111621 poll_us=114182","utc":"2026-11-01T08:51:56.9225272Z","seconds":78.2513493,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=3972 rectified=3972 sent=3871 rectify_us=22740 aborted=1 dropped=99 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:57.8750807Z","seconds":79.2039015,"port":"COM3"}
+{"text":"NET rx_dma=4991 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:57.9046573Z","seconds":79.2334787,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:57.9048699Z","seconds":79.2336921,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36557 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36422","utc":"2026-11-01T08:51:57.9049543Z","seconds":79.2337766,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004b0dc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:57.9204616Z","seconds":79.249283,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349408 tx_submit_us=112136 poll_us=115164","utc":"2026-11-01T08:51:57.9206484Z","seconds":79.2494706,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4001 rectified=4000 sent=3899 rectify_us=22739 aborted=1 dropped=100 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:58.8709715Z","seconds":80.199793,"port":"COM3"}
+{"text":"NET rx_dma=5027 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:58.8877947Z","seconds":80.2166145,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:58.8880157Z","seconds":80.2168379,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36433 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36188","utc":"2026-11-01T08:51:58.9026422Z","seconds":80.2314632,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a11c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:58.9284965Z","seconds":80.2573164,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347739 tx_submit_us=111543 poll_us=114509","utc":"2026-11-01T08:51:58.9288373Z","seconds":80.2576594,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4029 rectified=4029 sent=3927 rectify_us=22742 aborted=1 dropped=100 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:51:59.8698142Z","seconds":81.1986362,"port":"COM3"}
+{"text":"NET rx_dma=5063 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:51:59.8854037Z","seconds":81.2142256,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:51:59.8855093Z","seconds":81.2143316,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36459 service_gap_max_us=82 prepare_us=3 prepare_max_us=0 pacing_waits=36388","utc":"2026-11-01T08:51:59.9013727Z","seconds":81.2301942,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004915c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:51:59.9191623Z","seconds":81.2479839,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349745 tx_submit_us=111886 poll_us=114869","utc":"2026-11-01T08:51:59.9192727Z","seconds":81.2480951,"port":"COM3"}
+{"text":"LCD_TOUCH reads=10092 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:52:00.2533225Z","seconds":81.5821442,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4058 rectified=4057 sent=3955 rectify_us=22755 aborted=1 dropped=101 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:00.8744856Z","seconds":82.2033075,"port":"COM3"}
+{"text":"NET rx_dma=5099 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:00.9058511Z","seconds":82.2346728,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:00.9059988Z","seconds":82.2348208,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36620 service_gap_max_us=116 prepare_us=2 prepare_max_us=0 pacing_waits=36325","utc":"2026-11-01T08:52:00.9060811Z","seconds":82.2349031,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004819c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:00.9061551Z","seconds":82.2349772,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348956 tx_submit_us=111797 poll_us=115004","utc":"2026-11-01T08:52:00.9301097Z","seconds":82.2589313,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4087 rectified=4086 sent=3983 rectify_us=22747 aborted=1 dropped=101 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:01.8891495Z","seconds":83.2179706,"port":"COM3"}
+{"text":"NET rx_dma=5135 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:01.8893492Z","seconds":83.2181714,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:01.8894422Z","seconds":83.2182645,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36376 service_gap_max_us=80 prepare_us=3 prepare_max_us=0 pacing_waits=36307","utc":"2026-11-01T08:52:01.9047198Z","seconds":83.2335412,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00471dc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:01.9192374Z","seconds":83.2480587,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348851 tx_submit_us=111864 poll_us=114621","utc":"2026-11-01T08:52:01.9194671Z","seconds":83.2482891,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4115 rectified=4114 sent=4011 rectify_us=22749 aborted=1 dropped=102 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:02.8729488Z","seconds":84.2017698,"port":"COM3"}
+{"text":"NET rx_dma=5171 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:02.8880912Z","seconds":84.2169123,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:02.8883388Z","seconds":84.217161,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36536 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36325","utc":"2026-11-01T08:52:02.9034741Z","seconds":84.2322953,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d28c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:02.9252354Z","seconds":84.2540567,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348926 tx_submit_us=111591 poll_us=114899","utc":"2026-11-01T08:52:02.9254135Z","seconds":84.2542352,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4144 rectified=4143 sent=4039 rectify_us=22736 aborted=1 dropped=103 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:03.8711508Z","seconds":85.1999722,"port":"COM3"}
+{"text":"NET rx_dma=5207 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:03.8863839Z","seconds":85.2152052,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:03.8865869Z","seconds":85.2154091,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36366 service_gap_max_us=118 prepare_us=2 prepare_max_us=0 pacing_waits=36298","utc":"2026-11-01T08:52:03.9091044Z","seconds":85.2379257,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004c2cc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:03.9093065Z","seconds":85.2381286,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348950 tx_submit_us=111694 poll_us=114673","utc":"2026-11-01T08:52:03.9240350Z","seconds":85.2528569,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4172 rectified=4172 sent=4067 rectify_us=22755 aborted=1 dropped=103 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:04.8899764Z","seconds":86.2187979,"port":"COM3"}
+{"text":"NET rx_dma=5243 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:04.8902146Z","seconds":86.2190368,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:04.8903424Z","seconds":86.2191646,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36528 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36350","utc":"2026-11-01T08:52:04.8904495Z","seconds":86.2192718,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004b30c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:04.9230675Z","seconds":86.2518882,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349310 tx_submit_us=111739 poll_us=115038","utc":"2026-11-01T08:52:04.9233647Z","seconds":86.2521863,"port":"COM3"}
+{"text":"LCD_TOUCH reads=10450 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:52:05.2538787Z","seconds":86.5826996,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4201 rectified=4200 sent=4095 rectify_us=22748 aborted=1 dropped=104 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:05.8705929Z","seconds":87.1994145,"port":"COM3"}
+{"text":"NET rx_dma=5279 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:05.8867304Z","seconds":87.2155516,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:05.8869825Z","seconds":87.2158041,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36458 service_gap_max_us=115 prepare_us=2 prepare_max_us=0 pacing_waits=36245","utc":"2026-11-01T08:52:05.9019805Z","seconds":87.2308017,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a34c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:05.9210876Z","seconds":87.2499085,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348411 tx_submit_us=111464 poll_us=114609","utc":"2026-11-01T08:52:05.9213184Z","seconds":87.2501407,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4230 rectified=4229 sent=4123 rectify_us=22749 aborted=1 dropped=104 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:06.8763454Z","seconds":88.2051664,"port":"COM3"}
+{"text":"NET rx_dma=5315 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:06.8919003Z","seconds":88.2207214,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:06.8921156Z","seconds":88.2209377,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36418 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36350","utc":"2026-11-01T08:52:06.8922121Z","seconds":88.2210343,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004938c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:06.9071039Z","seconds":88.2359249,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349339 tx_submit_us=111804 poll_us=114784","utc":"2026-11-01T08:52:06.9231309Z","seconds":88.2519521,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4258 rectified=4257 sent=4151 rectify_us=22749 aborted=1 dropped=105 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:07.8689909Z","seconds":89.1978119,"port":"COM3"}
+{"text":"NET rx_dma=5351 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:07.8861472Z","seconds":89.2149677,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:07.8864132Z","seconds":89.2152353,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36567 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36295","utc":"2026-11-01T08:52:07.9097995Z","seconds":89.2386206,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00483cc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:07.9100254Z","seconds":89.2388472,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348782 tx_submit_us=111533 poll_us=114832","utc":"2026-11-01T08:52:07.9252321Z","seconds":89.2540531,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4287 rectified=4286 sent=4179 rectify_us=22739 aborted=1 dropped=105 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:08.8770905Z","seconds":90.2059122,"port":"COM3"}
+{"text":"NET rx_dma=5387 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:08.8772103Z","seconds":90.2060326,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:08.8930395Z","seconds":90.2218608,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36409 service_gap_max_us=118 prepare_us=2 prepare_max_us=0 pacing_waits=36340","utc":"2026-11-01T08:52:08.8932012Z","seconds":90.2220235,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004740c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:08.9078989Z","seconds":90.2367205,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349348 tx_submit_us=111858 poll_us=114733","utc":"2026-11-01T08:52:08.9236910Z","seconds":90.2525126,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4315 rectified=4315 sent=4207 rectify_us=22749 aborted=1 dropped=106 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:09.8875168Z","seconds":91.2163382,"port":"COM3"}
+{"text":"NET rx_dma=5423 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:09.8877168Z","seconds":91.2165389,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:09.8878110Z","seconds":91.2166333,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36519 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36312","utc":"2026-11-01T08:52:09.9030588Z","seconds":91.2318803,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d4bc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:09.9213496Z","seconds":91.2501711,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349117 tx_submit_us=111781 poll_us=114811","utc":"2026-11-01T08:52:09.9215760Z","seconds":91.2503977,"port":"COM3"}
+{"text":"LCD_TOUCH reads=10807 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:52:10.2539617Z","seconds":91.5827834,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4344 rectified=4343 sent=4235 rectify_us=22736 aborted=1 dropped=107 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:10.8705819Z","seconds":92.1994037,"port":"COM3"}
+{"text":"NET rx_dma=5459 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:10.8852025Z","seconds":92.2140242,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:10.8853493Z","seconds":92.2141714,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36475 service_gap_max_us=117 prepare_us=2 prepare_max_us=0 pacing_waits=36238","utc":"2026-11-01T08:52:10.9003896Z","seconds":92.2292113,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004c4fc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:10.9202617Z","seconds":92.2490833,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348221 tx_submit_us=111430 poll_us=114581","utc":"2026-11-01T08:52:10.9203748Z","seconds":92.2491971,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4373 rectified=4372 sent=4262 rectify_us=22757 aborted=1 dropped=108 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:11.8762386Z","seconds":93.2050597,"port":"COM3"}
+{"text":"NET rx_dma=5495 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:11.8918159Z","seconds":93.2206373,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:11.8919999Z","seconds":93.2208216,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=38495 service_gap_max_us=90 prepare_us=2 prepare_max_us=0 pacing_waits=35134","utc":"2026-11-01T08:52:11.8920925Z","seconds":93.2209148,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004b53c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:11.9231372Z","seconds":93.2519587,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=337761 tx_submit_us=108181 poll_us=116413","utc":"2026-11-01T08:52:11.9233415Z","seconds":93.2521638,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4401 rectified=4400 sent=4289 rectify_us=22742 aborted=1 dropped=110 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:12.8756877Z","seconds":94.2045075,"port":"COM3"}
+{"text":"NET rx_dma=5531 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:12.9031439Z","seconds":94.2319652,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:12.9033339Z","seconds":94.2321561,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=38604 service_gap_max_us=92 prepare_us=2 prepare_max_us=0 pacing_waits=35239","utc":"2026-11-01T08:52:12.9034175Z","seconds":94.2322398,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a57c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:12.9183701Z","seconds":94.2471916,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=338738 tx_submit_us=108238 poll_us=116782","utc":"2026-11-01T08:52:12.9185410Z","seconds":94.2473633,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4430 rectified=4429 sent=4317 rectify_us=22742 aborted=1 dropped=110 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:13.8920234Z","seconds":95.2208445,"port":"COM3"}
+{"text":"NET rx_dma=5567 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:13.8922504Z","seconds":95.2210725,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:13.8923475Z","seconds":95.2211698,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36377 service_gap_max_us=119 prepare_us=2 prepare_max_us=0 pacing_waits=36306","utc":"2026-11-01T08:52:13.9220874Z","seconds":95.2509081,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00495bc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:13.9224310Z","seconds":95.2512529,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349118 tx_submit_us=111616 poll_us=114647","utc":"2026-11-01T08:52:13.9226322Z","seconds":95.2514544,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4458 rectified=4458 sent=4345 rectify_us=22736 aborted=1 dropped=111 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:14.8716369Z","seconds":96.2004585,"port":"COM3"}
+{"text":"NET rx_dma=5603 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:14.8868297Z","seconds":96.2156513,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:14.8869814Z","seconds":96.2158034,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36494 service_gap_max_us=92 prepare_us=3 prepare_max_us=0 pacing_waits=36185","utc":"2026-11-01T08:52:14.9018486Z","seconds":96.2306701,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00485fc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:14.9192732Z","seconds":96.248095,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347715 tx_submit_us=111376 poll_us=114505","utc":"2026-11-01T08:52:14.9194033Z","seconds":96.2482256,"port":"COM3"}
+{"text":"LCD_TOUCH reads=11165 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:52:15.2539894Z","seconds":96.5828111,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4487 rectified=4486 sent=4373 rectify_us=22733 aborted=1 dropped=111 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:15.8712149Z","seconds":97.2000367,"port":"COM3"}
+{"text":"NET rx_dma=5639 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:15.8861756Z","seconds":97.2149968,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:15.8863904Z","seconds":97.2152126,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36533 service_gap_max_us=78 prepare_us=3 prepare_max_us=0 pacing_waits=36466","utc":"2026-11-01T08:52:15.9017728Z","seconds":97.2305941,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004763c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:15.9223607Z","seconds":97.2511818,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350586 tx_submit_us=112137 poll_us=115098","utc":"2026-11-01T08:52:15.9225770Z","seconds":97.2513993,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4516 rectified=4515 sent=4401 rectify_us=22753 aborted=1 dropped=112 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:16.8700009Z","seconds":98.1988223,"port":"COM3"}
+{"text":"NET rx_dma=5675 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:16.8852453Z","seconds":98.2140669,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:16.8854019Z","seconds":98.2142241,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36358 service_gap_max_us=89 prepare_us=2 prepare_max_us=0 pacing_waits=36152","utc":"2026-11-01T08:52:16.9012596Z","seconds":98.2300806,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d6ec0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:16.9168187Z","seconds":98.2456394,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347452 tx_submit_us=111172 poll_us=114301","utc":"2026-11-01T08:52:16.9170506Z","seconds":98.2458726,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4544 rectified=4543 sent=4430 rectify_us=22753 aborted=1 dropped=112 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:17.8738544Z","seconds":99.2026759,"port":"COM3"}
+{"text":"NET rx_dma=5712 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:17.9057649Z","seconds":99.2345862,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:17.9059471Z","seconds":99.2347693,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36577 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36506","utc":"2026-11-01T08:52:17.9060244Z","seconds":99.2348468,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004c6bc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:17.9271286Z","seconds":99.25595,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350865 tx_submit_us=112245 poll_us=115419","utc":"2026-11-01T08:52:17.9273354Z","seconds":99.2561574,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4573 rectified=4572 sent=4457 rectify_us=22756 aborted=1 dropped=113 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:18.8768157Z","seconds":100.2056372,"port":"COM3"}
+{"text":"NET rx_dma=5747 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:18.8918727Z","seconds":100.2206946,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:18.8919615Z","seconds":100.2207839,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36417 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36217","utc":"2026-11-01T08:52:18.8919977Z","seconds":100.2208201,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004b76c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:18.9238634Z","seconds":100.252685,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348048 tx_submit_us=111353 poll_us=114524","utc":"2026-11-01T08:52:18.9240156Z","seconds":100.2528379,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4601 rectified=4600 sent=4486 rectify_us=22739 aborted=1 dropped=114 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:19.8715421Z","seconds":101.2003636,"port":"COM3"}
+{"text":"NET rx_dma=5783 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:19.8875828Z","seconds":101.2164045,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:19.8877303Z","seconds":101.2165526,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36429 service_gap_max_us=93 prepare_us=3 prepare_max_us=0 pacing_waits=36303","utc":"2026-11-01T08:52:19.9035169Z","seconds":101.2323383,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a7ac0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:19.9224672Z","seconds":101.2512885,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348954 tx_submit_us=111668 poll_us=114683","utc":"2026-11-01T08:52:19.9226611Z","seconds":101.2514833,"port":"COM3"}
+{"text":"LCD_TOUCH reads=11523 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:52:20.2549256Z","seconds":101.5837474,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4630 rectified=4629 sent=4514 rectify_us=22748 aborted=1 dropped=114 flight=3 peer=1 session=be1169ab","utc":"2026-11-01T08:52:20.8705131Z","seconds":102.1993348,"port":"COM3"}
+{"text":"NET rx_dma=5819 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:20.8860324Z","seconds":102.214854,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:20.8861749Z","seconds":102.2149972,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36463 service_gap_max_us=103 prepare_us=2 prepare_max_us=0 pacing_waits=36383","utc":"2026-11-01T08:52:20.9008816Z","seconds":102.2297033,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00497ec0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:20.9109210Z","seconds":102.2397424,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349610 tx_submit_us=111886 poll_us=114973","utc":"2026-11-01T08:52:20.9369209Z","seconds":102.2657428,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4658 rectified=4658 sent=4541 rectify_us=22738 aborted=1 dropped=116 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:21.8908413Z","seconds":103.2196616,"port":"COM3"}
+{"text":"NET rx_dma=5856 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:21.8911518Z","seconds":103.2199734,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:21.8912886Z","seconds":103.2201108,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=38421 service_gap_max_us=86 prepare_us=2 prepare_max_us=0 pacing_waits=35221","utc":"2026-11-01T08:52:21.9286383Z","seconds":103.2574584,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00487bc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:21.9289591Z","seconds":103.2577812,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=338518 tx_submit_us=108370 poll_us=116584","utc":"2026-11-01T08:52:21.9291006Z","seconds":103.2579228,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4687 rectified=4686 sent=4569 rectify_us=22736 aborted=1 dropped=116 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:22.8754959Z","seconds":104.2043161,"port":"COM3"}
+{"text":"NET rx_dma=5892 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:22.9064509Z","seconds":104.2352711,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:22.9067826Z","seconds":104.2356046,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36592 service_gap_max_us=120 prepare_us=2 prepare_max_us=0 pacing_waits=36409","utc":"2026-11-01T08:52:22.9069482Z","seconds":104.2357704,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00477fc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:22.9380728Z","seconds":104.2668929,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349764 tx_submit_us=111941 poll_us=115242","utc":"2026-11-01T08:52:22.9384629Z","seconds":104.2672847,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4716 rectified=4715 sent=4597 rectify_us=22737 aborted=1 dropped=117 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:23.8913698Z","seconds":105.2201898,"port":"COM3"}
+{"text":"NET rx_dma=5928 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:23.8917689Z","seconds":105.2205909,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:23.8919349Z","seconds":105.220757,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36361 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36088","utc":"2026-11-01T08:52:23.9218201Z","seconds":105.2506406,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d8ac0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:23.9221291Z","seconds":105.2509511,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=346944 tx_submit_us=111042 poll_us=114214","utc":"2026-11-01T08:52:23.9222936Z","seconds":105.2511159,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4744 rectified=4743 sent=4625 rectify_us=22736 aborted=1 dropped=117 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:24.8731405Z","seconds":106.2019617,"port":"COM3"}
+{"text":"NET rx_dma=5964 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:24.8899131Z","seconds":106.2187339,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:24.8901718Z","seconds":106.2189939,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36528 service_gap_max_us=81 prepare_us=2 prepare_max_us=0 pacing_waits=36460","utc":"2026-11-01T08:52:24.9231206Z","seconds":106.2519415,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004c8ec0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:24.9233292Z","seconds":106.2521514,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350523 tx_submit_us=112066 poll_us=115078","utc":"2026-11-01T08:52:24.9234265Z","seconds":106.2522488,"port":"COM3"}
+{"text":"LCD_TOUCH reads=11880 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:52:25.2602132Z","seconds":106.5890346,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4773 rectified=4772 sent=4653 rectify_us=22746 aborted=1 dropped=118 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:25.8724275Z","seconds":107.2012489,"port":"COM3"}
+{"text":"NET rx_dma=6000 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:25.8874966Z","seconds":107.2163186,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:25.8875683Z","seconds":107.2163906,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36446 service_gap_max_us=118 prepare_us=2 prepare_max_us=0 pacing_waits=36243","utc":"2026-11-01T08:52:25.9035651Z","seconds":107.2323871,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004b92c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:25.9221128Z","seconds":107.2509343,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348573 tx_submit_us=111491 poll_us=114609","utc":"2026-11-01T08:52:25.9222793Z","seconds":107.2511016,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4801 rectified=4801 sent=4681 rectify_us=22753 aborted=1 dropped=118 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:26.8776942Z","seconds":108.2065156,"port":"COM3"}
+{"text":"NET rx_dma=6036 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:26.8927673Z","seconds":108.221589,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:26.8928999Z","seconds":108.2217222,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36419 service_gap_max_us=82 prepare_us=3 prepare_max_us=0 pacing_waits=36350","utc":"2026-11-01T08:52:26.8929686Z","seconds":108.2217909,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a96c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:26.9231133Z","seconds":108.2519348,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349521 tx_submit_us=111893 poll_us=114851","utc":"2026-11-01T08:52:26.9232575Z","seconds":108.2520797,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4830 rectified=4829 sent=4709 rectify_us=22756 aborted=1 dropped=119 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:27.8810314Z","seconds":109.2098523,"port":"COM3"}
+{"text":"NET rx_dma=6072 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:27.8814039Z","seconds":109.210226,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:27.8947520Z","seconds":109.2235723,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36533 service_gap_max_us=116 prepare_us=2 prepare_max_us=0 pacing_waits=36368","utc":"2026-11-01T08:52:27.8950539Z","seconds":109.2238761,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00499ac0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:27.9270163Z","seconds":109.2558368,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349663 tx_submit_us=111691 poll_us=114942","utc":"2026-11-01T08:52:27.9273350Z","seconds":109.256157,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4859 rectified=4858 sent=4737 rectify_us=22731 aborted=1 dropped=120 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:28.8793745Z","seconds":110.2081961,"port":"COM3"}
+{"text":"NET rx_dma=6108 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:28.8795520Z","seconds":110.2083742,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:28.8958259Z","seconds":110.2246473,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36398 service_gap_max_us=83 prepare_us=2 prepare_max_us=0 pacing_waits=36113","utc":"2026-11-01T08:52:28.8960118Z","seconds":110.224834,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00489ec0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:28.9103336Z","seconds":110.2391535,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347248 tx_submit_us=111041 poll_us=114274","utc":"2026-11-01T08:52:28.9270743Z","seconds":110.2558953,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4887 rectified=4886 sent=4765 rectify_us=22735 aborted=1 dropped=120 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:29.8731163Z","seconds":111.2019372,"port":"COM3"}
+{"text":"NET rx_dma=6144 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:29.8897629Z","seconds":111.2185824,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:29.8899932Z","seconds":111.2188155,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36539 service_gap_max_us=82 prepare_us=3 prepare_max_us=0 pacing_waits=36469","utc":"2026-11-01T08:52:29.9240238Z","seconds":111.252845,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0047a2c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:29.9242306Z","seconds":111.2530527,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350468 tx_submit_us=112142 poll_us=115111","utc":"2026-11-01T08:52:29.9243273Z","seconds":111.2531496,"port":"COM3"}
+{"text":"LCD_TOUCH reads=12237 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:52:30.2588520Z","seconds":111.587673,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4916 rectified=4915 sent=4793 rectify_us=22746 aborted=1 dropped=121 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:30.8736428Z","seconds":112.2024641,"port":"COM3"}
+{"text":"NET rx_dma=6180 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:30.8884482Z","seconds":112.2172698,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:30.8885893Z","seconds":112.2174116,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36338 service_gap_max_us=118 prepare_us=3 prepare_max_us=0 pacing_waits=36169","utc":"2026-11-01T08:52:30.9041617Z","seconds":112.2329833,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004dadc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:30.9240386Z","seconds":112.2528595,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348079 tx_submit_us=111431 poll_us=114446","utc":"2026-11-01T08:52:30.9242886Z","seconds":112.2531107,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4944 rectified=4944 sent=4821 rectify_us=22732 aborted=1 dropped=121 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:31.8789942Z","seconds":113.2078152,"port":"COM3"}
+{"text":"NET rx_dma=6216 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:31.8939522Z","seconds":113.2227733,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:31.8942320Z","seconds":113.2230539,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36475 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36405","utc":"2026-11-01T08:52:31.9094226Z","seconds":113.2382438,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004cb1c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:31.9248055Z","seconds":113.2536262,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349988 tx_submit_us=112083 poll_us=115095","utc":"2026-11-01T08:52:31.9250788Z","seconds":113.2539008,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=4973 rectified=4972 sent=4849 rectify_us=22732 aborted=1 dropped=122 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:32.8811688Z","seconds":114.2099904,"port":"COM3"}
+{"text":"NET rx_dma=6252 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:32.8813296Z","seconds":114.2101516,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:32.8971540Z","seconds":114.2259757,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36537 service_gap_max_us=118 prepare_us=2 prepare_max_us=0 pacing_waits=36287","utc":"2026-11-01T08:52:32.8972940Z","seconds":114.2261163,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004bb5c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:32.9127776Z","seconds":114.2415991,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348904 tx_submit_us=111569 poll_us=114820","utc":"2026-11-01T08:52:32.9399000Z","seconds":114.2687212,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5001 rectified=5001 sent=4877 rectify_us=22745 aborted=1 dropped=123 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:33.8735813Z","seconds":115.2024032,"port":"COM3"}
+{"text":"NET rx_dma=6288 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:33.8894179Z","seconds":115.21824,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:33.8894912Z","seconds":115.2183136,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36328 service_gap_max_us=83 prepare_us=2 prepare_max_us=0 pacing_waits=36214","utc":"2026-11-01T08:52:33.9052911Z","seconds":115.2341131,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004ab9c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:33.9266093Z","seconds":115.2554313,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348285 tx_submit_us=111454 poll_us=114502","utc":"2026-11-01T08:52:33.9266863Z","seconds":115.2555086,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5030 rectified=5029 sent=4905 rectify_us=22730 aborted=1 dropped=123 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:34.8728536Z","seconds":116.2016755,"port":"COM3"}
+{"text":"NET rx_dma=6324 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:34.8872056Z","seconds":116.2160271,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:34.8873386Z","seconds":116.2161609,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36589 service_gap_max_us=115 prepare_us=2 prepare_max_us=0 pacing_waits=36421","utc":"2026-11-01T08:52:34.9034432Z","seconds":116.2322645,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0049bdc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:34.9227301Z","seconds":116.2515519,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350107 tx_submit_us=111968 poll_us=115239","utc":"2026-11-01T08:52:34.9228463Z","seconds":116.2516685,"port":"COM3"}
+{"text":"LCD_TOUCH reads=12595 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:52:35.2569655Z","seconds":116.5857864,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5059 rectified=5058 sent=4933 rectify_us=22738 aborted=1 dropped=124 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:35.8876768Z","seconds":117.2164986,"port":"COM3"}
+{"text":"NET rx_dma=6360 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:35.8877702Z","seconds":117.2165926,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:35.8878006Z","seconds":117.216623,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36322 service_gap_max_us=118 prepare_us=3 prepare_max_us=0 pacing_waits=36143","utc":"2026-11-01T08:52:35.9032567Z","seconds":117.2320787,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0048c1c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:35.9189125Z","seconds":117.2477344,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347391 tx_submit_us=111123 poll_us=114194","utc":"2026-11-01T08:52:35.9190123Z","seconds":117.2478346,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5087 rectified=5087 sent=4961 rectify_us=22733 aborted=1 dropped=124 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:36.8757708Z","seconds":118.2045922,"port":"COM3"}
+{"text":"NET rx_dma=6396 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:36.8909057Z","seconds":118.2197272,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:36.8910775Z","seconds":118.2198997,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36480 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36409","utc":"2026-11-01T08:52:36.9222888Z","seconds":118.2511103,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0047c5c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:36.9224535Z","seconds":118.2512758,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350720 tx_submit_us=111966 poll_us=114974","utc":"2026-11-01T08:52:36.9225362Z","seconds":118.2513585,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5116 rectified=5115 sent=4989 rectify_us=22736 aborted=1 dropped=125 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:37.8740990Z","seconds":119.20292,"port":"COM3"}
+{"text":"NET rx_dma=6432 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:37.9052798Z","seconds":119.2341004,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:37.9056426Z","seconds":119.2344646,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36459 service_gap_max_us=92 prepare_us=2 prepare_max_us=0 pacing_waits=36214","utc":"2026-11-01T08:52:37.9057590Z","seconds":119.2345812,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004dd0c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:37.9295200Z","seconds":119.2583412,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349038 tx_submit_us=111382 poll_us=114755","utc":"2026-11-01T08:52:37.9297206Z","seconds":119.2585429,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5145 rectified=5144 sent=5017 rectify_us=22721 aborted=1 dropped=126 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:38.8793136Z","seconds":120.2081341,"port":"COM3"}
+{"text":"NET rx_dma=6468 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:38.8960400Z","seconds":120.2248605,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:38.8963076Z","seconds":120.2251298,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36306 service_gap_max_us=88 prepare_us=2 prepare_max_us=0 pacing_waits=36098","utc":"2026-11-01T08:52:38.8964179Z","seconds":120.2252402,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004cd4c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:38.9265133Z","seconds":120.2553332,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347801 tx_submit_us=111058 poll_us=114173","utc":"2026-11-01T08:52:38.9269053Z","seconds":120.2557272,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5173 rectified=5172 sent=5045 rectify_us=22742 aborted=1 dropped=126 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:39.8743389Z","seconds":121.2031594,"port":"COM3"}
+{"text":"NET rx_dma=6504 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:39.8902485Z","seconds":121.2190697,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:39.8904515Z","seconds":121.2192738,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36502 service_gap_max_us=81 prepare_us=2 prepare_max_us=0 pacing_waits=36433","utc":"2026-11-01T08:52:39.9250814Z","seconds":121.2539021,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004bd8c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:39.9253363Z","seconds":121.2541584,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=351162 tx_submit_us=111988 poll_us=115184","utc":"2026-11-01T08:52:39.9254580Z","seconds":121.2542802,"port":"COM3"}
+{"text":"LCD_TOUCH reads=12952 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:52:40.2576260Z","seconds":121.586446,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5202 rectified=5201 sent=5073 rectify_us=22756 aborted=1 dropped=127 flight=3 peer=1 session=be1169ab","utc":"2026-11-01T08:52:40.8883890Z","seconds":122.2172103,"port":"COM3"}
+{"text":"NET rx_dma=6539 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:40.8885873Z","seconds":122.2174095,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:40.8886684Z","seconds":122.2174908,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36421 service_gap_max_us=94 prepare_us=3 prepare_max_us=0 pacing_waits=36085","utc":"2026-11-01T08:52:40.9025756Z","seconds":122.231397,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004ae3c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:40.9240464Z","seconds":122.2528677,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347665 tx_submit_us=111024 poll_us=114352","utc":"2026-11-01T08:52:40.9242347Z","seconds":122.253057,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5230 rectified=5230 sent=5101 rectify_us=22743 aborted=1 dropped=127 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:41.8974551Z","seconds":123.2262757,"port":"COM3"}
+{"text":"NET rx_dma=6576 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:41.8977314Z","seconds":123.2265534,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:41.8978532Z","seconds":123.2266754,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36323 service_gap_max_us=84 prepare_us=2 prepare_max_us=0 pacing_waits=36257","utc":"2026-11-01T08:52:41.8979583Z","seconds":123.2267806,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0049e0c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:41.9122461Z","seconds":123.2410666,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349430 tx_submit_us=111583 poll_us=114538","utc":"2026-11-01T08:52:41.9279326Z","seconds":123.2567531,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5259 rectified=5258 sent=5129 rectify_us=22745 aborted=1 dropped=128 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:42.8796534Z","seconds":124.2084736,"port":"COM3"}
+{"text":"NET rx_dma=6612 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:42.8945470Z","seconds":124.2233673,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:42.8949065Z","seconds":124.2237281,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36438 service_gap_max_us=81 prepare_us=2 prepare_max_us=0 pacing_waits=36318","utc":"2026-11-01T08:52:42.9102399Z","seconds":124.2390607,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0048e4c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:42.9272305Z","seconds":124.2560509,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350160 tx_submit_us=111693 poll_us=114869","utc":"2026-11-01T08:52:42.9275510Z","seconds":124.256373,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5287 rectified=5287 sent=5156 rectify_us=22750 aborted=1 dropped=129 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:43.8792694Z","seconds":125.2080894,"port":"COM3"}
+{"text":"NET rx_dma=6647 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:43.8930267Z","seconds":125.2218485,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:43.8931447Z","seconds":125.221967,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36347 service_gap_max_us=84 prepare_us=2 prepare_max_us=0 pacing_waits=36061","utc":"2026-11-01T08:52:43.9096793Z","seconds":125.2385007,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=0047efc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:43.9257809Z","seconds":125.2546019,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347702 tx_submit_us=110885 poll_us=114246","utc":"2026-11-01T08:52:43.9260067Z","seconds":125.2548289,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5316 rectified=5315 sent=5184 rectify_us=22745 aborted=1 dropped=129 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:44.8910058Z","seconds":126.2198272,"port":"COM3"}
+{"text":"NET rx_dma=6683 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:44.8912743Z","seconds":126.2200966,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:44.8913623Z","seconds":126.2201847,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36475 service_gap_max_us=116 prepare_us=2 prepare_max_us=0 pacing_waits=36406","utc":"2026-11-01T08:52:44.9252326Z","seconds":126.2540539,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004dfac0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:44.9254213Z","seconds":126.2542436,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350892 tx_submit_us=112221 poll_us=115082","utc":"2026-11-01T08:52:44.9255060Z","seconds":126.2543283,"port":"COM3"}
+{"text":"LCD_TOUCH reads=13310 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:52:45.2577565Z","seconds":126.5865776,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5345 rectified=5344 sent=5212 rectify_us=22741 aborted=1 dropped=130 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:45.8736994Z","seconds":127.2025194,"port":"COM3"}
+{"text":"NET rx_dma=6719 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:45.8897774Z","seconds":127.2185985,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:45.8899809Z","seconds":127.2188031,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36324 service_gap_max_us=91 prepare_us=3 prepare_max_us=0 pacing_waits=36136","utc":"2026-11-01T08:52:45.9040566Z","seconds":127.2328779,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004cfec0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:45.9251647Z","seconds":127.2539856,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348363 tx_submit_us=111340 poll_us=114439","utc":"2026-11-01T08:52:45.9254323Z","seconds":127.2542544,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5373 rectified=5372 sent=5240 rectify_us=22747 aborted=1 dropped=131 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:46.8775704Z","seconds":128.2063913,"port":"COM3"}
+{"text":"NET rx_dma=6756 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:46.8925175Z","seconds":128.2213386,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:46.8927477Z","seconds":128.2215698,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=37250 service_gap_max_us=83 prepare_us=2 prepare_max_us=0 pacing_waits=35676","utc":"2026-11-01T08:52:46.9080734Z","seconds":128.2368945,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004bfbc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:46.9243126Z","seconds":128.2531332,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=343976 tx_submit_us=109899 poll_us=115233","utc":"2026-11-01T08:52:46.9246070Z","seconds":128.2534292,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5402 rectified=5401 sent=5268 rectify_us=22733 aborted=1 dropped=132 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:47.8918266Z","seconds":129.2206473,"port":"COM3"}
+{"text":"NET rx_dma=6792 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:47.8921602Z","seconds":129.2209817,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:47.8922938Z","seconds":129.2211161,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36383 service_gap_max_us=118 prepare_us=2 prepare_max_us=0 pacing_waits=36190","utc":"2026-11-01T08:52:47.9313846Z","seconds":129.2602048,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004affc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:47.9317624Z","seconds":129.2605839,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348975 tx_submit_us=111325 poll_us=114660","utc":"2026-11-01T08:52:47.9319268Z","seconds":129.260749,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5430 rectified=5430 sent=5296 rectify_us=22740 aborted=1 dropped=132 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:48.8728824Z","seconds":130.2017042,"port":"COM3"}
+{"text":"NET rx_dma=6828 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:48.9048985Z","seconds":130.2337204,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:48.9049918Z","seconds":130.2338142,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36341 service_gap_max_us=80 prepare_us=2 prepare_max_us=0 pacing_waits=36272","utc":"2026-11-01T08:52:48.9050217Z","seconds":130.2338441,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a03c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:48.9206796Z","seconds":130.2495011,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349698 tx_submit_us=111566 poll_us=114692","utc":"2026-11-01T08:52:48.9208250Z","seconds":130.2496473,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5459 rectified=5458 sent=5324 rectify_us=22733 aborted=1 dropped=133 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:49.8777429Z","seconds":131.2065638,"port":"COM3"}
+{"text":"NET rx_dma=6864 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:49.8920710Z","seconds":131.220892,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:49.8923261Z","seconds":131.2211481,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36446 service_gap_max_us=114 prepare_us=2 prepare_max_us=0 pacing_waits=36303","utc":"2026-11-01T08:52:49.9080770Z","seconds":131.236898,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004907c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:49.9254125Z","seconds":131.2542334,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349982 tx_submit_us=111811 poll_us=114806","utc":"2026-11-01T08:52:49.9256621Z","seconds":131.2544842,"port":"COM3"}
+{"text":"LCD_TOUCH reads=13667 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:52:50.2589996Z","seconds":131.5878194,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5488 rectified=5487 sent=5352 rectify_us=22743 aborted=1 dropped=134 flight=3 peer=1 session=be1169ab","utc":"2026-11-01T08:52:50.8748933Z","seconds":132.2037145,"port":"COM3"}
+{"text":"NET rx_dma=6899 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:50.8898783Z","seconds":132.2186995,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:50.8901154Z","seconds":132.2189375,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36232 service_gap_max_us=92 prepare_us=2 prepare_max_us=0 pacing_waits=36012","utc":"2026-11-01T08:52:50.9054323Z","seconds":132.2342536,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004812c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:50.9252048Z","seconds":132.2540261,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347451 tx_submit_us=110934 poll_us=114087","utc":"2026-11-01T08:52:50.9253957Z","seconds":132.2542179,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5516 rectified=5515 sent=5380 rectify_us=22750 aborted=1 dropped=134 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:51.8778150Z","seconds":133.2066361,"port":"COM3"}
+{"text":"NET rx_dma=6936 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:51.8930095Z","seconds":133.2218307,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:51.8932108Z","seconds":133.222033,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36487 service_gap_max_us=79 prepare_us=2 prepare_max_us=0 pacing_waits=36417","utc":"2026-11-01T08:52:51.9082490Z","seconds":133.2370705,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00470fc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:51.9242647Z","seconds":133.2530863,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=351025 tx_submit_us=111956 poll_us=115011","utc":"2026-11-01T08:52:51.9244096Z","seconds":133.2532319,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5545 rectified=5544 sent=5408 rectify_us=22750 aborted=1 dropped=135 flight=3 peer=1 session=be1169ab","utc":"2026-11-01T08:52:52.8837991Z","seconds":134.2126208,"port":"COM3"}
+{"text":"NET rx_dma=6971 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:52.8839552Z","seconds":134.2127774,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:52.8991434Z","seconds":134.227965,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36378 service_gap_max_us=119 prepare_us=2 prepare_max_us=0 pacing_waits=36177","utc":"2026-11-01T08:52:52.8992765Z","seconds":134.2280988,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d21c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:52.9140185Z","seconds":134.24284,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348885 tx_submit_us=111469 poll_us=114525","utc":"2026-11-01T08:52:52.9313482Z","seconds":134.2601695,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5573 rectified=5573 sent=5435 rectify_us=22730 aborted=1 dropped=136 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:53.8766699Z","seconds":135.2054896,"port":"COM3"}
+{"text":"NET rx_dma=7008 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:53.8922067Z","seconds":135.2210278,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:53.8924403Z","seconds":135.2212624,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=37476 service_gap_max_us=88 prepare_us=2 prepare_max_us=0 pacing_waits=35592","utc":"2026-11-01T08:52:53.9226980Z","seconds":135.251519,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004c1ec0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:53.9229351Z","seconds":135.2517572,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=343140 tx_submit_us=109592 poll_us=115646","utc":"2026-11-01T08:52:53.9230615Z","seconds":135.2518836,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5602 rectified=5601 sent=5463 rectify_us=22743 aborted=1 dropped=137 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:54.8900035Z","seconds":136.2188248,"port":"COM3"}
+{"text":"NET rx_dma=7044 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:54.8902424Z","seconds":136.2190643,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:54.8903552Z","seconds":136.2191775,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36371 service_gap_max_us=115 prepare_us=2 prepare_max_us=0 pacing_waits=36180","utc":"2026-11-01T08:52:54.9257557Z","seconds":136.2545767,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004b22c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:54.9259759Z","seconds":136.2547981,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=348791 tx_submit_us=111349 poll_us=114471","utc":"2026-11-01T08:52:54.9260813Z","seconds":136.2549036,"port":"COM3"}
+{"text":"LCD_TOUCH reads=14024 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:52:55.2603939Z","seconds":136.5892144,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5631 rectified=5630 sent=5491 rectify_us=22750 aborted=1 dropped=137 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:55.8763121Z","seconds":137.2051308,"port":"COM3"}
+{"text":"NET rx_dma=7080 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:55.8916844Z","seconds":137.2205058,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:55.8918647Z","seconds":137.220687,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36323 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36256","utc":"2026-11-01T08:52:55.9068590Z","seconds":137.2356805,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a26c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:55.9249795Z","seconds":137.2538005,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349385 tx_submit_us=111491 poll_us=114493","utc":"2026-11-01T08:52:55.9251914Z","seconds":137.2540134,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5659 rectified=5658 sent=5519 rectify_us=22761 aborted=1 dropped=138 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:56.8842806Z","seconds":138.2131012,"port":"COM3"}
+{"text":"NET rx_dma=7116 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:56.8845725Z","seconds":138.2133946,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:56.8994534Z","seconds":138.2282748,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36494 service_gap_max_us=83 prepare_us=2 prepare_max_us=0 pacing_waits=36361","utc":"2026-11-01T08:52:56.8996194Z","seconds":138.2284416,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00492ac0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:56.9149488Z","seconds":138.2437703,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350245 tx_submit_us=111892 poll_us=114985","utc":"2026-11-01T08:52:56.9317251Z","seconds":138.2605454,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5688 rectified=5687 sent=5547 rectify_us=22749 aborted=1 dropped=139 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:57.8780165Z","seconds":139.2068376,"port":"COM3"}
+{"text":"NET rx_dma=7152 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:57.8929392Z","seconds":139.2217606,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:57.8931217Z","seconds":139.2219439,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36165 service_gap_max_us=119 prepare_us=3 prepare_max_us=0 pacing_waits=36056","utc":"2026-11-01T08:52:57.9078519Z","seconds":139.2366727,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00482ec0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:57.9259512Z","seconds":139.2547724,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347538 tx_submit_us=110944 poll_us=114098","utc":"2026-11-01T08:52:57.9261401Z","seconds":139.2549624,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5716 rectified=5716 sent=5575 rectify_us=22734 aborted=1 dropped=139 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:58.8769798Z","seconds":140.2058006,"port":"COM3"}
+{"text":"NET rx_dma=7188 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:58.9069572Z","seconds":140.2357779,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:58.9072389Z","seconds":140.236061,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36453 service_gap_max_us=83 prepare_us=3 prepare_max_us=0 pacing_waits=36387","utc":"2026-11-01T08:52:58.9073500Z","seconds":140.2361722,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004732c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:58.9472344Z","seconds":140.2760541,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350659 tx_submit_us=111880 poll_us=115118","utc":"2026-11-01T08:52:58.9476173Z","seconds":140.276439,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5745 rectified=5744 sent=5603 rectify_us=22754 aborted=1 dropped=140 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:52:59.8910677Z","seconds":141.2198874,"port":"COM3"}
+{"text":"NET rx_dma=7224 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:52:59.8915459Z","seconds":141.2203675,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:52:59.8916649Z","seconds":141.2204871,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36381 service_gap_max_us=83 prepare_us=3 prepare_max_us=0 pacing_waits=36212","utc":"2026-11-01T08:52:59.9267538Z","seconds":141.2555747,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d3dc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:52:59.9269893Z","seconds":141.2558114,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349039 tx_submit_us=111467 poll_us=114717","utc":"2026-11-01T08:52:59.9271028Z","seconds":141.255925,"port":"COM3"}
+{"text":"LCD_TOUCH reads=14382 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:53:00.2583105Z","seconds":141.5871315,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5774 rectified=5773 sent=5631 rectify_us=22735 aborted=1 dropped=141 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:53:00.8907316Z","seconds":142.2195488,"port":"COM3"}
+{"text":"NET rx_dma=7260 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:53:00.8909139Z","seconds":142.2197362,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:53:00.8909876Z","seconds":142.21981,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36336 service_gap_max_us=84 prepare_us=2 prepare_max_us=0 pacing_waits=36075","utc":"2026-11-01T08:53:00.9158702Z","seconds":142.2446918,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004c41c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:53:00.9160290Z","seconds":142.2448512,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347436 tx_submit_us=111069 poll_us=114333","utc":"2026-11-01T08:53:00.9311068Z","seconds":142.2599277,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5802 rectified=5801 sent=5659 rectify_us=22754 aborted=1 dropped=141 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:53:01.8787946Z","seconds":143.2076147,"port":"COM3"}
+{"text":"NET rx_dma=7296 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:53:01.8943864Z","seconds":143.2232063,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:53:01.8946877Z","seconds":143.2235098,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36512 service_gap_max_us=80 prepare_us=3 prepare_max_us=0 pacing_waits=36441","utc":"2026-11-01T08:53:01.9097728Z","seconds":143.2385941,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004b45c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:53:01.9257896Z","seconds":143.2546109,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=351092 tx_submit_us=112111 poll_us=115311","utc":"2026-11-01T08:53:01.9259923Z","seconds":143.2548144,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5831 rectified=5830 sent=5687 rectify_us=22758 aborted=1 dropped=142 flight=3 peer=1 session=be1169ab","utc":"2026-11-01T08:53:02.8782394Z","seconds":144.2070601,"port":"COM3"}
+{"text":"NET rx_dma=7331 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:53:02.8928644Z","seconds":144.2216854,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:53:02.8931088Z","seconds":144.221931,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36251 service_gap_max_us=90 prepare_us=2 prepare_max_us=0 pacing_waits=36089","utc":"2026-11-01T08:53:02.9152854Z","seconds":144.2441061,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004a50c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:53:02.9155647Z","seconds":144.2443868,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=347839 tx_submit_us=111075 poll_us=114281","utc":"2026-11-01T08:53:02.9317488Z","seconds":144.2605692,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5859 rectified=5859 sent=5715 rectify_us=22738 aborted=1 dropped=142 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:53:03.8947162Z","seconds":145.2235373,"port":"COM3"}
+{"text":"NET rx_dma=7368 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:53:03.8949161Z","seconds":145.2237382,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:53:03.8949995Z","seconds":145.2238218,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36330 service_gap_max_us=93 prepare_us=3 prepare_max_us=0 pacing_waits=36263","utc":"2026-11-01T08:53:03.9111480Z","seconds":145.2399691,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=00494dc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:53:03.9274062Z","seconds":145.2562268,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349406 tx_submit_us=111580 poll_us=114616","utc":"2026-11-01T08:53:03.9276938Z","seconds":145.2565158,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5888 rectified=5887 sent=5743 rectify_us=22733 aborted=1 dropped=143 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:53:04.8762438Z","seconds":146.2050651,"port":"COM3"}
+{"text":"NET rx_dma=7404 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:53:04.8923087Z","seconds":146.2211301,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:53:04.8924924Z","seconds":146.2213146,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36412 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36313","utc":"2026-11-01T08:53:04.9072204Z","seconds":146.2360417,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004851c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:53:04.9321534Z","seconds":146.260974,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=350018 tx_submit_us=111694 poll_us=114863","utc":"2026-11-01T08:53:04.9324778Z","seconds":146.2612999,"port":"COM3"}
+{"text":"LCD_TOUCH reads=14739 ready=3 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=0 y=0 bad=0","utc":"2026-11-01T08:53:05.2582761Z","seconds":146.5870974,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5916 rectified=5916 sent=5770 rectify_us=22746 aborted=1 dropped=144 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:53:05.8753320Z","seconds":147.2041529,"port":"COM3"}
+{"text":"NET rx_dma=7440 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:53:05.9071903Z","seconds":147.2360113,"port":"COM3"}
+{"text":"NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:53:05.9074165Z","seconds":147.2362387,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36891 service_gap_max_us=83 prepare_us=3 prepare_max_us=0 pacing_waits=35839","utc":"2026-11-01T08:53:05.9075113Z","seconds":147.2363335,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004755c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:53:05.9268009Z","seconds":147.2556222,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=345294 tx_submit_us=110085 poll_us=114912","utc":"2026-11-01T08:53:05.9269960Z","seconds":147.2558183,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5945 rectified=5944 sent=5798 rectify_us=22754 aborted=1 dropped=145 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:53:06.8753297Z","seconds":148.2041501,"port":"COM3"}
+{"text":"NET rx_dma=7476 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:53:06.9146478Z","seconds":148.2434687,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:53:06.9148834Z","seconds":148.2437056,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36480 service_gap_max_us=116 prepare_us=2 prepare_max_us=0 pacing_waits=36232","utc":"2026-11-01T08:53:06.9149931Z","seconds":148.2438154,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004d60c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:53:06.9150941Z","seconds":148.2439163,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349097 tx_submit_us=111580 poll_us=114757","utc":"2026-11-01T08:53:06.9280766Z","seconds":148.2568976,"port":"COM3"}
+{"text":"ONE_WAY_NAV copied=5974 rectified=5973 sent=5826 rectify_us=22733 aborted=1 dropped=145 flight=2 peer=1 session=be1169ab","utc":"2026-11-01T08:53:07.8820224Z","seconds":149.2108436,"port":"COM3"}
+{"text":"NET rx_dma=7512 accepted=0 queue_full=0 qdrop=0 rx_recoveries=1 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15","utc":"2026-11-01T08:53:07.8955095Z","seconds":149.2243223,"port":"COM3"}
+{"text":"NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0","utc":"2026-11-01T08:53:07.8973270Z","seconds":149.226148,"port":"COM3"}
+{"text":"NET_SCHED poll_calls=36336 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36268","utc":"2026-11-01T08:53:07.9129332Z","seconds":149.2417545,"port":"COM3"}
+{"text":"NET_RX_STATE used=256 capacity=512 max_used=258 free_head=004c64c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0","utc":"2026-11-01T08:53:07.9280152Z","seconds":149.2568365,"port":"COM3"}
+{"text":"NET_CPU rx_callback_us=0 tx_encode_us=349476 tx_submit_us=111709 poll_us=114651","utc":"2026-11-01T08:53:07.9282060Z","seconds":149.2570282,"port":"COM3"}

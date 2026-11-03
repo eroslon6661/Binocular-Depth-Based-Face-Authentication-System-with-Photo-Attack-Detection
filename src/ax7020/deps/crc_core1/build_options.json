@@ -1,0 +1,38 @@
+{
+  "flags": [
+    "-mcpu=cortex-a9",
+    "-mfpu=vfpv3",
+    "-mfloat-abi=hard",
+    "-O3",
+    "-g",
+    "-Wall",
+    "-Wextra",
+    "-ffunction-sections",
+    "-fdata-sections",
+    "-DUSE_AMP=1",
+    "-IE:\\epifpga\\db_rgb_j4_20261012\\ax_application\\crc_core1\\src",
+    "-IE:\\epifpga\\db_one_way_20261011\\ax7020_sdk\\platform\\ps7_cortexa9_0\\standalone_domain\\bsp\\ps7_cortexa9_0\\include"
+  ],
+  "cpu_id": 1,
+  "use_amp": 1,
+  "image_l1_only": false,
+  "entry_region": "0xa000000",
+  "shared_region": "0x9000000",
+  "binary_bytes": 32784,
+  "binary_sha256": "b63679e03acb64a855994fceae30f18a74486c3b057c0a46c6b156ac5f5ff5f8",
+  "source_sha256": {
+    "boot.S": "d0d7df08bb7c47d0f819c21821a481f661c55a4beef5def6f5863a7cac92c118",
+    "crc_core1.c": "9a694e87b0a1d444f665a05a345f120073cacaca98de7b0dfebf861d98cfdecc",
+    "db_calibration.h": "8fabf27c46dba5a54fee2179b2c8fffc5f77ec7e92bcdbb6b6e234d1e98109a7",
+    "db_config.h": "8ccc0a72957519e47a32fa8b3f8d60d3c1aab139c792a3dd8930ad9f782e8d62",
+    "db_crc_amp.h": "fcce0b82fd2679e6ca89c4bf5e4767ff88e0c7bda44c8e78702c05e9832252a5",
+    "db_crc_headers.c": "f024e0041d8f00ef98fb71dd899028ca57f509d99578b7623e9f022edf160d48",
+    "db_crc_headers.h": "9df209b663193bf1925db18d619b2f29e8ba367a80d943d97a4336af0c06cc99",
+    "db_perf.h": "e0933f7073ca9ff1c222db27ff9d3da159495467f8e67f327bdb38c0c5ae6ecd",
+    "db_wire.c": "2bb0eee20054e7888e3176de41e5672570abe47b88a56698a5cac5893d0ff3f0",
+    "db_wire.h": "21ac92368548abc491bacb137c2593cabc1cab6fae25a41ffef9140746a2e7c9",
+    "translation_table.S": "1d0e93a2434ebfd24e8d63df90b9a6103680299c12d1722d53a1a36c8770a34f",
+    "xil-crt0.S": "565a67e906071a67c44957ff71e5c08532e1fced6105dc27483371394a092f64",
+    "xparameters.h": "eabb706147c21196dcdb5f61ff16430247206d75aa064b18c2c781ace09eb9f9"
+  }
+}

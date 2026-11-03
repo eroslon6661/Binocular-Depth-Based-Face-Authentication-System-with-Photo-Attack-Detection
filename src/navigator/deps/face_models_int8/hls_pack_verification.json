@@ -1,0 +1,14 @@
+[
+  {
+    "network": "yunet",
+    "layers": 53,
+    "sampled_outputs": 405,
+    "maximum_lsb_error": 0
+  },
+  {
+    "network": "mobilefacenet",
+    "layers": 50,
+    "sampled_outputs": 444,
+    "maximum_lsb_error": 0
+  }
+]

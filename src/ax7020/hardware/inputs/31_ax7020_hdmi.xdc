@@ -1,0 +1,10 @@
+# ALINX AX7020 V2.2 manual pp.32-33, PL BANK34; do not reuse Navigator pins.
+set_property -dict {PACKAGE_PIN N18 IOSTANDARD TMDS_33} [get_ports TMDS_tmds_clk_p]
+set_property -dict {PACKAGE_PIN P19 IOSTANDARD TMDS_33} [get_ports TMDS_tmds_clk_n]
+set_property -dict {PACKAGE_PIN V20 IOSTANDARD TMDS_33} [get_ports {TMDS_tmds_data_p[0]}]
+set_property -dict {PACKAGE_PIN W20 IOSTANDARD TMDS_33} [get_ports {TMDS_tmds_data_n[0]}]
+set_property -dict {PACKAGE_PIN T20 IOSTANDARD TMDS_33} [get_ports {TMDS_tmds_data_p[1]}]
+set_property -dict {PACKAGE_PIN U20 IOSTANDARD TMDS_33} [get_ports {TMDS_tmds_data_n[1]}]
+set_property -dict {PACKAGE_PIN N20 IOSTANDARD TMDS_33} [get_ports {TMDS_tmds_data_p[2]}]
+set_property -dict {PACKAGE_PIN P20 IOSTANDARD TMDS_33} [get_ports {TMDS_tmds_data_n[2]}]
+set_property -dict {PACKAGE_PIN V16 IOSTANDARD LVCMOS33} [get_ports HDMI_OUT_EN]

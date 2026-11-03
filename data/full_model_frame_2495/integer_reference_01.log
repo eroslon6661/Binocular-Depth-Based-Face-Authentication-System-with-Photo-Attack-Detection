@@ -1,0 +1,148 @@
+yunet 0 0 0
+yunet 1 0 0
+yunet 2 0 0
+yunet 3 0 0
+yunet 4 0 0
+yunet 5 0 0
+yunet 6 0 0
+yunet 7 0 0
+yunet 8 0 0
+yunet 9 0 0
+yunet 10 0 0
+yunet 11 0 0
+yunet 12 0 0
+yunet 13 0 0
+yunet 14 0 0
+yunet 15 0 0
+yunet 16 0 0
+yunet 17 0 0
+yunet 18 0 0
+yunet 19 0 0
+yunet 20 0 0
+yunet 21 0 0
+yunet 22 0 0
+yunet 23 0 0
+yunet 24 0 0
+yunet 25 0 0
+yunet 26 0 0
+yunet 27 0 0
+yunet 28 0 0
+yunet 29 0 0
+yunet 30 0 0
+yunet 31 0 0
+yunet 32 0 0
+yunet 33 0 0
+yunet 34 0 0
+yunet 35 0 0
+yunet 36 0 0
+yunet 37 0 0
+yunet 38 0 0
+yunet 39 0 0
+yunet 40 0 0
+yunet 41 0 0
+yunet 42 0 0
+yunet 43 0 0
+yunet 44 0 0
+yunet 45 0 0
+yunet 46 0 0
+yunet 47 0 0
+yunet 48 0 0
+yunet 49 0 0
+yunet 50 0 0
+yunet 51 0 0
+yunet 52 0 0
+yunet 53 0 0
+yunet 54 0 0
+yunet 55 0 0
+yunet 56 0 0
+yunet 57 0 0
+yunet 58 0 0
+yunet 59 0 0
+yunet 60 0 0
+mobile 0 0 0
+mobile 1 0 0
+mobile 2 0 0
+mobile 3 0 0
+mobile 4 0 0
+mobile 5 0 0
+mobile 6 0 0
+mobile 7 0 0
+mobile 8 0 0
+mobile 9 0 0
+mobile 10 0 0
+mobile 11 0 0
+mobile 12 0 0
+mobile 13 0 0
+mobile 14 0 0
+mobile 15 0 0
+mobile 16 0 0
+mobile 17 0 0
+mobile 18 0 0
+mobile 19 0 0
+mobile 20 0 0
+mobile 21 0 0
+mobile 22 0 0
+mobile 23 0 0
+mobile 24 0 0
+mobile 25 0 0
+mobile 26 0 0
+mobile 27 0 0
+mobile 28 0 0
+mobile 29 0 0
+mobile 30 0 0
+mobile 31 0 0
+mobile 32 0 0
+mobile 33 0 0
+mobile 34 0 0
+mobile 35 0 0
+mobile 36 0 0
+mobile 37 0 0
+mobile 38 0 0
+mobile 39 0 0
+mobile 40 0 0
+mobile 41 0 0
+mobile 42 0 0
+mobile 43 0 0
+mobile 44 0 0
+mobile 45 0 0
+mobile 46 0 0
+mobile 47 0 0
+mobile 48 0 0
+mobile 49 0 0
+mobile 50 0 0
+mobile 51 0 0
+mobile 52 0 0
+mobile 53 0 0
+mobile 54 0 0
+mobile 55 0 0
+mobile 56 0 0
+mobile 57 0 0
+mobile 58 0 0
+mobile 59 0 0
+mobile 60 0 0
+mobile 61 0 0
+mobile 62 0 0
+{
+  "frame": 2495,
+  "scope": "whole graph fixed-point deployment reference; separate from QDQ float operator equivalence",
+  "networks": {
+    "yunet": {
+      "operations": 61,
+      "exact_cumulative_operations": 61,
+      "local_mismatching_operations": 0
+    },
+    "mobile": {
+      "operations": 63,
+      "exact_cumulative_operations": 63,
+      "local_mismatching_operations": 0
+    }
+  },
+  "embedding": {
+    "elements": 512,
+    "different": 0,
+    "max_abs": 0.0,
+    "mean_abs": 0.0,
+    "rmse": 0.0
+  },
+  "passed": true
+}

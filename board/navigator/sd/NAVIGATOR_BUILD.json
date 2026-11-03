@@ -1,0 +1,14 @@
+{
+  "board": "Navigator Zynq-7020",
+  "created": "2026-11-01T14:58:48+08:00",
+  "tool": "Bootgen 2026.1",
+  "source": "JTAG verified Slice optimization candidate",
+  "slice_utilization": "88.62%",
+  "sha256": {
+    "BOOT.BIN": "BBBF2181757C1317B0FB5ED7FA3283C86BB627596289CA18184A6ADA61C63876",
+    "fsbl.elf": "70F43CF559F2530D022C96A2CF126B6FCED29C268D7BDB1817568C40A72A4E33",
+    "system.bit": "0F9950A87F3ADAF71510B21C4B309FB52CA7C2A4DF462CA16BC8ECB49A858C46",
+    "application.elf": "72BAAB836705BD7D29DA8F6017CFED01772EBC6B2A57A6FB671DDD986FC50B1F"
+  },
+  "sd_cold_boot_verified": true
+}

@@ -1,0 +1,327 @@
+{
+  "folder": "live_idle_01",
+  "window_seconds": [
+    5,
+    145.0
+  ],
+  "ports": {
+    "COM11": {
+      "streams": {
+        "ONE_WAY_AX": {
+          "samples": 140,
+          "first_seconds": 5.1488383,
+          "last_seconds": 144.1535737,
+          "elapsed_seconds": 139.00473540000002,
+          "session_changes_or_counter_decrease": false,
+          "first": {
+            "received": "1802",
+            "verified": "1802",
+            "submitted": "1802",
+            "result": "1802",
+            "hdmi": "1801",
+            "input_hold_us": "23084",
+            "rejected": "0",
+            "expired": "0",
+            "session": "be1169ab"
+          },
+          "last": {
+            "received": "5684",
+            "verified": "5684",
+            "submitted": "5684",
+            "result": "5684",
+            "hdmi": "5683",
+            "input_hold_us": "23071",
+            "rejected": "0",
+            "expired": "0",
+            "session": "be1169ab"
+          },
+          "delta": {
+            "received": 3882,
+            "verified": 3882,
+            "submitted": 3882,
+            "result": 3882,
+            "hdmi": 3882,
+            "rejected": 0,
+            "expired": 0
+          },
+          "rate_per_second": {
+            "received": 27.927106143752276,
+            "verified": 27.927106143752276,
+            "submitted": 27.927106143752276,
+            "result": 27.927106143752276,
+            "hdmi": 27.927106143752276,
+            "rejected": 0.0,
+            "expired": 0.0
+          }
+        },
+        "NET": {
+          "samples": 140,
+          "first_seconds": 5.1654831,
+          "last_seconds": 144.1772588,
+          "elapsed_seconds": 139.01177570000002,
+          "session_changes_or_counter_decrease": false,
+          "first": {
+            "rx_dma": "2338700",
+            "accepted": "2337137",
+            "queue_full": "0",
+            "qdrop": "0",
+            "rx_recoveries": "30",
+            "fcs": "0",
+            "resource": "0",
+            "overrun": "0",
+            "ip_bad": "0",
+            "udp_bad": "0",
+            "gap_us": "15"
+          },
+          "last": {
+            "rx_dma": "7372760",
+            "accepted": "7367862",
+            "queue_full": "0",
+            "qdrop": "0",
+            "rx_recoveries": "30",
+            "fcs": "0",
+            "resource": "0",
+            "overrun": "0",
+            "ip_bad": "0",
+            "udp_bad": "0",
+            "gap_us": "15"
+          },
+          "delta": {
+            "rx_dma": 5034060,
+            "accepted": 5030725,
+            "queue_full": 0,
+            "qdrop": 0,
+            "rx_recoveries": 0,
+            "fcs": 0,
+            "resource": 0,
+            "overrun": 0,
+            "ip_bad": 0,
+            "udp_bad": 0
+          },
+          "rate_per_second": {
+            "rx_dma": 36213.19111025498,
+            "accepted": 36189.200336932314,
+            "queue_full": 0.0,
+            "qdrop": 0.0,
+            "rx_recoveries": 0.0,
+            "fcs": 0.0,
+            "resource": 0.0,
+            "overrun": 0.0,
+            "ip_bad": 0.0,
+            "udp_bad": 0.0
+          }
+        },
+        "NET_TX": {
+          "samples": 140,
+          "first_seconds": 5.1658817,
+          "last_seconds": 144.1776206,
+          "elapsed_seconds": 139.0117389,
+          "session_changes_or_counter_decrease": false,
+          "first": {
+            "pending": "0",
+            "recoveries": "0",
+            "arp_stalls": "0",
+            "udp_stalls": "0",
+            "pool_stalls": "0"
+          },
+          "last": {
+            "pending": "0",
+            "recoveries": "0",
+            "arp_stalls": "0",
+            "udp_stalls": "0",
+            "pool_stalls": "0"
+          },
+          "delta": {
+            "recoveries": 0,
+            "arp_stalls": 0,
+            "udp_stalls": 0,
+            "pool_stalls": 0
+          },
+          "rate_per_second": {
+            "recoveries": 0.0,
+            "arp_stalls": 0.0,
+            "udp_stalls": 0.0,
+            "pool_stalls": 0.0
+          }
+        }
+      },
+      "face_timing_us": {
+        "detect_us": {
+          "n": 0
+        },
+        "embed_us": {
+          "n": 0
+        },
+        "total_us": {
+          "n": 0
+        }
+      },
+      "face_results": [],
+      "access_results": [],
+      "live_results": [],
+      "capture_trigger_seconds": [],
+      "failures": []
+    },
+    "COM3": {
+      "streams": {
+        "ONE_WAY_NAV": {
+          "samples": 140,
+          "first_seconds": 5.1952542,
+          "last_seconds": 144.2070601,
+          "elapsed_seconds": 139.0118059,
+          "session_changes_or_counter_decrease": false,
+          "first": {
+            "copied": "1857",
+            "rectified": "1856",
+            "sent": "1804",
+            "rectify_us": "22762",
+            "aborted": "1",
+            "dropped": "50",
+            "flight": "2",
+            "peer": "1",
+            "session": "be1169ab"
+          },
+          "last": {
+            "copied": "5831",
+            "rectified": "5830",
+            "sent": "5687",
+            "rectify_us": "22758",
+            "aborted": "1",
+            "dropped": "142",
+            "flight": "3",
+            "peer": "1",
+            "session": "be1169ab"
+          },
+          "delta": {
+            "copied": 3974,
+            "rectified": 3974,
+            "sent": 3883,
+            "aborted": 0,
+            "dropped": 92
+          },
+          "rate_per_second": {
+            "copied": 28.58749999161042,
+            "rectified": 28.58749999161042,
+            "sent": 27.932879332517178,
+            "aborted": 0.0,
+            "dropped": 0.6618142927096524
+          }
+        },
+        "NET": {
+          "samples": 140,
+          "first_seconds": 5.211827,
+          "last_seconds": 144.2216854,
+          "elapsed_seconds": 139.0098584,
+          "session_changes_or_counter_decrease": false,
+          "first": {
+            "rx_dma": "2328",
+            "accepted": "0",
+            "queue_full": "0",
+            "qdrop": "0",
+            "rx_recoveries": "1",
+            "fcs": "0",
+            "resource": "0",
+            "overrun": "0",
+            "ip_bad": "0",
+            "udp_bad": "0",
+            "gap_us": "15"
+          },
+          "last": {
+            "rx_dma": "7331",
+            "accepted": "0",
+            "queue_full": "0",
+            "qdrop": "0",
+            "rx_recoveries": "1",
+            "fcs": "0",
+            "resource": "0",
+            "overrun": "0",
+            "ip_bad": "0",
+            "udp_bad": "0",
+            "gap_us": "15"
+          },
+          "delta": {
+            "rx_dma": 5003,
+            "accepted": 0,
+            "queue_full": 0,
+            "qdrop": 0,
+            "rx_recoveries": 0,
+            "fcs": 0,
+            "resource": 0,
+            "overrun": 0,
+            "ip_bad": 0,
+            "udp_bad": 0
+          },
+          "rate_per_second": {
+            "rx_dma": 35.99025319199951,
+            "accepted": 0.0,
+            "queue_full": 0.0,
+            "qdrop": 0.0,
+            "rx_recoveries": 0.0,
+            "fcs": 0.0,
+            "resource": 0.0,
+            "overrun": 0.0,
+            "ip_bad": 0.0,
+            "udp_bad": 0.0
+          }
+        },
+        "NET_TX": {
+          "samples": 140,
+          "first_seconds": 5.2121414,
+          "last_seconds": 144.221931,
+          "elapsed_seconds": 139.0097896,
+          "session_changes_or_counter_decrease": false,
+          "first": {
+            "pending": "2",
+            "recoveries": "0",
+            "arp_stalls": "0",
+            "udp_stalls": "0",
+            "pool_stalls": "0"
+          },
+          "last": {
+            "pending": "2",
+            "recoveries": "0",
+            "arp_stalls": "0",
+            "udp_stalls": "0",
+            "pool_stalls": "0"
+          },
+          "delta": {
+            "recoveries": 0,
+            "arp_stalls": 0,
+            "udp_stalls": 0,
+            "pool_stalls": 0
+          },
+          "rate_per_second": {
+            "recoveries": 0.0,
+            "arp_stalls": 0.0,
+            "udp_stalls": 0.0,
+            "pool_stalls": 0.0
+          }
+        }
+      },
+      "face_timing_us": {
+        "detect_us": {
+          "n": 0
+        },
+        "embed_us": {
+          "n": 0
+        },
+        "total_us": {
+          "n": 0
+        }
+      },
+      "face_results": [],
+      "access_results": [],
+      "live_results": [],
+      "capture_trigger_seconds": [],
+      "failures": []
+    }
+  },
+  "limitations": [
+    "Host receive timestamps include UART buffering and scheduling jitter.",
+    "Counter deltas are per-board intervals, not a synchronized end-to-end loss estimate.",
+    "NAV dropped counts source-side frame discard; it is not Ethernet packet loss.",
+    "FACE timing is firmware inference duration, not button-to-feedback latency.",
+    "Snapshot last_us values are not per-frame latency samples.",
+    "Running firmware identity is user-reported current SD release, not read-back attestation."
+  ]
+}

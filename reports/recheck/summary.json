@@ -1,0 +1,20 @@
+{
+  "checked_on": "2026-11-01",
+  "tool_version": "2026.1",
+  "passed": true,
+  "checks": {
+    "software_navigator": true,
+    "software_ax7020": true,
+    "sgm_simulation": true,
+    "hls_c_equivalence": true,
+    "recreate_navigator": true,
+    "recreate_ax7020": true,
+    "boot_navigator_exact": true,
+    "boot_ax7020_exact": true,
+    "sgm_rtl_matches_implementation": true
+  },
+  "physical_board_accessed": false,
+  "full_implementation_rerun": false,
+  "new_software_bitwise_equal_to_release": false,
+  "note": "New software links but output bytes differ; original paired release images remain unchanged. Initial wrong VLNV failure retained with corrected successful reconstruction."
+}

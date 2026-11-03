@@ -1,0 +1,797 @@
+Archive member included to satisfy reference by file (symbol)
+
+E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(asm_vectors.o)
+                              E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o (_vector_table)
+E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(cpu_init.o)
+                              E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o (__cpu_init)
+E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(vectors.o)
+                              E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(asm_vectors.o) (FIQInterrupt)
+E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+                              E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o (Xil_L1DCacheFlush)
+E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+                              E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(asm_vectors.o) (UndefinedExceptionAddr)
+E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+                              E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o (XTime_GetTime)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o)
+                              E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o (exit)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fini.o)
+                              E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o (__libc_fini_array)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-impure.o)
+                              E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o) (_global_impure_ptr)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-init.o)
+                              E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o (__libc_init_array)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcmp.o)
+                              E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o (memcmp)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcpy.o)
+                              E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o (memcpy)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memset.o)
+                              E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o (memset)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-__call_atexit.o)
+                              E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o) (__call_exitprocs)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivsi3.o)
+                              E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o) (__aeabi_uidiv)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_divsi3.o)
+                              E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o) (__aeabi_idiv)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_dvmd_tls.o)
+                              E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o (__aeabi_uldivmod)
+E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivmoddi4.o)
+                              E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)
+                              E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+ .rodata        0x0000000000000000       0x24 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+ .text          0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o
+ .data          0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o
+ .bss           0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o
+ .text          0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+ .data          0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+ .bss           0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+ .text          0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .data          0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .bss           0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .text.db_crc_header_fields
+                0x0000000000000000      0x100 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .text.db_crc_header_matches
+                0x0000000000000000      0x128 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .text          0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .data          0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .bss           0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.parse_header.part.0
+                0x0000000000000000       0xd0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_crc32
+                0x0000000000000000       0x20 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_packet_write_fields
+                0x0000000000000000      0x19c E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_packet_encode
+                0x0000000000000000      0x1f4 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_packet_decode
+                0x0000000000000000       0xc0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_rx_init
+                0x0000000000000000       0x80 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_rx_expire
+                0x0000000000000000       0xec E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_rx_push
+                0x0000000000000000      0x640 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_rx_acquire_latest
+                0x0000000000000000      0x168 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_rx_release
+                0x0000000000000000       0x1c E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_tx_begin
+                0x0000000000000000       0xe8 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_tx_poll
+                0x0000000000000000      0x168 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_tx_poll_chunks
+                0x0000000000000000       0xe8 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text          0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\translation_table.S.o
+ .data          0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\translation_table.S.o
+ .bss           0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\translation_table.S.o
+ .data          0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o
+ .bss           0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o
+ .got2          0x0000000000000000        0x0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o
+ .text          0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(asm_vectors.o)
+ .data          0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(asm_vectors.o)
+ .bss           0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(asm_vectors.o)
+ .ARM.attributes
+                0x0000000000000000       0x23 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(asm_vectors.o)
+ .data          0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(cpu_init.o)
+ .bss           0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(cpu_init.o)
+ .data          0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(vectors.o)
+ .bss           0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(vectors.o)
+ .data          0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+ .bss           0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+ .data          0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+ .bss           0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcmp.o)
+ .text          0x0000000000000000      0x5e0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000000       0x1b E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivsi3.o)
+ .text          0x0000000000000000      0x2b0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1f E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)
+ .bss           0x0000000000000000        0x0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)
+ .text          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+ .rodata        0x0000000000000000       0x24 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ps7_ddr_0        0x000000000a000000 0x0000000000100000
+db_map_ddr       0x0000000008000000 0x0000000001000000
+db_crc_code      0x000000000a000000 0x0000000000100000
+ps7_qspi_linear_0 0x00000000fc000000 0x0000000001000000
+ps7_ram_0        0x0000000000000000 0x0000000000030000
+ps7_ram_1        0x00000000ffff0000 0x000000000000fe00
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+LOAD E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+LOAD E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o
+LOAD E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+LOAD E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+LOAD E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+LOAD E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\translation_table.S.o
+LOAD E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o
+                0x0000000000010000                _STACK_SIZE = DEFINED (_STACK_SIZE)?_STACK_SIZE:0x10000
+                0x0000000000001000                _HEAP_SIZE = DEFINED (_HEAP_SIZE)?_HEAP_SIZE:0x1000
+                0x0000000000000400                _ABORT_STACK_SIZE = DEFINED (_ABORT_STACK_SIZE)?_ABORT_STACK_SIZE:0x400
+                0x0000000000000800                _SUPERVISOR_STACK_SIZE = DEFINED (_SUPERVISOR_STACK_SIZE)?_SUPERVISOR_STACK_SIZE:0x800
+                0x0000000000000400                _IRQ_STACK_SIZE = DEFINED (_IRQ_STACK_SIZE)?_IRQ_STACK_SIZE:0x400
+                0x0000000000000400                _FIQ_STACK_SIZE = DEFINED (_FIQ_STACK_SIZE)?_FIQ_STACK_SIZE:0x400
+                0x0000000000000400                _UNDEF_STACK_SIZE = DEFINED (_UNDEF_STACK_SIZE)?_UNDEF_STACK_SIZE:0x400
+
+.db_maps
+ *(.db_maps)
+
+.db_crc_core1
+ *(.db_crc_core1)
+
+.text           0x000000000a000000     0x24b8
+                0x000000000a000000                . = ALIGN (0x800)
+ *(.vectors)
+ .vectors       0x000000000a000000      0x12c E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(asm_vectors.o)
+                0x000000000a000000                _vector_table
+ *(.boot)
+ .boot          0x000000000a00012c      0x274 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o
+                0x000000000a00012c                _prestart
+                0x000000000a00012c                _boot
+ *(.text)
+ .text          0x000000000a0003a0       0xa8 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+ .text          0x000000000a000448       0x74 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o
+                0x000000000a00045c                _start
+ .text          0x000000000a0004bc       0x3c E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(cpu_init.o)
+                0x000000000a0004bc                __cpu_init
+ .text          0x000000000a0004f8       0x78 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(vectors.o)
+                0x000000000a0004f8                FIQInterrupt
+                0x000000000a00050c                IRQInterrupt
+                0x000000000a000520                UndefinedException
+                0x000000000a000534                SWInterrupt
+                0x000000000a000548                DataAbortInterrupt
+                0x000000000a00055c                PrefetchAbortInterrupt
+ .text          0x000000000a000570      0xab0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+                0x000000000a000570                Xil_DCacheInvalidateLine
+                0x000000000a0005a8                Xil_DCacheInvalidateRange
+                0x000000000a00069c                Xil_DCacheFlushLine
+                0x000000000a0006e4                Xil_DCacheFlushRange
+                0x000000000a000768                Xil_DCacheStoreLine
+                0x000000000a0007a0                Xil_ICacheDisable
+                0x000000000a00081c                Xil_ICacheInvalidateLine
+                0x000000000a000854                Xil_ICacheInvalidateRange
+                0x000000000a0008a8                Xil_L1DCacheInvalidate
+                0x000000000a000958                Xil_L1DCacheEnable
+                0x000000000a000978                Xil_L1DCacheInvalidateLine
+                0x000000000a000990                Xil_L1DCacheInvalidateRange
+                0x000000000a0009d0                Xil_L1DCacheFlush
+                0x000000000a000a58                Xil_L1DCacheDisable
+                0x000000000a000a70                Xil_DCacheFlush
+                0x000000000a000acc                Xil_DCacheDisable
+                0x000000000a000b44                Xil_L1DCacheFlushLine
+                0x000000000a000b5c                Xil_L1DCacheFlushRange
+                0x000000000a000b9c                Xil_L1DCacheStoreLine
+                0x000000000a000bb4                Xil_L1ICacheEnable
+                0x000000000a000bd0                Xil_L1ICacheDisable
+                0x000000000a000bec                Xil_L1ICacheInvalidate
+                0x000000000a000c04                Xil_L1ICacheInvalidateLine
+                0x000000000a000c1c                Xil_L1ICacheInvalidateRange
+                0x000000000a000c5c                Xil_L2CacheDisable
+                0x000000000a000cbc                Xil_L2CacheInvalidate
+                0x000000000a000d28                Xil_DCacheInvalidate
+                0x000000000a000d48                Xil_ICacheInvalidate
+                0x000000000a000d78                Xil_L2CacheEnable
+                0x000000000a000dd8                Xil_ICacheEnable
+                0x000000000a000e50                Xil_DCacheEnable
+                0x000000000a000ec8                Xil_L2CacheInvalidateLine
+                0x000000000a000edc                Xil_L2CacheInvalidateRange
+                0x000000000a000f44                Xil_L2CacheFlush
+                0x000000000a000f88                Xil_L2CacheFlushLine
+                0x000000000a000fa4                Xil_L2CacheFlushRange
+                0x000000000a001008                Xil_L2CacheStoreLine
+ .text          0x000000000a001020       0x70 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+                0x000000000a001024                Xil_DataAbortHandler
+                0x000000000a001028                Xil_PrefetchAbortHandler
+                0x000000000a00102c                Xil_UndefinedExceptionHandler
+                0x000000000a001030                Xil_ExceptionInit
+                0x000000000a001034                Xil_ExceptionRegisterHandler
+                0x000000000a00104c                Xil_GetExceptionRegisterHandler
+                0x000000000a00106c                Xil_ExceptionRemoveHandler
+ .text          0x000000000a001090       0x4c E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+                0x000000000a001090                XTime_SetTime
+                0x000000000a0010b4                XTime_GetTime
+ .text          0x000000000a0010dc       0x20 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o)
+                0x000000000a0010dc                exit
+ .text          0x000000000a0010fc       0x2c E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fini.o)
+                0x000000000a0010fc                __libc_fini_array
+ .text          0x000000000a001128       0x50 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-init.o)
+                0x000000000a001128                __libc_init_array
+ .text          0x000000000a001178       0x5c E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcmp.o)
+                0x000000000a001178                memcmp
+ .text          0x000000000a0011d4       0xa4 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memset.o)
+                0x000000000a0011d4                memset
+ .text          0x000000000a001278       0xac E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-__call_atexit.o)
+                0x000000000a001278                __call_exitprocs
+ *fill*         0x000000000a001324        0x4 
+ .text          0x000000000a001328      0x278 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivsi3.o)
+                0x000000000a001328                __aeabi_uidiv
+                0x000000000a001328                __udivsi3
+                0x000000000a001584                __aeabi_uidivmod
+ .text          0x000000000a0015a0        0x4 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x000000000a0015a0                __aeabi_idiv0
+                0x000000000a0015a0                __aeabi_ldiv0
+ .text          0x000000000a0015a4       0x30 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x000000000a0015a4                __aeabi_uldivmod
+ .text          0x000000000a0015d4      0x108 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x000000000a0015d4                __udivmoddi4
+ .text          0x000000000a0016dc        0x4 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)
+                0x000000000a0016dc                _exit
+ *(.text.*)
+ .text.startup.main
+                0x000000000a0016e0      0x270 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+                0x000000000a0016e0                main
+ .text.db_crc_make_headers
+                0x000000000a001950      0x19c E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+                0x000000000a001950                db_crc_make_headers
+ .text.db_crc_check_headers
+                0x000000000a001aec      0x194 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+                0x000000000a001aec                db_crc_check_headers
+ .text.crc_update
+                0x000000000a001c80      0x5a0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.valid_header
+                0x000000000a002220       0xc0 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .text.db_packet_encode_header
+                0x000000000a0022e0      0x1d8 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+                0x000000000a0022e0                db_packet_encode_header
+ *(.gnu.linkonce.t.*)
+ *(.plt)
+ *(.gnu_warning)
+ *(.gcc_execpt_table)
+ *(.glue_7)
+ .glue_7        0x000000000a0024b8        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x000000000a0024b8        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x000000000a0024b8        0x0 linker stubs
+ *(.ARM.extab)
+ *(.gnu.linkonce.armextab.*)
+
+.v4_bx          0x000000000a0024b8        0x0
+ .v4_bx         0x000000000a0024b8        0x0 linker stubs
+
+.iplt           0x000000000a0024b8        0x0
+ .iplt          0x000000000a0024b8        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+
+.init           0x000000000a0024b8        0xc
+ *(.init)
+ .init          0x000000000a0024b8        0x4 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+                0x000000000a0024b8                _init
+ .init          0x000000000a0024bc        0x8 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+
+.fini           0x000000000a0024c4        0xc
+ *(.fini)
+ .fini          0x000000000a0024c4        0x4 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+                0x000000000a0024c4                _fini
+ .fini          0x000000000a0024c8        0x8 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+
+.rodata         0x000000000a0024d0        0x9
+                0x000000000a0024d0                __rodata_start = .
+ *(.rodata)
+ .rodata        0x000000000a0024d0        0x4 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-impure.o)
+                0x000000000a0024d0                _global_impure_ptr
+ *(.rodata.*)
+ .rodata.db_packet_write_fields.str1.4
+                0x000000000a0024d4        0x5 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ *(.gnu.linkonce.r.*)
+                0x000000000a0024d9                __rodata_end = .
+
+.rodata1        0x000000000a0024d9        0x0
+                0x000000000a0024d9                __rodata1_start = .
+ *(.rodata1)
+ *(.rodata1.*)
+                0x000000000a0024d9                __rodata1_end = .
+
+.sdata2         0x000000000a0024d9        0x0
+                0x000000000a0024d9                __sdata2_start = .
+ *(.sdata2)
+ *(.sdata2.*)
+ *(.gnu.linkonce.s2.*)
+                0x000000000a0024d9                __sdata2_end = .
+
+.sbss2          0x000000000a0024d9        0x0
+                0x000000000a0024d9                __sbss2_start = .
+ *(.sbss2)
+ *(.sbss2.*)
+ *(.gnu.linkonce.sb2.*)
+                0x000000000a0024d9                __sbss2_end = .
+
+.data           0x000000000a0024e0      0x468
+                0x000000000a0024e0                __data_start = .
+ *(.data)
+ .data          0x000000000a0024e0       0x38 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+                0x000000000a0024e0                XExc_VectorTable
+ .data          0x000000000a002518      0x430 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-impure.o)
+                0x000000000a002518                _impure_ptr
+ *(.data.*)
+ *(.gnu.linkonce.d.*)
+ *(.jcr)
+ *(.got)
+ *(.got.plt)
+                0x000000000a002948                __data_end = .
+
+.tm_clone_table
+                0x000000000a002948        0x0
+ .tm_clone_table
+                0x000000000a002948        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x000000000a002948        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+
+.igot.plt       0x000000000a002948        0x0
+ .igot.plt      0x000000000a002948        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+
+.data1          0x000000000a002948        0x0
+                0x000000000a002948                __data1_start = .
+ *(.data1)
+ *(.data1.*)
+                0x000000000a002948                __data1_end = .
+
+.got
+ *(.got)
+
+.note.gnu.build-id
+                0x000000000a002948       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x000000000a002948       0x24 linker stubs
+
+.ctors          0x000000000a00296c        0x0
+                0x000000000a00296c                __CTOR_LIST__ = .
+                0x000000000a00296c                ___CTORS_LIST___ = .
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x000000000a00296c                __CTOR_END__ = .
+                0x000000000a00296c                ___CTORS_END___ = .
+
+.dtors          0x000000000a00296c        0x0
+                0x000000000a00296c                __DTOR_LIST__ = .
+                0x000000000a00296c                ___DTORS_LIST___ = .
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x000000000a00296c                __DTOR_END__ = .
+                0x000000000a00296c                ___DTORS_END___ = .
+
+.fixup          0x000000000a00296c        0x0
+                0x000000000a00296c                __fixup_start = .
+ *(.fixup)
+                0x000000000a00296c                __fixup_end = .
+
+.eh_frame       0x000000000a00296c        0x0
+ *(.eh_frame)
+ .eh_frame      0x000000000a00296c        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+
+.eh_framehdr    0x000000000a00296c        0x0
+                0x000000000a00296c                __eh_framehdr_start = .
+ *(.eh_framehdr)
+                0x000000000a00296c                __eh_framehdr_end = .
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.mmu_tbl        0x000000000a004000     0x4000
+                0x000000000a004000                __mmu_tbl_start = .
+ *(.mmu_tbl)
+ .mmu_tbl       0x000000000a004000     0x4000 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\translation_table.S.o
+                0x000000000a004000                MMUTable
+                0x000000000a008000                __mmu_tbl_end = .
+
+.ARM.exidx      0x000000000a008000        0x8
+                0x000000000a008000                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x000000000a008000        0x8 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivmoddi4.o)
+ *(.gnu.linkonce.armexidix.*.*)
+                0x000000000a008008                __exidx_end = .
+
+.rel.dyn        0x000000000a008008        0x0
+ .rel.iplt      0x000000000a008008        0x0 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+
+.preinit_array  0x000000000a008008        0x0
+                0x000000000a008008                __preinit_array_start = .
+ *(SORT_BY_NAME(.preinit_array.*))
+ *(.preinit_array)
+                0x000000000a008008                __preinit_array_end = .
+
+.init_array     0x000000000a008008        0x4
+                0x000000000a008008                __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x000000000a008008        0x4 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+                0x000000000a00800c                __init_array_end = .
+
+.fini_array     0x000000000a00800c        0x4
+                0x000000000a00800c                __fini_array_start = .
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x000000000a00800c        0x4 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+                0x000000000a008010                __fini_array_end = .
+
+.ARM.attributes
+                0x000000000a008010       0x33
+                0x000000000a008010                __ARM.attributes_start = .
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x000000000a008010       0x1f E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000a00802f       0x33 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x000000000a008062       0x23 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o
+ .ARM.attributes
+                0x000000000a008085       0x37 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+ .ARM.attributes
+                0x000000000a0080bc       0x37 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .ARM.attributes
+                0x000000000a0080f3       0x37 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .ARM.attributes
+                0x000000000a00812a       0x23 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\translation_table.S.o
+ .ARM.attributes
+                0x000000000a00814d       0x23 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o
+ .ARM.attributes
+                0x000000000a008170       0x23 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(cpu_init.o)
+ .ARM.attributes
+                0x000000000a008193       0x37 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(vectors.o)
+ .ARM.attributes
+                0x000000000a0081ca       0x37 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+ .ARM.attributes
+                0x000000000a008201       0x37 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+ .ARM.attributes
+                0x000000000a008238       0x37 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+ .ARM.attributes
+                0x000000000a00826f       0x33 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000000000a0082a2       0x33 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000000000a0082d5       0x31 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000000a008306       0x33 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000000a008339       0x33 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x000000000a00836c       0x33 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000a00839f       0x33 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000000000a0083d2       0x1f E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000000000a0083f1       0x1f E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000000000a008410       0x1f E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000000000a00842f       0x33 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000000000a008462       0x37 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)
+ .ARM.attributes
+                0x000000000a008499       0x31 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+ .ARM.attributes
+                0x000000000a0084ca       0x1f E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+                0x000000000a0084e9                __ARM.attributes_end = .
+
+.sdata          0x000000000a008010        0x0
+                0x000000000a008010                __sdata_start = .
+ *(.sdata)
+ *(.sdata.*)
+ *(.gnu.linkonce.s.*)
+                0x000000000a008010                __sdata_end = .
+
+.sbss           0x000000000a008010        0x0
+                0x000000000a008010                __sbss_start = .
+ *(.sbss)
+ *(.sbss.*)
+ *(.gnu.linkonce.sb.*)
+                0x000000000a008010                __sbss_end = .
+
+.tdata          0x000000000a008010        0x0
+                0x000000000a008010                __tdata_start = .
+ *(.tdata)
+ *(.tdata.*)
+ *(.gnu.linkonce.td.*)
+                0x000000000a008010                __tdata_end = .
+
+.tbss           0x000000000a008010        0x0
+                0x000000000a008010                __tbss_start = .
+ *(.tbss)
+ *(.tbss.*)
+ *(.gnu.linkonce.tb.*)
+                0x000000000a008010                __tbss_end = .
+
+.bss            0x000000000a008010     0x402c
+                0x000000000a008010                __bss_start = .
+ *(.bss)
+ .bss           0x000000000a008010       0x1c E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+ .bss           0x000000000a00802c        0xc E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+                0x000000000a00802c                UndefinedExceptionAddr
+                0x000000000a008030                PrefetchAbortAddr
+                0x000000000a008034                DataAbortAddr
+ *(.bss.*)
+ .bss.crc_ready
+                0x000000000a008038        0x4 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .bss.crc_table
+                0x000000000a00803c     0x4000 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+                0x000000000a00c03c                __bss_end = .
+                0x000000000a008010                _SDA_BASE_ = (__sdata_start + ((__sbss_end - __sdata_start) / 0x2))
+                0x000000000a0024d9                _SDA2_BASE_ = (__sdata2_start + ((__sbss2_end - __sdata2_start) / 0x2))
+
+.heap           0x000000000a00c03c     0x1004
+                0x000000000a00c040                . = ALIGN (0x10)
+ *fill*         0x000000000a00c03c        0x4 
+                0x000000000a00c040                _heap = .
+                0x000000000a00c040                HeapBase = .
+                0x000000000a00c040                _heap_start = .
+                0x000000000a00d040                . = (. + _HEAP_SIZE)
+ *fill*         0x000000000a00c040     0x1000 
+                0x000000000a00d040                _heap_end = .
+                0x000000000a00d040                HeapLimit = .
+
+.stack          0x000000000a00d040    0x11800
+                0x000000000a00d040                . = ALIGN (0x10)
+                0x000000000a00d040                _stack_end = .
+                0x000000000a01d040                . = (. + _STACK_SIZE)
+ *fill*         0x000000000a00d040    0x10000 
+                0x000000000a01d040                . = ALIGN (0x10)
+                0x000000000a01d040                _stack = .
+                0x000000000a01d040                __stack = _stack
+                0x000000000a01d040                . = ALIGN (0x10)
+                0x000000000a01d040                _irq_stack_end = .
+                0x000000000a01d440                . = (. + _IRQ_STACK_SIZE)
+ *fill*         0x000000000a01d040      0x400 
+                0x000000000a01d440                . = ALIGN (0x10)
+                0x000000000a01d440                __irq_stack = .
+                0x000000000a01d440                _supervisor_stack_end = .
+                0x000000000a01dc40                . = (. + _SUPERVISOR_STACK_SIZE)
+ *fill*         0x000000000a01d440      0x800 
+                0x000000000a01dc40                . = ALIGN (0x10)
+                0x000000000a01dc40                __supervisor_stack = .
+                0x000000000a01dc40                _abort_stack_end = .
+                0x000000000a01e040                . = (. + _ABORT_STACK_SIZE)
+ *fill*         0x000000000a01dc40      0x400 
+                0x000000000a01e040                . = ALIGN (0x10)
+                0x000000000a01e040                __abort_stack = .
+                0x000000000a01e040                _fiq_stack_end = .
+                0x000000000a01e440                . = (. + _FIQ_STACK_SIZE)
+ *fill*         0x000000000a01e040      0x400 
+                0x000000000a01e440                . = ALIGN (0x10)
+                0x000000000a01e440                __fiq_stack = .
+                0x000000000a01e440                _undef_stack_end = .
+                0x000000000a01e840                . = (. + _UNDEF_STACK_SIZE)
+ *fill*         0x000000000a01e440      0x400 
+                0x000000000a01e840                . = ALIGN (0x10)
+                0x000000000a01e840                __undef_stack = .
+                0x000000000a01e840                _end = .
+START GROUP
+LOAD E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a
+LOAD E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a
+LOAD E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a
+END GROUP
+LOAD E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+LOAD E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+START GROUP
+LOAD E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a
+LOAD E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libg.a
+LOAD E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a
+END GROUP
+OUTPUT(E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.elf elf32-littlearm)
+LOAD linker stubs
+
+.comment        0x0000000000000000       0x12
+ .comment       0x0000000000000000       0x12 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+ .comment       0x0000000000000012       0x13 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .comment       0x0000000000000012       0x13 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .comment       0x0000000000000012       0x13 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(vectors.o)
+ .comment       0x0000000000000012       0x13 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+ .comment       0x0000000000000012       0x13 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+ .comment       0x0000000000000012       0x13 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+ .comment       0x0000000000000012       0x13 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)
+ .comment       0x0000000000000012       0x13 E:/vivado2022/Vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+
+.debug_line     0x0000000000000000     0x4d19
+ .debug_line    0x0000000000000000      0x102 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o
+ .debug_line    0x0000000000000102      0x46f E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+ .debug_line    0x0000000000000571      0x72b E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .debug_line    0x0000000000000c9c     0x2015 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .debug_line    0x0000000000002cb1       0x69 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o
+ .debug_line    0x0000000000002d1a       0x53 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(cpu_init.o)
+ .debug_line    0x0000000000002d6d       0x79 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(vectors.o)
+ .debug_line    0x0000000000002de6     0x19c0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+ .debug_line    0x00000000000047a6      0x23f E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+ .debug_line    0x00000000000049e5      0x266 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+ .debug_line    0x0000000000004c4b       0xce E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)
+
+.debug_line_str
+                0x0000000000000000       0xe7
+ .debug_line_str
+                0x0000000000000000       0x4a E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o
+                                         0x94 (size before relaxing)
+ .debug_line_str
+                0x000000000000004a        0xb E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o
+                                         0xa7 (size before relaxing)
+ .debug_line_str
+                0x0000000000000055       0x92 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(cpu_init.o)
+                                         0x9d (size before relaxing)
+
+.debug_info     0x0000000000000000     0x6cfc
+ .debug_info    0x0000000000000000       0x25 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o
+ .debug_info    0x0000000000000025      0x54b E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+ .debug_info    0x0000000000000570      0x762 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .debug_info    0x0000000000000cd2     0x2537 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .debug_info    0x0000000000003209       0x24 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o
+ .debug_info    0x000000000000322d       0x24 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(cpu_init.o)
+ .debug_info    0x0000000000003251      0x13d E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(vectors.o)
+ .debug_info    0x000000000000338e     0x328a E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+ .debug_info    0x0000000000006618      0x314 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+ .debug_info    0x000000000000692c      0x322 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+ .debug_info    0x0000000000006c4e       0xae E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)
+
+.debug_abbrev   0x0000000000000000     0x1074
+ .debug_abbrev  0x0000000000000000       0x14 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o
+ .debug_abbrev  0x0000000000000014      0x217 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+ .debug_abbrev  0x000000000000022b      0x21f E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .debug_abbrev  0x000000000000044a      0x412 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .debug_abbrev  0x000000000000085c       0x14 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o
+ .debug_abbrev  0x0000000000000870       0x14 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(cpu_init.o)
+ .debug_abbrev  0x0000000000000884       0xb5 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(vectors.o)
+ .debug_abbrev  0x0000000000000939      0x386 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+ .debug_abbrev  0x0000000000000cbf      0x1ef E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+ .debug_abbrev  0x0000000000000eae      0x15d E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+ .debug_abbrev  0x000000000000100b       0x69 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)
+
+.debug_aranges  0x0000000000000000      0x1f0
+ .debug_aranges
+                0x0000000000000000       0x20 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o
+ .debug_aranges
+                0x0000000000000020       0x20 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+ .debug_aranges
+                0x0000000000000040       0x38 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .debug_aranges
+                0x0000000000000078       0x98 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .debug_aranges
+                0x0000000000000110       0x20 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o
+ .debug_aranges
+                0x0000000000000130       0x20 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(cpu_init.o)
+ .debug_aranges
+                0x0000000000000150       0x20 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(vectors.o)
+ .debug_aranges
+                0x0000000000000170       0x20 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+ .debug_aranges
+                0x0000000000000190       0x20 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+ .debug_aranges
+                0x00000000000001b0       0x20 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+ .debug_aranges
+                0x00000000000001d0       0x20 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)
+
+.debug_str      0x0000000000000000      0xf84
+ .debug_str     0x0000000000000000       0x3a E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\boot.S.o
+ .debug_str     0x000000000000003a      0x27f E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+                                        0x325 (size before relaxing)
+ .debug_str     0x00000000000002b9      0x131 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+                                        0x365 (size before relaxing)
+ .debug_str     0x00000000000003ea      0x3d7 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+                                        0x66c (size before relaxing)
+ .debug_str     0x00000000000007c1        0xb E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\xil-crt0.S.o
+                                         0x3e (size before relaxing)
+ .debug_str     0x00000000000007cc       0x92 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(cpu_init.o)
+                                         0x9e (size before relaxing)
+ .debug_str     0x000000000000085e      0x136 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(vectors.o)
+                                        0x25a (size before relaxing)
+ .debug_str     0x0000000000000994      0x478 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+                                        0x689 (size before relaxing)
+ .debug_str     0x0000000000000e0c      0x137 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+                                        0x338 (size before relaxing)
+ .debug_str     0x0000000000000f43       0x25 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+                                        0x250 (size before relaxing)
+ .debug_str     0x0000000000000f68       0x1c E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)
+                                        0x1c0 (size before relaxing)
+
+.debug_loclists
+                0x0000000000000000     0x407a
+ .debug_loclists
+                0x0000000000000000       0xd9 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+ .debug_loclists
+                0x00000000000000d9      0x568 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .debug_loclists
+                0x0000000000000641     0x1d50 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .debug_loclists
+                0x0000000000002391     0x1bbe E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+ .debug_loclists
+                0x0000000000003f4f       0x4a E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+ .debug_loclists
+                0x0000000000003f99       0xcd E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+ .debug_loclists
+                0x0000000000004066       0x14 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)
+
+.debug_rnglists
+                0x0000000000000000      0x792
+ .debug_rnglists
+                0x0000000000000000       0x40 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+ .debug_rnglists
+                0x0000000000000040       0xd9 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .debug_rnglists
+                0x0000000000000119      0x3ec E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .debug_rnglists
+                0x0000000000000505      0x26c E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+ .debug_rnglists
+                0x0000000000000771       0x21 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+
+.debug_frame    0x0000000000000000      0x740
+ .debug_frame   0x0000000000000000       0x38 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\crc_core1.c.o
+ .debug_frame   0x0000000000000038       0xd8 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_crc_headers.c.o
+ .debug_frame   0x0000000000000110      0x200 E:\epifpga\db_rgb_key_voice_20261012\nav_application\crc_core1\db_wire.c.o
+ .debug_frame   0x0000000000000310       0x70 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(vectors.o)
+ .debug_frame   0x0000000000000380      0x2e0 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_cache.o)
+ .debug_frame   0x0000000000000660       0x90 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xil_exception.o)
+ .debug_frame   0x00000000000006f0       0x30 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(xtime_l.o)
+ .debug_frame   0x0000000000000720       0x20 E:\epifpga\db_rgb_j4_20261012\navigator_sdk_v3\platform\ps7_cortexa9_0\standalone_domain\bsp\ps7_cortexa9_0\lib\libxil.a(_exit.o)

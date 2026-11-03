@@ -1,0 +1,189 @@
+{
+  "frame": 2495,
+  "scope": "single captured frame; layer comparison and end-to-end QDQ reference; no dataset accuracy claim",
+  "onnxruntime": "1.31.1",
+  "onnx": "1.23.2",
+  "graph_optimization": "disabled",
+  "provider": "CPUExecutionProvider",
+  "files": {
+    "metadata.txt": "4b1bef1aba5f49b558cbf153ca2638f862b83bc2a3132eea300dd75e26f99d74",
+    "mobile.bin": "0c445b5fa672f3c1ca221c0525c48d35015e845fe630db2a64f59d25a78933c0",
+    "pipeline.bin": "cd2eda72f9eda318f6d63bade8afacc2c9f47c8661e8fa728608d132192febec",
+    "raw_bgr.bin": "11d581441d4efa8c98bb11f61bb3b1570548e7b30d5d6dab308cb2f513614e79",
+    "yunet.bin": "83a3978cc1ef61eaa4e04822da9c79166fee3c0a2e61db2b15c875c273099918"
+  },
+  "models": {
+    "yunet": {
+      "onnx_sha256": "423591f675da52916fc74a6384d2696a1d1087a367ef98cdd053e6b8e0ced03f",
+      "pack_sha256": "4c62c2b125c032275296de119ed9fb5738056e1ab8f0b9461c047ac4642f4fe9",
+      "tensors": 62,
+      "operations": 61,
+      "descriptor_verified": true,
+      "exact_tensors": 11
+    },
+    "mobile": {
+      "onnx_sha256": "5cd2bdf0620b95bc27fb7d78ee0de5305029b673db471e64eb669a739f02d455",
+      "pack_sha256": "5159bad89539aa1032879b716e9a703e4b6b6251c5b4ef5721f709a7243cdea0",
+      "tensors": 64,
+      "operations": 63,
+      "descriptor_verified": true,
+      "exact_tensors": 3
+    }
+  },
+  "checks": {
+    "yunet_preprocess": {
+      "elements": 307200,
+      "different": 0,
+      "max_abs": 0.0,
+      "mean_abs": 0.0,
+      "rmse": 0.0
+    },
+    "mobile_preprocess": {
+      "elements": 37632,
+      "different": 0,
+      "max_abs": 0.0,
+      "mean_abs": 0.0,
+      "rmse": 0.0
+    },
+    "board_head_decode": {
+      "elements": 15,
+      "different": 0,
+      "max_abs": 0.0,
+      "mean_abs": 0.0,
+      "rmse": 0.0
+    },
+    "qdq_detection": {
+      "elements": 15,
+      "different": 4,
+      "max_abs": 11.011474609375,
+      "mean_abs": 1.571282958984375,
+      "rmse": 3.446558745000594
+    },
+    "qdq_box_pixels": {
+      "elements": 4,
+      "different": 3,
+      "max_abs": 11.011474609375,
+      "mean_abs": 4.776939392089844,
+      "rmse": 6.290402275056308
+    },
+    "qdq_landmarks_pixels": {
+      "elements": 10,
+      "different": 1,
+      "max_abs": 4.46148681640625,
+      "mean_abs": 0.446148681640625,
+      "rmse": 1.4108460090657227
+    },
+    "alignment_from_board_landmarks": {
+      "elements": 37632,
+      "different": 1,
+      "max_abs": 1.0,
+      "mean_abs": 2.657312925170068e-05,
+      "rmse": 0.005154913117764516
+    },
+    "end_to_end_alignment": {
+      "elements": 37632,
+      "different": 23854,
+      "max_abs": 252.0,
+      "mean_abs": 3.666347789115646,
+      "rmse": 9.771363195095974
+    },
+    "board_bn_l2": {
+      "elements": 512,
+      "different": 0,
+      "max_abs": 0.0,
+      "mean_abs": 0.0,
+      "rmse": 0.0
+    },
+    "mobile_stage_embedding": {
+      "elements": 512,
+      "different": 309,
+      "max_abs": 3.0,
+      "mean_abs": 0.724609375,
+      "rmse": 0.993140536379419,
+      "cosine": 0.9843872582048226
+    },
+    "end_to_end_embedding": {
+      "elements": 512,
+      "different": 362,
+      "max_abs": 4.0,
+      "mean_abs": 1.01171875,
+      "rmse": 1.334634781503914,
+      "cosine": 0.9718518814769669
+    }
+  },
+  "board_detection": [
+    0.9237812161445618,
+    195.32949829101562,
+    37.827880859375,
+    517.2294921875,
+    538.5948486328125,
+    321.538818359375,
+    232.0,
+    571.383544921875,
+    236.46148681640625,
+    433.0766296386719,
+    343.53778076171875,
+    339.3848876953125,
+    428.3065185546875,
+    544.6144409179688,
+    428.3065185546875
+  ],
+  "qdq_detection": [
+    0.9237812161445618,
+    197.9200439453125,
+    32.3221435546875,
+    517.2294921875,
+    549.6063232421875,
+    321.538818359375,
+    236.46148681640625,
+    571.383544921875,
+    236.46148681640625,
+    433.0766296386719,
+    343.53778076171875,
+    339.3848876953125,
+    428.3065185546875,
+    544.6144409179688,
+    428.3065185546875
+  ],
+  "board_identity_result": {
+    "frame": 2495,
+    "score_q15": 22325,
+    "matched": 1,
+    "valid": 1,
+    "person_id": 1
+  },
+  "identity_reference": {
+    "board_embedding": {
+      "scores_q15": [
+        22325,
+        7182
+      ],
+      "threshold_q15": 16384,
+      "score_q15": 22325,
+      "person_id": 1,
+      "matched": 1
+    },
+    "qdq_stage_embedding": {
+      "scores_q15": [
+        22245,
+        7433
+      ],
+      "threshold_q15": 16384,
+      "score_q15": 22245,
+      "person_id": 1,
+      "matched": 1
+    },
+    "qdq_end_to_end_embedding": {
+      "scores_q15": [
+        21976,
+        7619
+      ],
+      "threshold_q15": 16384,
+      "score_q15": 21976,
+      "person_id": 1,
+      "matched": 1
+    }
+  },
+  "identity_board_matches_independent": true,
+  "qdq_identity_decision_agrees": true
+}

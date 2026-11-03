@@ -1,0 +1,722 @@
+{
+  "folder": "live_auth_01",
+  "window_seconds": [
+    0.0,
+    null
+  ],
+  "ports": {
+    "COM11": {
+      "streams": {
+        "ONE_WAY_AX": {
+          "samples": 240,
+          "first_seconds": 0.867928,
+          "last_seconds": 239.865085,
+          "elapsed_seconds": 238.997157,
+          "session_changes_or_counter_decrease": false,
+          "first": {
+            "received": "6521",
+            "verified": "6521",
+            "submitted": "6521",
+            "result": "6522",
+            "hdmi": "6519",
+            "input_hold_us": "23153",
+            "rejected": "0",
+            "expired": "0",
+            "session": "be1169ab"
+          },
+          "last": {
+            "received": "12365",
+            "verified": "12365",
+            "submitted": "12350",
+            "result": "12351",
+            "hdmi": "12349",
+            "input_hold_us": "23045",
+            "rejected": "0",
+            "expired": "0",
+            "session": "be1169ab"
+          },
+          "delta": {
+            "received": 5844,
+            "verified": 5844,
+            "submitted": 5829,
+            "result": 5829,
+            "hdmi": 5830,
+            "rejected": 0,
+            "expired": 0
+          },
+          "rate_per_second": {
+            "received": 24.452173713514092,
+            "verified": 24.452173713514092,
+            "submitted": 24.389411460655996,
+            "result": 24.389411460655996,
+            "hdmi": 24.393595610846535,
+            "rejected": 0.0,
+            "expired": 0.0
+          }
+        },
+        "NET": {
+          "samples": 240,
+          "first_seconds": 0.8680576,
+          "last_seconds": 239.8823255,
+          "elapsed_seconds": 239.01426790000002,
+          "session_changes_or_counter_decrease": false,
+          "first": {
+            "rx_dma": "8457557",
+            "accepted": "8451940",
+            "queue_full": "0",
+            "qdrop": "0",
+            "rx_recoveries": "30",
+            "fcs": "0",
+            "resource": "0",
+            "overrun": "0",
+            "ip_bad": "0",
+            "udp_bad": "0",
+            "gap_us": "15"
+          },
+          "last": {
+            "rx_dma": "16038768",
+            "accepted": "16026632",
+            "queue_full": "0",
+            "qdrop": "0",
+            "rx_recoveries": "30",
+            "fcs": "0",
+            "resource": "0",
+            "overrun": "0",
+            "ip_bad": "0",
+            "udp_bad": "0",
+            "gap_us": "15"
+          },
+          "delta": {
+            "rx_dma": 7581211,
+            "accepted": 7574692,
+            "queue_full": 0,
+            "qdrop": 0,
+            "rx_recoveries": 0,
+            "fcs": 0,
+            "resource": 0,
+            "overrun": 0,
+            "ip_bad": 0,
+            "udp_bad": 0
+          },
+          "rate_per_second": {
+            "rx_dma": 31718.6545665628,
+            "accepted": 31691.380044178524,
+            "queue_full": 0.0,
+            "qdrop": 0.0,
+            "rx_recoveries": 0.0,
+            "fcs": 0.0,
+            "resource": 0.0,
+            "overrun": 0.0,
+            "ip_bad": 0.0,
+            "udp_bad": 0.0
+          }
+        },
+        "NET_TX": {
+          "samples": 240,
+          "first_seconds": 0.8717683,
+          "last_seconds": 239.8826843,
+          "elapsed_seconds": 239.01091599999998,
+          "session_changes_or_counter_decrease": false,
+          "first": {
+            "pending": "0",
+            "recoveries": "0",
+            "arp_stalls": "0",
+            "udp_stalls": "0",
+            "pool_stalls": "0"
+          },
+          "last": {
+            "pending": "0",
+            "recoveries": "0",
+            "arp_stalls": "0",
+            "udp_stalls": "0",
+            "pool_stalls": "0"
+          },
+          "delta": {
+            "recoveries": 0,
+            "arp_stalls": 0,
+            "udp_stalls": 0,
+            "pool_stalls": 0
+          },
+          "rate_per_second": {
+            "recoveries": 0.0,
+            "arp_stalls": 0.0,
+            "udp_stalls": 0.0,
+            "pool_stalls": 0.0
+          }
+        }
+      },
+      "face_timing_us": {
+        "detect_us": {
+          "n": 0
+        },
+        "embed_us": {
+          "n": 0
+        },
+        "total_us": {
+          "n": 0
+        }
+      },
+      "face_results": [],
+      "access_results": [],
+      "live_results": [
+        {
+          "seconds": 85.5606845,
+          "frame": "8988",
+          "status": "1",
+          "samples": "3",
+          "pass": "2",
+          "consistent": "1",
+          "distance": "631",
+          "time_us": "3167442"
+        },
+        {
+          "seconds": 100.9907496,
+          "frame": "9426",
+          "status": "2",
+          "samples": "1",
+          "pass": "0",
+          "consistent": "0",
+          "distance": "0",
+          "time_us": "1521248"
+        },
+        {
+          "seconds": 111.9568484,
+          "frame": "9653",
+          "status": "1",
+          "samples": "3",
+          "pass": "3",
+          "consistent": "1",
+          "distance": "702",
+          "time_us": "3600764"
+        },
+        {
+          "seconds": 123.3254407,
+          "frame": "9948",
+          "status": "1",
+          "samples": "3",
+          "pass": "3",
+          "consistent": "1",
+          "distance": "699",
+          "time_us": "2690459"
+        },
+        {
+          "seconds": 132.0766381,
+          "frame": "10157",
+          "status": "1",
+          "samples": "3",
+          "pass": "3",
+          "consistent": "1",
+          "distance": "700",
+          "time_us": "2629370"
+        },
+        {
+          "seconds": 165.3049056,
+          "frame": "10960",
+          "status": "2",
+          "samples": "3",
+          "pass": "1",
+          "consistent": "0",
+          "distance": "691",
+          "time_us": "6371799"
+        },
+        {
+          "seconds": 186.783818,
+          "frame": "11484",
+          "status": "1",
+          "samples": "3",
+          "pass": "2",
+          "consistent": "1",
+          "distance": "692",
+          "time_us": "5676931"
+        },
+        {
+          "seconds": 199.7539493,
+          "frame": "11847",
+          "status": "1",
+          "samples": "3",
+          "pass": "2",
+          "consistent": "1",
+          "distance": "696",
+          "time_us": "2629955"
+        },
+        {
+          "seconds": 212.4125121,
+          "frame": "12138",
+          "status": "1",
+          "samples": "3",
+          "pass": "3",
+          "consistent": "1",
+          "distance": "687",
+          "time_us": "3705397"
+        },
+        {
+          "seconds": 225.949096,
+          "frame": "12436",
+          "status": "1",
+          "samples": "3",
+          "pass": "2",
+          "consistent": "1",
+          "distance": "693",
+          "time_us": "4624746"
+        }
+      ],
+      "capture_trigger_seconds": [],
+      "failures": [],
+      "trigger_to_access_host_seconds": {
+        "n": 0
+      },
+      "trigger_to_access_pairs": [],
+      "unmatched_capture_triggers": []
+    },
+    "COM3": {
+      "streams": {
+        "ONE_WAY_NAV": {
+          "samples": 240,
+          "first_seconds": 0.9281768,
+          "last_seconds": 239.966002,
+          "elapsed_seconds": 239.03782520000001,
+          "session_changes_or_counter_decrease": false,
+          "first": {
+            "copied": "6688",
+            "rectified": "6688",
+            "sent": "6523",
+            "rectify_us": "22735",
+            "aborted": "1",
+            "dropped": "163",
+            "flight": "2",
+            "peer": "1",
+            "session": "be1169ab"
+          },
+          "last": {
+            "copied": "12912",
+            "rectified": "12921",
+            "sent": "12368",
+            "rectify_us": "22742",
+            "aborted": "1",
+            "dropped": "552",
+            "flight": "2",
+            "peer": "1",
+            "session": "be1169ab"
+          },
+          "delta": {
+            "copied": 6224,
+            "rectified": 6233,
+            "sent": 5845,
+            "aborted": 0,
+            "dropped": 389
+          },
+          "rate_per_second": {
+            "copied": 26.037720159110616,
+            "rectified": 26.07537110407077,
+            "sent": 24.452197032455263,
+            "aborted": 0.0,
+            "dropped": 1.6273575099444135
+          }
+        },
+        "NET": {
+          "samples": 240,
+          "first_seconds": 0.9287432,
+          "last_seconds": 239.9663931,
+          "elapsed_seconds": 239.0376499,
+          "session_changes_or_counter_decrease": false,
+          "first": {
+            "rx_dma": "8412",
+            "accepted": "0",
+            "queue_full": "0",
+            "qdrop": "0",
+            "rx_recoveries": "1",
+            "fcs": "0",
+            "resource": "0",
+            "overrun": "0",
+            "ip_bad": "0",
+            "udp_bad": "0",
+            "gap_us": "15"
+          },
+          "last": {
+            "rx_dma": "16825",
+            "accepted": "0",
+            "queue_full": "0",
+            "qdrop": "0",
+            "rx_recoveries": "1",
+            "fcs": "0",
+            "resource": "0",
+            "overrun": "0",
+            "ip_bad": "0",
+            "udp_bad": "0",
+            "gap_us": "15"
+          },
+          "delta": {
+            "rx_dma": 8413,
+            "accepted": 0,
+            "queue_full": 0,
+            "qdrop": 0,
+            "rx_recoveries": 0,
+            "fcs": 0,
+            "resource": 0,
+            "overrun": 0,
+            "ip_bad": 0,
+            "udp_bad": 0
+          },
+          "rate_per_second": {
+            "rx_dma": 35.19529247179066,
+            "accepted": 0.0,
+            "queue_full": 0.0,
+            "qdrop": 0.0,
+            "rx_recoveries": 0.0,
+            "fcs": 0.0,
+            "resource": 0.0,
+            "overrun": 0.0,
+            "ip_bad": 0.0,
+            "udp_bad": 0.0
+          }
+        },
+        "NET_TX": {
+          "samples": 240,
+          "first_seconds": 0.9289899,
+          "last_seconds": 239.9665559,
+          "elapsed_seconds": 239.037566,
+          "session_changes_or_counter_decrease": false,
+          "first": {
+            "pending": "0",
+            "recoveries": "0",
+            "arp_stalls": "0",
+            "udp_stalls": "0",
+            "pool_stalls": "0"
+          },
+          "last": {
+            "pending": "0",
+            "recoveries": "0",
+            "arp_stalls": "0",
+            "udp_stalls": "0",
+            "pool_stalls": "210016"
+          },
+          "delta": {
+            "recoveries": 0,
+            "arp_stalls": 0,
+            "udp_stalls": 0,
+            "pool_stalls": 210016
+          },
+          "rate_per_second": {
+            "recoveries": 0.0,
+            "arp_stalls": 0.0,
+            "udp_stalls": 0.0,
+            "pool_stalls": 878.5899367800624
+          }
+        }
+      },
+      "face_timing_us": {
+        "detect_us": {
+          "n": 10,
+          "mean": 1061415.4,
+          "min": 1060184,
+          "median": 1060506.0,
+          "p95": 1063269.6,
+          "max": 1063599
+        },
+        "embed_us": {
+          "n": 10,
+          "mean": 1630120.4,
+          "min": 1623032,
+          "median": 1630496.0,
+          "p95": 1637027.05,
+          "max": 1640515
+        },
+        "total_us": {
+          "n": 10,
+          "mean": 2691535.8,
+          "min": 2683216,
+          "median": 2692508.5,
+          "p95": 2697823.85,
+          "max": 2700806
+        }
+      },
+      "face_results": [
+        {
+          "seconds": 84.0035253,
+          "frame": "8988",
+          "matched": "1",
+          "person_id": "1",
+          "score_q15": "21306",
+          "threshold_q15": "16384"
+        },
+        {
+          "seconds": 101.0408109,
+          "frame": "9426",
+          "matched": "1",
+          "person_id": "1",
+          "score_q15": "22567",
+          "threshold_q15": "16384"
+        },
+        {
+          "seconds": 109.9104887,
+          "frame": "9653",
+          "matched": "1",
+          "person_id": "1",
+          "score_q15": "21765",
+          "threshold_q15": "16384"
+        },
+        {
+          "seconds": 122.2236412,
+          "frame": "9948",
+          "matched": "1",
+          "person_id": "1",
+          "score_q15": "22337",
+          "threshold_q15": "16384"
+        },
+        {
+          "seconds": 131.0414422,
+          "frame": "10157",
+          "matched": "1",
+          "person_id": "1",
+          "score_q15": "23039",
+          "threshold_q15": "16384"
+        },
+        {
+          "seconds": 160.5308726,
+          "frame": "10960",
+          "matched": "1",
+          "person_id": "1",
+          "score_q15": "22601",
+          "threshold_q15": "16384"
+        },
+        {
+          "seconds": 182.689517,
+          "frame": "11484",
+          "matched": "1",
+          "person_id": "1",
+          "score_q15": "22286",
+          "threshold_q15": "16384"
+        },
+        {
+          "seconds": 198.7281034,
+          "frame": "11847",
+          "matched": "1",
+          "person_id": "1",
+          "score_q15": "22562",
+          "threshold_q15": "16384"
+        },
+        {
+          "seconds": 210.2961504,
+          "frame": "12138",
+          "matched": "1",
+          "person_id": "1",
+          "score_q15": "21784",
+          "threshold_q15": "16384"
+        },
+        {
+          "seconds": 222.8642727,
+          "frame": "12436",
+          "matched": "1",
+          "person_id": "1",
+          "score_q15": "21693",
+          "threshold_q15": "16384"
+        }
+      ],
+      "access_results": [
+        {
+          "seconds": 85.5589482,
+          "frame": "8988",
+          "grant": "1",
+          "identity": "1",
+          "live": "1",
+          "score_q15": "21306",
+          "plane_rms_q8": "820",
+          "person_id": "1"
+        },
+        {
+          "seconds": 101.0730988,
+          "frame": "9426",
+          "grant": "0",
+          "identity": "1",
+          "live": "0",
+          "score_q15": "22567",
+          "plane_rms_q8": "861",
+          "person_id": "1"
+        },
+        {
+          "seconds": 111.9084653,
+          "frame": "9653",
+          "grant": "1",
+          "identity": "1",
+          "live": "1",
+          "score_q15": "21765",
+          "plane_rms_q8": "790",
+          "person_id": "1"
+        },
+        {
+          "seconds": 123.3242048,
+          "frame": "9948",
+          "grant": "1",
+          "identity": "1",
+          "live": "1",
+          "score_q15": "22337",
+          "plane_rms_q8": "798",
+          "person_id": "1"
+        },
+        {
+          "seconds": 132.0610393,
+          "frame": "10157",
+          "grant": "1",
+          "identity": "1",
+          "live": "1",
+          "score_q15": "23039",
+          "plane_rms_q8": "794",
+          "person_id": "1"
+        },
+        {
+          "seconds": 165.3045059,
+          "frame": "10960",
+          "grant": "0",
+          "identity": "1",
+          "live": "0",
+          "score_q15": "22601",
+          "plane_rms_q8": "782",
+          "person_id": "1"
+        },
+        {
+          "seconds": 186.76717,
+          "frame": "11484",
+          "grant": "1",
+          "identity": "1",
+          "live": "1",
+          "score_q15": "22286",
+          "plane_rms_q8": "824",
+          "person_id": "1"
+        },
+        {
+          "seconds": 199.7528368,
+          "frame": "11847",
+          "grant": "1",
+          "identity": "1",
+          "live": "1",
+          "score_q15": "22562",
+          "plane_rms_q8": "819",
+          "person_id": "1"
+        },
+        {
+          "seconds": 212.395852,
+          "frame": "12138",
+          "grant": "1",
+          "identity": "1",
+          "live": "1",
+          "score_q15": "21784",
+          "plane_rms_q8": "843",
+          "person_id": "1"
+        },
+        {
+          "seconds": 225.8858061,
+          "frame": "12436",
+          "grant": "1",
+          "identity": "1",
+          "live": "1",
+          "score_q15": "21693",
+          "plane_rms_q8": "818",
+          "person_id": "1"
+        }
+      ],
+      "live_results": [],
+      "capture_trigger_seconds": [
+        81.1945769,
+        98.2571739,
+        107.1118247,
+        119.4557214,
+        128.2428613,
+        157.726709,
+        179.9258471,
+        195.9908341,
+        207.5004872,
+        220.0689949
+      ],
+      "failures": [],
+      "trigger_to_access_host_seconds": {
+        "n": 10,
+        "mean": 4.855689670000001,
+        "min": 2.815924899999999,
+        "median": 4.580505950000003,
+        "p95": 7.246383600000002,
+        "max": 7.57779690000001
+      },
+      "trigger_to_access_pairs": [
+        {
+          "trigger_seconds": 81.1945769,
+          "result_seconds": 85.5589482,
+          "elapsed_seconds": 4.364371300000002,
+          "frame": "8988",
+          "grant": "1"
+        },
+        {
+          "trigger_seconds": 98.2571739,
+          "result_seconds": 101.0730988,
+          "elapsed_seconds": 2.815924899999999,
+          "frame": "9426",
+          "grant": "0"
+        },
+        {
+          "trigger_seconds": 107.1118247,
+          "result_seconds": 111.9084653,
+          "elapsed_seconds": 4.7966406000000035,
+          "frame": "9653",
+          "grant": "1"
+        },
+        {
+          "trigger_seconds": 119.4557214,
+          "result_seconds": 123.3242048,
+          "elapsed_seconds": 3.8684834000000023,
+          "frame": "9948",
+          "grant": "1"
+        },
+        {
+          "trigger_seconds": 128.2428613,
+          "result_seconds": 132.0610393,
+          "elapsed_seconds": 3.8181780000000174,
+          "frame": "10157",
+          "grant": "1"
+        },
+        {
+          "trigger_seconds": 157.726709,
+          "result_seconds": 165.3045059,
+          "elapsed_seconds": 7.57779690000001,
+          "frame": "10960",
+          "grant": "0"
+        },
+        {
+          "trigger_seconds": 179.9258471,
+          "result_seconds": 186.76717,
+          "elapsed_seconds": 6.841322899999994,
+          "frame": "11484",
+          "grant": "1"
+        },
+        {
+          "trigger_seconds": 195.9908341,
+          "result_seconds": 199.7528368,
+          "elapsed_seconds": 3.7620027000000107,
+          "frame": "11847",
+          "grant": "1"
+        },
+        {
+          "trigger_seconds": 207.5004872,
+          "result_seconds": 212.395852,
+          "elapsed_seconds": 4.895364799999982,
+          "frame": "12138",
+          "grant": "1"
+        },
+        {
+          "trigger_seconds": 220.0689949,
+          "result_seconds": 225.8858061,
+          "elapsed_seconds": 5.816811199999989,
+          "frame": "12436",
+          "grant": "1"
+        }
+      ],
+      "unmatched_capture_triggers": []
+    }
+  },
+  "limitations": [
+    "Host receive timestamps include UART buffering and scheduling jitter.",
+    "Counter deltas are per-board intervals, not a synchronized end-to-end loss estimate.",
+    "NAV dropped counts source-side frame discard; it is not Ethernet packet loss.",
+    "FACE timing is firmware inference duration, not button-to-feedback latency.",
+    "Snapshot last_us values are not per-frame latency samples.",
+    "Running firmware identity is user-reported current SD release, not read-back attestation."
+  ]
+}

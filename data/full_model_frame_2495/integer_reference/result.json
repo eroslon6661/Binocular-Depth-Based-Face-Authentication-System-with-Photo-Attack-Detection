@@ -1,0 +1,24 @@
+{
+  "frame": 2495,
+  "scope": "whole graph fixed-point deployment reference; separate from QDQ float operator equivalence",
+  "networks": {
+    "yunet": {
+      "operations": 61,
+      "exact_cumulative_operations": 61,
+      "local_mismatching_operations": 0
+    },
+    "mobile": {
+      "operations": 63,
+      "exact_cumulative_operations": 63,
+      "local_mismatching_operations": 0
+    }
+  },
+  "embedding": {
+    "elements": 512,
+    "different": 0,
+    "max_abs": 0.0,
+    "mean_abs": 0.0,
+    "rmse": 0.0
+  },
+  "passed": true
+}

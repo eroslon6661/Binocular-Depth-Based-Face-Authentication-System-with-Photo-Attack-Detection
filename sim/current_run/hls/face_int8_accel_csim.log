@@ -1,0 +1,8 @@
+INFO: [SIM 2] *************** CSIM start ***************
+   Compiling ../../../../../amd2026_submission_stage_20261101/src/navigator/hardware/hls_src/equivalence_tb.cpp in debug mode
+   Compiling ../../../../../amd2026_submission_stage_20261101/src/navigator/hardware/hls_src/reference.cpp in debug mode
+   Compiling ../../../../../amd2026_submission_stage_20261101/src/navigator/hardware/hls_src/face_int8_accel.cpp in debug mode
+   Generating csim.exe
+FACE_SPEED_EQUIVALENCE_PASS cases=297 output_bytes=695964; integer outputs exact
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

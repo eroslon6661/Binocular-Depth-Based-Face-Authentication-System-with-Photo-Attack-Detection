@@ -1,0 +1,293 @@
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\axivdma_v6_12\src\xaxivdma.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\axivdma_v6_12\src\xaxivdma_channel.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\axivdma_v6_12\src\xaxivdma_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\axivdma_v6_12\src\xaxivdma_intr.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\axivdma_v6_12\src\xaxivdma_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\axivdma_v6_12\src\xaxivdma_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\coresightps_dcc_v1_8\src\xcoresightpsdcc.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\devcfg_v3_7\src\xdevcfg.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\devcfg_v3_7\src\xdevcfg_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\devcfg_v3_7\src\xdevcfg_hw.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\devcfg_v3_7\src\xdevcfg_intr.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\devcfg_v3_7\src\xdevcfg_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\devcfg_v3_7\src\xdevcfg_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\dmaps_v2_8\src\xdmaps.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\dmaps_v2_8\src\xdmaps_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\dmaps_v2_8\src\xdmaps_hw.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\dmaps_v2_8\src\xdmaps_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\dmaps_v2_8\src\xdmaps_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\emacps_v3_17\src\xemacps.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\emacps_v3_17\src\xemacps_bdring.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\emacps_v3_17\src\xemacps_control.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\emacps_v3_17\src\xemacps_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\emacps_v3_17\src\xemacps_hw.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\emacps_v3_17\src\xemacps_intr.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\emacps_v3_17\src\xemacps_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\gpio_v4_9\src\xgpio.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\gpio_v4_9\src\xgpio_extra.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\gpio_v4_9\src\xgpio_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\gpio_v4_9\src\xgpio_intr.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\gpio_v4_9\src\xgpio_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\gpio_v4_9\src\xgpio_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\gpiops_v3_10\src\xgpiops.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\gpiops_v3_10\src\xgpiops_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\gpiops_v3_10\src\xgpiops_hw.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\gpiops_v3_10\src\xgpiops_intr.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\gpiops_v3_10\src\xgpiops_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\gpiops_v3_10\src\xgpiops_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\iicps_v3_16\src\xiicps.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\iicps_v3_16\src\xiicps_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\iicps_v3_16\src\xiicps_hw.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\iicps_v3_16\src\xiicps_intr.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\iicps_v3_16\src\xiicps_master.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\iicps_v3_16\src\xiicps_options.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\iicps_v3_16\src\xiicps_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\iicps_v3_16\src\xiicps_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\iicps_v3_16\src\xiicps_slave.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\iicps_v3_16\src\xiicps_xfer.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\qspips_v3_10\src\xqspips.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\qspips_v3_10\src\xqspips_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\qspips_v3_10\src\xqspips_hw.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\qspips_v3_10\src\xqspips_options.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\qspips_v3_10\src\xqspips_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\qspips_v3_10\src\xqspips_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\rectify_accel_v1_0\src\xrectify_accel.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\rectify_accel_v1_0\src\xrectify_accel_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\rectify_accel_v1_0\src\xrectify_accel_linux.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\rectify_accel_v1_0\src\xrectify_accel_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scugic_v5_0\src\xscugic.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scugic_v5_0\src\xscugic_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scugic_v5_0\src\xscugic_hw.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scugic_v5_0\src\xscugic_intr.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scugic_v5_0\src\xscugic_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scugic_v5_0\src\xscugic_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scutimer_v2_4\src\xscutimer.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scutimer_v2_4\src\xscutimer_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scutimer_v2_4\src\xscutimer_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scutimer_v2_4\src\xscutimer_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scuwdt_v2_4\src\xscuwdt.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scuwdt_v2_4\src\xscuwdt_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scuwdt_v2_4\src\xscuwdt_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\scuwdt_v2_4\src\xscuwdt_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\sdps_v4_0\src\xsdps.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\sdps_v4_0\src\xsdps_card.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\sdps_v4_0\src\xsdps_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\sdps_v4_0\src\xsdps_host.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\sdps_v4_0\src\xsdps_options.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\sdps_v4_0\src\xsdps_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\_exit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\_open.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\_sbrk.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\abort.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\asm_vectors.S
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\boot.S
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\close.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\cpputest_time.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\cpu_init.S
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\errno.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\fcntl.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\fstat.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\getpid.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\inbyte.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\isatty.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\kill.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\lseek.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\open.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\outbyte.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\print.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\putnum.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\read.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\sbrk.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\sleep.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\time.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\translation_table.S
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\unlink.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\usleep.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\vectors.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\write.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil-crt0.S
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_assert.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_cache.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_clocking.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_exception.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_mem.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_misc_psreset_api.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_mmu.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_printf.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_sleepcommon.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_sleeptimer.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_spinlock.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_testcache.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_testio.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_testmem.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xil_util.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xinterrupt_wrap.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xl2cc_counter.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xplatform_info.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xpm_counter.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xtime_l.c
+F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\standalone_v8_0\src\xtime_l.c:45:9: note: '#pragma message: For the sleep routines, Global timer is being used'
+   45 | #pragma message ("For the sleep routines, Global timer is being used")
+      |         ^~~~~~~
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\uartps_v3_11\src\xuartps.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\uartps_v3_11\src\xuartps_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\uartps_v3_11\src\xuartps_hw.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\uartps_v3_11\src\xuartps_intr.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\uartps_v3_11\src\xuartps_options.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\uartps_v3_11\src\xuartps_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\uartps_v3_11\src\xuartps_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\vtc_v8_4\src\xvtc.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\vtc_v8_4\src\xvtc_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\vtc_v8_4\src\xvtc_intr.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\vtc_v8_4\src\xvtc_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\vtc_v8_4\src\xvtc_sinit.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\xadcps_v2_6\src\xadcps.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\xadcps_v2_6\src\xadcps_g.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\xadcps_v2_6\src\xadcps_intr.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\xadcps_v2_6\src\xadcps_selftest.c
+
+SOURCE F:\amd2026_check_20261101\one_command_build_01\navigator_deps\bsp\libsrc\xadcps_v2_6\src\xadcps_sinit.c

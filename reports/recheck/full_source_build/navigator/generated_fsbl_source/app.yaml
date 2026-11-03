@@ -1,0 +1,4 @@
+domain_path: F:/amd2026_check_20261101/one_command_build_01/fsbl_workspace/navigator_source/zynq_fsbl/zynq_fsbl_bsp
+app_src_dir: E:\vivado2026.1\2026.1\Vitis\data\embeddedsw\lib\sw_apps\zynq_fsbl
+template: zynq_fsbl
+lang: c

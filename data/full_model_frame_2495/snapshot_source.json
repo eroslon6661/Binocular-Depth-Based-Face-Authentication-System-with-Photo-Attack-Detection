@@ -1,0 +1,7 @@
+{
+  "diagnostic_only": true,
+  "modified_file": "db_face_pipeline.c",
+  "baseline_sha256": "4195796957e409173c3fc5d2b2b4a24cf06dac38e0b5a08a14c037fc9a65db92",
+  "diagnostic_sha256": "cc1c247571434c92e5fa6261b8285272a9f2d06f1c2c34d0b758c66e4ecf2b73",
+  "timing_valid": false
+}

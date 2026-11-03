@@ -1,0 +1,48 @@
+{
+  "tool_version": "2026.1",
+  "navigator": {
+    "hardware_script": "src/navigator/hardware/recreate.tcl",
+    "project_name": "nav_v3",
+    "source": "src/navigator/software",
+    "bsp": "src/navigator/deps/bsp",
+    "linker": "src/navigator/deps/lscript.ld",
+    "jtag": "board/navigator/jtag",
+    "boot_sources": "board/navigator/boot_sources",
+    "assembly": [
+      {"section": ".db_crc_core1", "alignment": 64, "blobs": [
+        {"start": "db_crc_core1_start", "end": "db_crc_core1_end", "path": "src/navigator/deps/crc_core1/crc_core1.bin"}
+      ]},
+      {"section": ".db_maps", "alignment": 64, "blobs": [
+        {"start": "db_map_left", "path": "src/common/calibration/map_left_q8.bin"},
+        {"start": "db_mask_left", "path": "src/common/calibration/mask_left.bin"},
+        {"start": "db_map_right", "path": "src/common/calibration/map_right_q8.bin"},
+        {"start": "db_mask_right", "path": "src/common/calibration/mask_right.bin"}
+      ]},
+      {"section": ".db_face_models", "alignment": 64, "blobs": [
+        {"start": "db_yunet_pack_start", "end": "db_yunet_pack_end", "path": "src/navigator/deps/face_models_int8/yunet_320_hls_int8.pack"},
+        {"start": "db_mobile_pack_start", "end": "db_mobile_pack_end", "path": "src/navigator/deps/face_models_int8/mobilefacenet_112_hls_int8.pack"}
+      ]},
+      {"section": ".rodata.preview_shading", "alignment": 64, "blobs": [
+        {"start": "db_preview_shading_gain", "path": "src/navigator/deps/preview_gains_q7.bin"}
+      ]}
+    ]
+  },
+  "ax7020": {
+    "hardware_script": "src/ax7020/hardware/recreate.tcl",
+    "project_name": "ax7020",
+    "source": "src/ax7020/software",
+    "bsp": "src/ax7020/deps/bsp",
+    "linker": "src/ax7020/deps/lscript.ld",
+    "jtag": "board/ax7020/jtag",
+    "boot_sources": "board/ax7020/boot_sources",
+    "assembly": [
+      {"section": ".db_crc_core1", "alignment": 2048, "blobs": [
+        {"start": "db_crc_core1_start", "end": "db_crc_core1_end", "path": "src/ax7020/deps/crc_core1/crc_core1.bin"}
+      ]},
+      {"section": ".db_maps", "alignment": 64, "blobs": [
+        {"start": "db_mask_left", "path": "src/common/calibration/mask_left.bin"},
+        {"start": "db_mask_right", "path": "src/common/calibration/mask_right.bin"}
+      ]}
+    ]
+  }
+}

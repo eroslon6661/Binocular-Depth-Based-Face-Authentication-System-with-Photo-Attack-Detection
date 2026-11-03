@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "scope": "One combinational SGM path core, 65 candidates, four-bit saturated state, P1=2 P2=8. No row RAM, full-image timing or real-camera accuracy assertion.",
+  "cases": 4244,
+  "candidate_outputs": 275860,
+  "minimum_outputs": 4244,
+  "boundary_cases": 315,
+  "saturated_outputs": 55391,
+  "rng_seed": 20261028,
+  "rtl_source": "F:\\amd2026_submission_stage_20261101\\sim\\sgbm_path\\path_core.v",
+  "rtl_sha256": "2d92116d675ccc18f4b08d48d8221cf8658d0bb668e54b0e817350a4b1153151",
+  "reference": "Independent Python normalized recurrence, then saturation to 15; consistent predecessor minimum.",
+  "tool": "See raw xvlog/xelab/xsim logs for actual tool version",
+  "tool_bin": "E:\\vivado2026.1\\2026.1\\Vivado\\bin",
+  "testbench_sha256": "68cad702d2259bee5affbf67731ee7fef92f63f9cb2d540f6f4c714a5239c035",
+  "commands": [
+    {
+      "command": [
+        "xvlog.bat",
+        "-sv",
+        "path_core.v",
+        "tb.sv"
+      ],
+      "returncode": 0
+    },
+    {
+      "command": [
+        "xelab.bat",
+        "tb",
+        "-s",
+        "path_check",
+        "-debug",
+        "off"
+      ],
+      "returncode": 0
+    },
+    {
+      "command": [
+        "xsim.bat",
+        "path_check",
+        "-runall"
+      ],
+      "returncode": 0
+    }
+  ]
+}

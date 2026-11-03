@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "cases": 1067,
+  "seed": 20261101,
+  "mismatches": [],
+  "scope": "Host-compiled unchanged PS identity matching vs independent Python integer cosine/rounding/threshold oracle. Not whole-model, board or accuracy verification. No firmware changes.",
+  "source_sha256": {
+    "db_face_identity.c": "a72adf990803e89fc5f729180980496b4a8cabdb20fd1669c141f74c89fe29c4",
+    "db_face_identity_template.c": "221b9f2d99ddd62bc6cfb3450febc61f778f95ac24f7b7506a22488c7b5c1c13",
+    "db_face_gallery.c": "466eb0da6dad28c7ba3181bf7f97789930d6a597a85e3f779a058b1e71e0a4ef"
+  },
+  "input_sha256": "54e7572fa15293c78926212cb515ba2eeada2795fc447cb7b58dd22894dc17dd",
+  "compiler": "gcc.exe (GCC) 8.3.0"
+}

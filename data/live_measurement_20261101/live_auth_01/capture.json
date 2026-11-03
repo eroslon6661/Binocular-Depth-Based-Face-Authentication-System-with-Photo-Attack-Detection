@@ -1,0 +1,12 @@
+{
+  "data_written_to_boards": false,
+  "rts": false,
+  "timestamp": "host monotonic receive time; UART buffering and delivery jitter apply",
+  "ports": [
+    "COM3",
+    "COM11"
+  ],
+  "baud": 115200,
+  "elapsed_seconds": 240.025639,
+  "dtr": false
+}

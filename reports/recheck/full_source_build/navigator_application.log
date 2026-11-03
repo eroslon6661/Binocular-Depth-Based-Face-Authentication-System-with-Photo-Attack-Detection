@@ -1,0 +1,10 @@
+F:\amd2026_submission_stage_20261101\src\navigator\software\db_phy.c:607:14: warning: 'get_Realtek_phy_speed' defined but not used [-Wunused-function]
+  607 | static u32_t get_Realtek_phy_speed(XEmacPs *xemacpsp, u32_t phy_addr)
+      |              ^~~~~~~~~~~~~~~~~~~~~
+F:\amd2026_submission_stage_20261101\src\navigator\software\db_phy.c:518:14: warning: 'get_Marvell_phy_speed' defined but not used [-Wunused-function]
+  518 | static u32_t get_Marvell_phy_speed(XEmacPs *xemacpsp, u32_t phy_addr)
+      |              ^~~~~~~~~~~~~~~~~~~~~
+F:\amd2026_submission_stage_20261101\src\navigator\software\db_phy.c:376:14: warning: 'get_TI_phy_speed' defined but not used [-Wunused-function]
+  376 | static u32_t get_TI_phy_speed(XEmacPs *xemacpsp, u32_t phy_addr)
+      |              ^~~~~~~~~~~~~~~~
+FULL_SOURCE_LINK_PASS role=nav sha256=d3ad763f72c11a007266e880c9df8375b35bd1fd2b17cf442a409da4e3d8e31f

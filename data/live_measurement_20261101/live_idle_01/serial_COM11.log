@@ -1,0 +1,1200 @@
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1664 verified=1664 submitted=1664 result=1664 hdmi=1663 input_hold_us=23153 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2159371 accepted=2157928 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97675 service_gap_max_us=397 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002bdfc0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=269839 tx_encode_us=0 tx_submit_us=0 poll_us=489724
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1692 verified=1692 submitted=1692 result=1692 hdmi=1691 input_hold_us=23113 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2195481 accepted=2194014 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96014 service_gap_max_us=371 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002724c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266414 tx_encode_us=0 tx_submit_us=0 poll_us=478525
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1720 verified=1720 submitted=1720 result=1720 hdmi=1719 input_hold_us=23114 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2231826 accepted=2230334 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95487 service_gap_max_us=393 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002bc3c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268285 tx_encode_us=0 tx_submit_us=0 poll_us=482779
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1748 verified=1748 submitted=1748 result=1748 hdmi=1747 input_hold_us=23153 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2267982 accepted=2266467 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97183 service_gap_max_us=382 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002dd7c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=269269 tx_encode_us=0 tx_submit_us=0 poll_us=487162
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1774 verified=1774 submitted=1774 result=1774 hdmi=1773 input_hold_us=23085 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2302502 accepted=2300958 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=110162 service_gap_max_us=386 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=263 capacity=512 max_used=271 free_head=00289ec0 ring_hw=256 ring_free=0 queue=7 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=252848 tx_encode_us=0 tx_submit_us=0 poll_us=478153
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1802 verified=1802 submitted=1802 result=1802 hdmi=1801 input_hold_us=23084 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2338700 accepted=2337137 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95715 service_gap_max_us=370 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002ac0c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268421 tx_encode_us=0 tx_submit_us=0 poll_us=479211
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1830 verified=1830 submitted=1830 result=1830 hdmi=1829 input_hold_us=23158 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2374835 accepted=2373249 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95799 service_gap_max_us=352 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002755c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266875 tx_encode_us=0 tx_submit_us=0 poll_us=480833
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1858 verified=1858 submitted=1858 result=1858 hdmi=1857 input_hold_us=23108 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2411189 accepted=2409579 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96567 service_gap_max_us=374 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=258 capacity=512 max_used=271 free_head=002a5ec0 ring_hw=256 ring_free=0 queue=2 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=270191 tx_encode_us=0 tx_submit_us=0 poll_us=488566
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1886 verified=1886 submitted=1886 result=1886 hdmi=1885 input_hold_us=23058 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2447287 accepted=2445652 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96607 service_gap_max_us=393 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002dfac0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266749 tx_encode_us=0 tx_submit_us=0 poll_us=480101
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1914 verified=1914 submitted=1914 result=1914 hdmi=1913 input_hold_us=23071 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2483531 accepted=2481871 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=1 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95678 service_gap_max_us=413 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=261 capacity=512 max_used=271 free_head=002a0ac0 ring_hw=256 ring_free=0 queue=5 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267439 tx_encode_us=0 tx_submit_us=0 poll_us=483282
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1942 verified=1942 submitted=1942 result=1942 hdmi=1941 input_hold_us=23065 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2519805 accepted=2518122 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97204 service_gap_max_us=387 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002d75c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=269274 tx_encode_us=0 tx_submit_us=0 poll_us=488019
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1970 verified=1970 submitted=1970 result=1970 hdmi=1969 input_hold_us=23154 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2555907 accepted=2554202 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95866 service_gap_max_us=393 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=256 capacity=512 max_used=271 free_head=00292ac0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267380 tx_encode_us=0 tx_submit_us=0 poll_us=478982
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=1998 verified=1998 submitted=1998 result=1998 hdmi=1997 input_hold_us=23046 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2592248 accepted=2590516 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95058 service_gap_max_us=368 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=0028f2c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268530 tx_encode_us=0 tx_submit_us=0 poll_us=484310
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2026 verified=2026 submitted=2026 result=2026 hdmi=2025 input_hold_us=23066 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2628420 accepted=2626665 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97384 service_gap_max_us=375 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=00279bc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268841 tx_encode_us=0 tx_submit_us=0 poll_us=487044
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2053 verified=2053 submitted=2053 result=2053 hdmi=2051 input_hold_us=23117 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2663236 accepted=2661458 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=106256 service_gap_max_us=373 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=002b76c0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=257224 tx_encode_us=0 tx_submit_us=0 poll_us=478245
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2081 verified=2081 submitted=2081 result=2081 hdmi=2079 input_hold_us=23175 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2699462 accepted=2697658 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97317 service_gap_max_us=354 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002985c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266259 tx_encode_us=0 tx_submit_us=0 poll_us=484551
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2109 verified=2109 submitted=2109 result=2109 hdmi=2107 input_hold_us=23048 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2735719 accepted=2733894 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95444 service_gap_max_us=369 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=0026c2c0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271172 tx_encode_us=0 tx_submit_us=0 poll_us=487594
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2136 verified=2136 submitted=2136 result=2136 hdmi=2135 input_hold_us=23076 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2771923 accepted=2770072 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95844 service_gap_max_us=372 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0027d3c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267288 tx_encode_us=0 tx_submit_us=0 poll_us=481606
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2164 verified=2164 submitted=2164 result=2164 hdmi=2163 input_hold_us=23064 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2808071 accepted=2806196 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97792 service_gap_max_us=352 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002b4cc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=265022 tx_encode_us=0 tx_submit_us=0 poll_us=483816
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2192 verified=2192 submitted=2192 result=2192 hdmi=2191 input_hold_us=23144 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2844416 accepted=2842518 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94812 service_gap_max_us=388 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=0027d3c0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272405 tx_encode_us=0 tx_submit_us=0 poll_us=488378
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2219 verified=2219 submitted=2219 result=2219 hdmi=2218 input_hold_us=23097 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2878800 accepted=2876877 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=111751 service_gap_max_us=341 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=00298cc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=250978 tx_encode_us=0 tx_submit_us=0 poll_us=477261
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2247 verified=2247 submitted=2247 result=2247 hdmi=2246 input_hold_us=23113 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2914985 accepted=2913038 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95602 service_gap_max_us=351 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0027e8c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267306 tx_encode_us=0 tx_submit_us=0 poll_us=478837
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2275 verified=2275 submitted=2275 result=2275 hdmi=2274 input_hold_us=23100 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2951222 accepted=2949251 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96840 service_gap_max_us=350 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0029f5c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266884 tx_encode_us=0 tx_submit_us=0 poll_us=482848
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2303 verified=2303 submitted=2303 result=2303 hdmi=2302 input_hold_us=23080 rejected=0 expired=0 session=be1169ab
+NET rx_dma=2987384 accepted=2985389 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96275 service_gap_max_us=386 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0027efc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=270025 tx_encode_us=0 tx_submit_us=0 poll_us=486875
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2331 verified=2331 submitted=2331 result=2331 hdmi=2329 input_hold_us=23087 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3023698 accepted=3021677 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95118 service_gap_max_us=351 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=261 capacity=512 max_used=271 free_head=002716c0 ring_hw=256 ring_free=0 queue=5 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268107 tx_encode_us=0 tx_submit_us=0 poll_us=480048
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2358 verified=2358 submitted=2358 result=2358 hdmi=2357 input_hold_us=23091 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3059848 accepted=3057801 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97897 service_gap_max_us=354 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=264 capacity=512 max_used=271 free_head=0026a6c0 ring_hw=256 ring_free=0 queue=8 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=265176 tx_encode_us=0 tx_submit_us=0 poll_us=483183
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2386 verified=2386 submitted=2386 result=2386 hdmi=2385 input_hold_us=23081 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3096100 accepted=3094028 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95511 service_gap_max_us=359 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=264 capacity=512 max_used=271 free_head=002cc6c0 ring_hw=256 ring_free=0 queue=8 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271081 tx_encode_us=0 tx_submit_us=0 poll_us=487086
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2413 verified=2413 submitted=2413 result=2413 hdmi=2412 input_hold_us=23123 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3130974 accepted=3128883 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=108152 service_gap_max_us=341 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002d8ac0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=257953 tx_encode_us=0 tx_submit_us=0 poll_us=480022
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2441 verified=2441 submitted=2441 result=2441 hdmi=2440 input_hold_us=23067 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3167193 accepted=3165078 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95538 service_gap_max_us=400 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=258 capacity=512 max_used=271 free_head=0027e8c0 ring_hw=256 ring_free=0 queue=2 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267379 tx_encode_us=0 tx_submit_us=0 poll_us=482466
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2469 verified=2469 submitted=2469 result=2469 hdmi=2468 input_hold_us=23089 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3203467 accepted=3201327 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95219 service_gap_max_us=382 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002d91c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271374 tx_encode_us=0 tx_submit_us=0 poll_us=485994
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2497 verified=2497 submitted=2497 result=2497 hdmi=2496 input_hold_us=23080 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3239585 accepted=3237420 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=98355 service_gap_max_us=395 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=262 capacity=512 max_used=271 free_head=002c41c0 ring_hw=256 ring_free=0 queue=6 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=265173 tx_encode_us=0 tx_submit_us=0 poll_us=481434
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2525 verified=2525 submitted=2525 result=2525 hdmi=2524 input_hold_us=23044 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3275873 accepted=3273688 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95225 service_gap_max_us=358 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=002a7ac0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267686 tx_encode_us=0 tx_submit_us=0 poll_us=483333
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2553 verified=2553 submitted=2553 result=2553 hdmi=2552 input_hold_us=23142 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3312123 accepted=3309912 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95416 service_gap_max_us=382 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0028c8c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=270848 tx_encode_us=0 tx_submit_us=0 poll_us=486271
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2581 verified=2581 submitted=2581 result=2581 hdmi=2580 input_hold_us=23088 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3348238 accepted=3346004 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97001 service_gap_max_us=349 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=0026dec0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268374 tx_encode_us=0 tx_submit_us=0 poll_us=483681
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2609 verified=2609 submitted=2609 result=2609 hdmi=2608 input_hold_us=23052 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3384490 accepted=3382231 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96823 service_gap_max_us=313 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002ac7c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266021 tx_encode_us=0 tx_submit_us=0 poll_us=482282
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2637 verified=2637 submitted=2637 result=2637 hdmi=2636 input_hold_us=23135 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3420667 accepted=3418384 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95635 service_gap_max_us=373 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002bfbc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=270579 tx_encode_us=0 tx_submit_us=0 poll_us=486968
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2665 verified=2665 submitted=2665 result=2665 hdmi=2663 input_hold_us=23080 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3456950 accepted=3454645 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96738 service_gap_max_us=368 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=00271dc0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267448 tx_encode_us=0 tx_submit_us=0 poll_us=482138
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2693 verified=2693 submitted=2693 result=2693 hdmi=2692 input_hold_us=23055 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3493229 accepted=3490898 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95607 service_gap_max_us=364 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002946c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=269371 tx_encode_us=0 tx_submit_us=0 poll_us=485259
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2721 verified=2721 submitted=2721 result=2721 hdmi=2719 input_hold_us=23147 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3529550 accepted=3527195 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94869 service_gap_max_us=382 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002889c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271176 tx_encode_us=0 tx_submit_us=0 poll_us=484746
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2748 verified=2748 submitted=2748 result=2748 hdmi=2747 input_hold_us=23139 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3564660 accepted=3562281 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=106330 service_gap_max_us=338 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002b5ac0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=256865 tx_encode_us=0 tx_submit_us=0 poll_us=478693
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2776 verified=2776 submitted=2776 result=2776 hdmi=2775 input_hold_us=23043 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3600848 accepted=3598445 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95611 service_gap_max_us=378 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002d91c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271379 tx_encode_us=0 tx_submit_us=0 poll_us=487008
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2804 verified=2804 submitted=2804 result=2804 hdmi=2802 input_hold_us=23089 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3637169 accepted=3634742 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94657 service_gap_max_us=381 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002ce9c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268589 tx_encode_us=0 tx_submit_us=0 poll_us=478824
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2832 verified=2832 submitted=2832 result=2832 hdmi=2831 input_hold_us=23151 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3673477 accepted=3671026 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97231 service_gap_max_us=346 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002c79c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=270622 tx_encode_us=0 tx_submit_us=0 poll_us=488669
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2860 verified=2860 submitted=2860 result=2860 hdmi=2858 input_hold_us=23145 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3709783 accepted=3707308 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94941 service_gap_max_us=384 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002843c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=269405 tx_encode_us=0 tx_submit_us=0 poll_us=481933
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2888 verified=2888 submitted=2888 result=2888 hdmi=2887 input_hold_us=23044 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3746043 accepted=3743544 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96366 service_gap_max_us=364 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002aa4c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266645 tx_encode_us=0 tx_submit_us=0 poll_us=481483
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2916 verified=2916 submitted=2916 result=2916 hdmi=2915 input_hold_us=23077 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3782375 accepted=3779854 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95788 service_gap_max_us=395 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=002a2dc0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271665 tx_encode_us=0 tx_submit_us=0 poll_us=488709
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2944 verified=2944 submitted=2944 result=2943 hdmi=2942 input_hold_us=23069 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3818690 accepted=3816141 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95098 service_gap_max_us=343 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=261 capacity=512 max_used=271 free_head=00287bc0 ring_hw=256 ring_free=0 queue=5 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267604 tx_encode_us=0 tx_submit_us=0 poll_us=478624
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=2972 verified=2972 submitted=2972 result=2972 hdmi=2971 input_hold_us=23152 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3855060 accepted=3852489 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95893 service_gap_max_us=346 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=00299ac0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272836 tx_encode_us=0 tx_submit_us=0 poll_us=489929
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3000 verified=3000 submitted=3000 result=3000 hdmi=2998 input_hold_us=23155 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3891369 accepted=3888776 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95762 service_gap_max_us=352 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=002740c0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267644 tx_encode_us=0 tx_submit_us=0 poll_us=480891
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3028 verified=3028 submitted=3028 result=3028 hdmi=3027 input_hold_us=23041 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3927696 accepted=3925077 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95015 service_gap_max_us=271 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0028acc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268615 tx_encode_us=0 tx_submit_us=0 poll_us=483595
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3056 verified=3056 submitted=3056 result=3056 hdmi=3055 input_hold_us=23141 rejected=0 expired=0 session=be1169ab
+NET rx_dma=3964096 accepted=3961455 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96526 service_gap_max_us=380 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=002a96c0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271893 tx_encode_us=0 tx_submit_us=0 poll_us=488092
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3084 verified=3084 submitted=3084 result=3084 hdmi=3083 input_hold_us=23039 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4000451 accepted=3997784 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94841 service_gap_max_us=340 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002a88c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266439 tx_encode_us=0 tx_submit_us=0 poll_us=480031
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3112 verified=3112 submitted=3112 result=3112 hdmi=3111 input_hold_us=23051 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4036814 accepted=4034122 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94877 service_gap_max_us=374 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002a81c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=273003 tx_encode_us=0 tx_submit_us=0 poll_us=488153
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3140 verified=3140 submitted=3140 result=3140 hdmi=3139 input_hold_us=23044 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4073198 accepted=4070485 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96419 service_gap_max_us=353 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=256 capacity=512 max_used=271 free_head=002ba7c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=265611 tx_encode_us=0 tx_submit_us=0 poll_us=480132
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3168 verified=3168 submitted=3168 result=3168 hdmi=3167 input_hold_us=23106 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4109664 accepted=4106925 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94248 service_gap_max_us=373 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002b1bc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=274909 tx_encode_us=0 tx_submit_us=0 poll_us=489845
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3196 verified=3196 submitted=3196 result=3196 hdmi=3195 input_hold_us=23079 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4145947 accepted=4143184 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97005 service_gap_max_us=352 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002ddec0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=264655 tx_encode_us=0 tx_submit_us=0 poll_us=479265
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3224 verified=3224 submitted=3224 result=3224 hdmi=3223 input_hold_us=23109 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4182536 accepted=4179748 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=93468 service_gap_max_us=372 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=0029eec0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=277002 tx_encode_us=0 tx_submit_us=0 poll_us=492148
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3252 verified=3252 submitted=3252 result=3252 hdmi=3251 input_hold_us=23112 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4218768 accepted=4215956 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94921 service_gap_max_us=346 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002decc0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=265078 tx_encode_us=0 tx_submit_us=0 poll_us=477331
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3280 verified=3280 submitted=3280 result=3280 hdmi=3279 input_hold_us=23143 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4255333 accepted=4252498 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96013 service_gap_max_us=379 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002b7dc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=273301 tx_encode_us=0 tx_submit_us=0 poll_us=492248
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3308 verified=3308 submitted=3308 result=3308 hdmi=3307 input_hold_us=23121 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4291483 accepted=4288624 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96023 service_gap_max_us=382 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002df3c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266189 tx_encode_us=0 tx_submit_us=0 poll_us=479124
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3336 verified=3336 submitted=3336 result=3336 hdmi=3335 input_hold_us=23052 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4327976 accepted=4325093 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96181 service_gap_max_us=358 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002ab2c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=273114 tx_encode_us=0 tx_submit_us=0 poll_us=492670
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3364 verified=3364 submitted=3364 result=3364 hdmi=3363 input_hold_us=23156 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4364226 accepted=4361321 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95036 service_gap_max_us=377 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=258 capacity=512 max_used=271 free_head=0028ebc0 ring_hw=256 ring_free=0 queue=2 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267869 tx_encode_us=0 tx_submit_us=0 poll_us=480446
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3392 verified=3392 submitted=3392 result=3392 hdmi=3391 input_hold_us=23194 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4400592 accepted=4397662 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94507 service_gap_max_us=273 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=258 capacity=512 max_used=271 free_head=002819c0 ring_hw=256 ring_free=0 queue=2 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=270047 tx_encode_us=0 tx_submit_us=0 poll_us=484218
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3420 verified=3420 submitted=3420 result=3420 hdmi=3419 input_hold_us=23143 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4437026 accepted=4434072 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96793 service_gap_max_us=380 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002bd8c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271573 tx_encode_us=0 tx_submit_us=0 poll_us=488557
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3449 verified=3449 submitted=3449 result=3449 hdmi=3447 input_hold_us=23068 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4473184 accepted=4470206 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95195 service_gap_max_us=355 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0029f5c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266026 tx_encode_us=0 tx_submit_us=0 poll_us=477740
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3476 verified=3476 submitted=3476 result=3476 hdmi=3475 input_hold_us=23127 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4509642 accepted=4506642 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96837 service_gap_max_us=352 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=256 capacity=512 max_used=271 free_head=002affc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271306 tx_encode_us=0 tx_submit_us=0 poll_us=491218
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3504 verified=3504 submitted=3504 result=3504 hdmi=3503 input_hold_us=23054 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4545885 accepted=4542859 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95012 service_gap_max_us=401 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0028a5c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266938 tx_encode_us=0 tx_submit_us=0 poll_us=478568
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3532 verified=3532 submitted=3532 result=3532 hdmi=3531 input_hold_us=23143 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4582390 accepted=4579340 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94114 service_gap_max_us=365 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=258 capacity=512 max_used=271 free_head=0029b6c0 ring_hw=256 ring_free=0 queue=2 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=275472 tx_encode_us=0 tx_submit_us=0 poll_us=491063
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3560 verified=3560 submitted=3560 result=3560 hdmi=3559 input_hold_us=23108 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4618694 accepted=4615615 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97289 service_gap_max_us=376 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=264 capacity=512 max_used=271 free_head=0029d9c0 ring_hw=256 ring_free=0 queue=8 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266625 tx_encode_us=0 tx_submit_us=0 poll_us=481532
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3589 verified=3589 submitted=3589 result=3589 hdmi=3587 input_hold_us=23139 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4655051 accepted=4651953 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94710 service_gap_max_us=382 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0028d6c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272012 tx_encode_us=0 tx_submit_us=0 poll_us=486930
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3617 verified=3617 submitted=3617 result=3617 hdmi=3615 input_hold_us=23047 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4691445 accepted=4688325 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94305 service_gap_max_us=407 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=0028f2c0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268943 tx_encode_us=0 tx_submit_us=0 poll_us=481722
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3645 verified=3645 submitted=3645 result=3645 hdmi=3643 input_hold_us=23066 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4727668 accepted=4724522 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97303 service_gap_max_us=278 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002cb1c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=265562 tx_encode_us=0 tx_submit_us=0 poll_us=482964
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3673 verified=3673 submitted=3673 result=3673 hdmi=3671 input_hold_us=23079 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4764102 accepted=4760932 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94487 service_gap_max_us=373 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002cbfc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=274063 tx_encode_us=0 tx_submit_us=0 poll_us=489584
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3701 verified=3701 submitted=3701 result=3701 hdmi=3699 input_hold_us=23042 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4800337 accepted=4797144 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97122 service_gap_max_us=349 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=258 capacity=512 max_used=271 free_head=00298cc0 ring_hw=256 ring_free=0 queue=2 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=264599 tx_encode_us=0 tx_submit_us=0 poll_us=479637
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3729 verified=3729 submitted=3729 result=3729 hdmi=3727 input_hold_us=23146 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4836702 accepted=4833484 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95119 service_gap_max_us=371 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002985c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=274423 tx_encode_us=0 tx_submit_us=0 poll_us=491160
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3757 verified=3757 submitted=3757 result=3757 hdmi=3755 input_hold_us=23104 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4873082 accepted=4869840 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94498 service_gap_max_us=380 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002c25c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268860 tx_encode_us=0 tx_submit_us=0 poll_us=480138
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3785 verified=3785 submitted=3785 result=3785 hdmi=3784 input_hold_us=23141 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4909435 accepted=4906169 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97099 service_gap_max_us=342 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0029d9c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271210 tx_encode_us=0 tx_submit_us=0 poll_us=491772
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3813 verified=3813 submitted=3813 result=3813 hdmi=3811 input_hold_us=23104 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4945742 accepted=4942452 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94815 service_gap_max_us=382 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002c8ec0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=270577 tx_encode_us=0 tx_submit_us=0 poll_us=481573
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3841 verified=3841 submitted=3841 result=3841 hdmi=3840 input_hold_us=23047 rejected=0 expired=0 session=be1169ab
+NET rx_dma=4982106 accepted=4978792 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94715 service_gap_max_us=366 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0026c9c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268489 tx_encode_us=0 tx_submit_us=0 poll_us=482817
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3869 verified=3869 submitted=3869 result=3869 hdmi=3868 input_hold_us=23124 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5018446 accepted=5015110 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96859 service_gap_max_us=382 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=0028f9c0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271683 tx_encode_us=0 tx_submit_us=0 poll_us=486892
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3897 verified=3897 submitted=3897 result=3897 hdmi=3896 input_hold_us=23043 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5054739 accepted=5051377 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95032 service_gap_max_us=360 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002b92c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267103 tx_encode_us=0 tx_submit_us=0 poll_us=479549
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3925 verified=3925 submitted=3925 result=3925 hdmi=3924 input_hold_us=23091 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5091094 accepted=5087708 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94806 service_gap_max_us=372 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=00276ac0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=273450 tx_encode_us=0 tx_submit_us=0 poll_us=489521
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3953 verified=3953 submitted=3953 result=3953 hdmi=3951 input_hold_us=23059 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5127379 accepted=5123970 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96338 service_gap_max_us=385 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=00286dc0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266911 tx_encode_us=0 tx_submit_us=0 poll_us=480398
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=3981 verified=3981 submitted=3981 result=3981 hdmi=3980 input_hold_us=23167 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5163773 accepted=5160339 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95696 service_gap_max_us=357 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002d3dc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272302 tx_encode_us=0 tx_submit_us=0 poll_us=489403
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4009 verified=4009 submitted=4009 result=4009 hdmi=4008 input_hold_us=23104 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5200088 accepted=5196630 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94833 service_gap_max_us=377 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0027d3c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268304 tx_encode_us=0 tx_submit_us=0 poll_us=481922
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4037 verified=4037 submitted=4037 result=4037 hdmi=4036 input_hold_us=23042 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5236434 accepted=5232952 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96847 service_gap_max_us=397 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0029a8c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266274 tx_encode_us=0 tx_submit_us=0 poll_us=484670
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4065 verified=4065 submitted=4065 result=4065 hdmi=4064 input_hold_us=23072 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5272727 accepted=5269221 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95340 service_gap_max_us=397 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=00292ac0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272654 tx_encode_us=0 tx_submit_us=0 poll_us=486737
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4093 verified=4093 submitted=4093 result=4093 hdmi=4092 input_hold_us=23082 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5309060 accepted=5305530 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95577 service_gap_max_us=391 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=258 capacity=512 max_used=271 free_head=0029bdc0 ring_hw=256 ring_free=0 queue=2 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=265474 tx_encode_us=0 tx_submit_us=0 poll_us=478827
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4121 verified=4121 submitted=4121 result=4121 hdmi=4120 input_hold_us=23090 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5345395 accepted=5341841 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96141 service_gap_max_us=380 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002812c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272417 tx_encode_us=0 tx_submit_us=0 poll_us=490061
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4149 verified=4149 submitted=4149 result=4149 hdmi=4148 input_hold_us=23179 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5381656 accepted=5378078 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95135 service_gap_max_us=352 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002698c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267882 tx_encode_us=0 tx_submit_us=0 poll_us=478830
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4177 verified=4177 submitted=4177 result=4177 hdmi=4176 input_hold_us=23164 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5418086 accepted=5414483 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94987 service_gap_max_us=391 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002b37c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272124 tx_encode_us=0 tx_submit_us=0 poll_us=488217
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4205 verified=4205 submitted=4205 result=4205 hdmi=4204 input_hold_us=23070 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5454283 accepted=5450658 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96918 service_gap_max_us=378 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=258 capacity=512 max_used=271 free_head=002b29c0 ring_hw=256 ring_free=0 queue=2 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268528 tx_encode_us=0 tx_submit_us=0 poll_us=483602
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4233 verified=4233 submitted=4233 result=4233 hdmi=4232 input_hold_us=23129 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5490703 accepted=5487053 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94714 service_gap_max_us=351 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002b22c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267488 tx_encode_us=0 tx_submit_us=0 poll_us=481766
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4260 verified=4260 submitted=4260 result=4260 hdmi=4259 input_hold_us=23105 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5525792 accepted=5522118 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=106059 service_gap_max_us=378 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002923c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=260937 tx_encode_us=0 tx_submit_us=0 poll_us=483663
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4287 verified=4287 submitted=4287 result=4287 hdmi=4286 input_hold_us=23050 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5560973 accepted=5557273 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=103386 service_gap_max_us=368 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=261 capacity=512 max_used=271 free_head=0028bac0 ring_hw=256 ring_free=0 queue=5 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=259490 tx_encode_us=0 tx_submit_us=0 poll_us=477840
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4315 verified=4315 submitted=4315 result=4315 hdmi=4314 input_hold_us=23092 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5597368 accepted=5593645 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=1 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94757 service_gap_max_us=365 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002915c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272898 tx_encode_us=0 tx_submit_us=0 poll_us=486141
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4343 verified=4343 submitted=4343 result=4343 hdmi=4342 input_hold_us=23042 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5633528 accepted=5629783 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97938 service_gap_max_us=366 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=002d3dc0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=263303 tx_encode_us=0 tx_submit_us=0 poll_us=479415
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4371 verified=4371 submitted=4371 result=4371 hdmi=4370 input_hold_us=23168 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5670042 accepted=5666271 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=93868 service_gap_max_us=391 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002858c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=275839 tx_encode_us=0 tx_submit_us=0 poll_us=490922
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4399 verified=4399 submitted=4399 result=4399 hdmi=4398 input_hold_us=23150 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5706206 accepted=5702412 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96011 service_gap_max_us=376 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002c9cc0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266877 tx_encode_us=0 tx_submit_us=0 poll_us=479058
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4427 verified=4427 submitted=4427 result=4427 hdmi=4426 input_hold_us=23053 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5742709 accepted=5738891 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95450 service_gap_max_us=340 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=258 capacity=512 max_used=271 free_head=00299ac0 ring_hw=256 ring_free=0 queue=2 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272219 tx_encode_us=0 tx_submit_us=0 poll_us=490416
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4455 verified=4455 submitted=4455 result=4455 hdmi=4454 input_hold_us=23177 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5778972 accepted=5775129 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95654 service_gap_max_us=377 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002897c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=269295 tx_encode_us=0 tx_submit_us=0 poll_us=482957
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4483 verified=4483 submitted=4483 result=4483 hdmi=4482 input_hold_us=23124 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5815300 accepted=5811434 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94992 service_gap_max_us=345 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0029fcc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267668 tx_encode_us=0 tx_submit_us=0 poll_us=481513
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4511 verified=4511 submitted=4511 result=4511 hdmi=4510 input_hold_us=23061 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5851688 accepted=5847797 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96116 service_gap_max_us=359 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=00285fc0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271877 tx_encode_us=0 tx_submit_us=0 poll_us=488650
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4538 verified=4538 submitted=4538 result=4538 hdmi=4537 input_hold_us=23079 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5886851 accepted=5882933 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=103576 service_gap_max_us=363 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=263 capacity=512 max_used=271 free_head=002c33c0 ring_hw=256 ring_free=0 queue=7 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=258422 tx_encode_us=0 tx_submit_us=0 poll_us=476168
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4566 verified=4566 submitted=4566 result=4566 hdmi=4565 input_hold_us=23047 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5923353 accepted=5919416 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=93917 service_gap_max_us=379 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=258 capacity=512 max_used=271 free_head=00298cc0 ring_hw=256 ring_free=0 queue=2 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=274173 tx_encode_us=0 tx_submit_us=0 poll_us=486768
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4594 verified=4594 submitted=4594 result=4594 hdmi=4593 input_hold_us=23049 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5959471 accepted=5955509 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97927 service_gap_max_us=348 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0026adc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=263775 tx_encode_us=0 tx_submit_us=0 poll_us=479807
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4622 verified=4622 submitted=4622 result=4622 hdmi=4621 input_hold_us=23075 rejected=0 expired=0 session=be1169ab
+NET rx_dma=5995933 accepted=5991943 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94318 service_gap_max_us=382 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=263 capacity=512 max_used=271 free_head=002c09c0 ring_hw=256 ring_free=0 queue=7 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=274926 tx_encode_us=0 tx_submit_us=0 poll_us=491459
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4650 verified=4650 submitted=4650 result=4650 hdmi=4649 input_hold_us=23147 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6032194 accepted=6028184 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97269 service_gap_max_us=378 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002a49c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266501 tx_encode_us=0 tx_submit_us=0 poll_us=480587
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4679 verified=4679 submitted=4679 result=4679 hdmi=4677 input_hold_us=23051 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6068528 accepted=6064494 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94806 service_gap_max_us=364 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002be6c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272119 tx_encode_us=0 tx_submit_us=0 poll_us=488021
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4706 verified=4706 submitted=4706 result=4706 hdmi=4705 input_hold_us=23144 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6104952 accepted=6100889 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94540 service_gap_max_us=364 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=264 capacity=512 max_used=271 free_head=002dc2c0 ring_hw=256 ring_free=0 queue=8 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=269968 tx_encode_us=0 tx_submit_us=0 poll_us=482774
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4734 verified=4734 submitted=4734 result=4734 hdmi=4733 input_hold_us=23228 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6141159 accepted=6137073 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97459 service_gap_max_us=384 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=263 capacity=512 max_used=271 free_head=002c79c0 ring_hw=256 ring_free=0 queue=7 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266034 tx_encode_us=0 tx_submit_us=0 poll_us=482948
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4763 verified=4763 submitted=4763 result=4763 hdmi=4761 input_hold_us=23156 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6177524 accepted=6173418 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94400 service_gap_max_us=370 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002874c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=273459 tx_encode_us=0 tx_submit_us=0 poll_us=487825
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4790 verified=4790 submitted=4790 result=4790 hdmi=4789 input_hold_us=23142 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6213729 accepted=6209599 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95771 service_gap_max_us=393 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002d67c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=265949 tx_encode_us=0 tx_submit_us=0 poll_us=478628
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4819 verified=4819 submitted=4819 result=4819 hdmi=4817 input_hold_us=23064 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6250101 accepted=6245948 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96546 service_gap_max_us=350 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=0026a6c0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272297 tx_encode_us=0 tx_submit_us=0 poll_us=491120
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4846 verified=4846 submitted=4846 result=4846 hdmi=4845 input_hold_us=23112 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6286448 accepted=6282266 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95156 service_gap_max_us=354 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=263 capacity=512 max_used=271 free_head=002716c0 ring_hw=256 ring_free=0 queue=7 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=269076 tx_encode_us=0 tx_submit_us=0 poll_us=482598
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4874 verified=4874 submitted=4874 result=4874 hdmi=4873 input_hold_us=23132 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6322650 accepted=6318444 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95452 service_gap_max_us=377 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=263 capacity=512 max_used=271 free_head=002cfec0 ring_hw=256 ring_free=0 queue=7 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266698 tx_encode_us=0 tx_submit_us=0 poll_us=482049
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4903 verified=4903 submitted=4903 result=4903 hdmi=4901 input_hold_us=23115 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6359079 accepted=6354854 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95887 service_gap_max_us=381 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=002c09c0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272148 tx_encode_us=0 tx_submit_us=0 poll_us=490080
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4930 verified=4930 submitted=4930 result=4930 hdmi=4929 input_hold_us=23090 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6395271 accepted=6391021 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95911 service_gap_max_us=353 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002a88c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=264401 tx_encode_us=0 tx_submit_us=0 poll_us=477773
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4958 verified=4958 submitted=4958 result=4958 hdmi=4957 input_hold_us=23143 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6431698 accepted=6427424 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96326 service_gap_max_us=375 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=258 capacity=512 max_used=271 free_head=002954c0 ring_hw=256 ring_free=0 queue=2 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=273689 tx_encode_us=0 tx_submit_us=0 poll_us=491952
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=4986 verified=4986 submitted=4986 result=4986 hdmi=4985 input_hold_us=23068 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6467926 accepted=6463628 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95580 service_gap_max_us=376 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=0029b6c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266685 tx_encode_us=0 tx_submit_us=0 poll_us=480012
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5014 verified=5014 submitted=5014 result=5014 hdmi=5013 input_hold_us=23051 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6504098 accepted=6499776 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95668 service_gap_max_us=396 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002d4bc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266490 tx_encode_us=0 tx_submit_us=0 poll_us=480496
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5042 verified=5042 submitted=5042 result=5042 hdmi=5041 input_hold_us=23121 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6540471 accepted=6536127 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96517 service_gap_max_us=384 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=00297ec0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=269853 tx_encode_us=0 tx_submit_us=0 poll_us=488482
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5070 verified=5070 submitted=5070 result=5070 hdmi=5069 input_hold_us=23174 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6576570 accepted=6572200 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96560 service_gap_max_us=380 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=00294dc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266977 tx_encode_us=0 tx_submit_us=0 poll_us=479526
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5098 verified=5098 submitted=5098 result=5098 hdmi=5097 input_hold_us=23035 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6612895 accepted=6608501 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96552 service_gap_max_us=345 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002cfec0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267673 tx_encode_us=0 tx_submit_us=0 poll_us=485736
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5126 verified=5126 submitted=5126 result=5126 hdmi=5125 input_hold_us=23155 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6649192 accepted=6644773 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95332 service_gap_max_us=382 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=261 capacity=512 max_used=271 free_head=002a6cc0 ring_hw=256 ring_free=0 queue=5 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272139 tx_encode_us=0 tx_submit_us=0 poll_us=485513
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5154 verified=5154 submitted=5154 result=5154 hdmi=5153 input_hold_us=23142 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6685248 accepted=6680806 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96710 service_gap_max_us=349 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002d83c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=265286 tx_encode_us=0 tx_submit_us=0 poll_us=478621
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5182 verified=5182 submitted=5182 result=5182 hdmi=5181 input_hold_us=23073 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6721709 accepted=6717242 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94386 service_gap_max_us=374 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002a49c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=273445 tx_encode_us=0 tx_submit_us=0 poll_us=489195
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5210 verified=5210 submitted=5210 result=5210 hdmi=5209 input_hold_us=23118 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6757847 accepted=6753357 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97696 service_gap_max_us=386 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002d67c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266318 tx_encode_us=0 tx_submit_us=0 poll_us=483240
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5238 verified=5238 submitted=5238 result=5238 hdmi=5236 input_hold_us=23171 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6793547 accepted=6789033 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=98850 service_gap_max_us=394 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002c25c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=261871 tx_encode_us=0 tx_submit_us=0 poll_us=477701
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5265 verified=5265 submitted=5265 result=5265 hdmi=5264 input_hold_us=23132 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6829722 accepted=6825184 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97959 service_gap_max_us=393 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002a65c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=264298 tx_encode_us=0 tx_submit_us=0 poll_us=480701
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5294 verified=5294 submitted=5294 result=5294 hdmi=5292 input_hold_us=23078 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6866023 accepted=6861462 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94899 service_gap_max_us=392 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=002dc2c0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271128 tx_encode_us=0 tx_submit_us=0 poll_us=486841
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5321 verified=5321 submitted=5321 result=5321 hdmi=5320 input_hold_us=23108 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6902341 accepted=6897755 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95066 service_gap_max_us=381 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=00270fc0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=269054 tx_encode_us=0 tx_submit_us=0 poll_us=482942
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5349 verified=5349 submitted=5349 result=5349 hdmi=5348 input_hold_us=23095 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6938355 accepted=6933744 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=98766 service_gap_max_us=339 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=261 capacity=512 max_used=271 free_head=00298cc0 ring_hw=256 ring_free=0 queue=5 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=263450 tx_encode_us=0 tx_submit_us=0 poll_us=479118
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5377 verified=5377 submitted=5377 result=5377 hdmi=5376 input_hold_us=23069 rejected=0 expired=0 session=be1169ab
+NET rx_dma=6974794 accepted=6970162 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94233 service_gap_max_us=379 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=002d4bc0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=273811 tx_encode_us=0 tx_submit_us=0 poll_us=489057
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5405 verified=5405 submitted=5405 result=5405 hdmi=5404 input_hold_us=23177 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7010975 accepted=7006316 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95983 service_gap_max_us=378 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002da6c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267544 tx_encode_us=0 tx_submit_us=0 poll_us=480422
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5433 verified=5433 submitted=5433 result=5433 hdmi=5431 input_hold_us=23050 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7046604 accepted=7041923 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=101657 service_gap_max_us=385 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=002970c0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=260230 tx_encode_us=0 tx_submit_us=0 poll_us=479950
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5460 verified=5460 submitted=5460 result=5460 hdmi=5459 input_hold_us=23121 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7082790 accepted=7078080 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95877 service_gap_max_us=375 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=263 capacity=512 max_used=271 free_head=002c48c0 ring_hw=256 ring_free=0 queue=7 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266901 tx_encode_us=0 tx_submit_us=0 poll_us=478133
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5489 verified=5489 submitted=5489 result=5489 hdmi=5487 input_hold_us=23071 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7119077 accepted=7114347 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95140 service_gap_max_us=332 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=00292ac0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=272007 tx_encode_us=0 tx_submit_us=0 poll_us=487613
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5516 verified=5516 submitted=5516 result=5516 hdmi=5515 input_hold_us=23050 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7155436 accepted=7150682 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96446 service_gap_max_us=370 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=258 capacity=512 max_used=271 free_head=002938c0 ring_hw=256 ring_free=0 queue=2 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=269384 tx_encode_us=0 tx_submit_us=0 poll_us=484555
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5544 verified=5544 submitted=5544 result=5544 hdmi=5543 input_hold_us=23105 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7191545 accepted=7186763 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95920 service_gap_max_us=338 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=263 capacity=512 max_used=271 free_head=002897c0 ring_hw=256 ring_free=0 queue=7 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=263957 tx_encode_us=0 tx_submit_us=0 poll_us=477723
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5572 verified=5572 submitted=5572 result=5572 hdmi=5571 input_hold_us=23082 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7227910 accepted=7223104 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95103 service_gap_max_us=370 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=263 capacity=512 max_used=271 free_head=0026f3c0 ring_hw=256 ring_free=0 queue=7 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=273852 tx_encode_us=0 tx_submit_us=0 poll_us=489469
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5600 verified=5600 submitted=5600 result=5600 hdmi=5599 input_hold_us=23100 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7264124 accepted=7259298 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=97426 service_gap_max_us=377 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002a42c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266874 tx_encode_us=0 tx_submit_us=0 poll_us=481397
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5628 verified=5628 submitted=5628 result=5628 hdmi=5627 input_hold_us=23230 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7300324 accepted=7295475 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95413 service_gap_max_us=342 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=0027efc0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=267000 tx_encode_us=0 tx_submit_us=0 poll_us=481386
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5656 verified=5656 submitted=5656 result=5656 hdmi=5655 input_hold_us=23140 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7336660 accepted=7331786 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=94972 service_gap_max_us=364 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002732c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271906 tx_encode_us=0 tx_submit_us=0 poll_us=487162
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5684 verified=5684 submitted=5684 result=5684 hdmi=5683 input_hold_us=23071 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7372760 accepted=7367862 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96463 service_gap_max_us=381 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002d98c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266840 tx_encode_us=0 tx_submit_us=0 poll_us=478984
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5712 verified=5712 submitted=5712 result=5712 hdmi=5711 input_hold_us=23050 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7409087 accepted=7404165 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96277 service_gap_max_us=384 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002962c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=268338 tx_encode_us=0 tx_submit_us=0 poll_us=484356
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5740 verified=5740 submitted=5740 result=5740 hdmi=5739 input_hold_us=23055 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7445389 accepted=7440442 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95652 service_gap_max_us=380 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=002a1fc0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=271409 tx_encode_us=0 tx_submit_us=0 poll_us=485370
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5768 verified=5768 submitted=5768 result=5768 hdmi=5767 input_hold_us=23060 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7481257 accepted=7476288 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=100140 service_gap_max_us=348 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=257 capacity=512 max_used=271 free_head=002b61c0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=262837 tx_encode_us=0 tx_submit_us=0 poll_us=481317
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5796 verified=5796 submitted=5796 result=5796 hdmi=5795 input_hold_us=23048 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7517519 accepted=7512525 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=95183 service_gap_max_us=354 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=259 capacity=512 max_used=271 free_head=002d21c0 ring_hw=256 ring_free=0 queue=3 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=266629 tx_encode_us=0 tx_submit_us=0 poll_us=480290
+PREVIEW received=0 displayed=0 rejected=0 mode=0
+PREVIEW_QUEUE busy_rows=0 superseded=0 receiving=1 ready=0 waiting=0
+ONE_WAY_AX received=5824 verified=5824 submitted=5824 result=5824 hdmi=5822 input_hold_us=23124 rejected=0 expired=0 session=be1169ab
+NET rx_dma=7553764 accepted=7548745 queue_full=0 qdrop=0 rx_recoveries=30 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=0
+NET_SCHED poll_calls=96417 service_gap_max_us=388 prepare_us=0 prepare_max_us=0 pacing_waits=0
+NET_RX_STATE used=260 capacity=512 max_used=271 free_head=0028f9c0 ring_hw=256 ring_free=0 queue=4 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=270545 tx_encode_us=0 tx_submit_us=0 poll_us=488875

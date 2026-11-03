@@ -1,0 +1,17 @@
+{
+  "person_id": 2,
+  "frame": 7151,
+  "human_confirmed_identity": true,
+  "authorization": "User explicitly confirmed ownership and allowed supplementary enrollment on 2026-10-21",
+  "template_sha256": "3fb44a2c7e4fee1841586ad08a76a6877e2b154e7ab70b01dcd7e6b23ae635ed",
+  "template_fnv1a32": "0xb9321f38",
+  "raw_photo_sha256": "d0da107b8e815e173cc3406676ace8480429a9b1c45ab8543bf6c2db8237d32a",
+  "pipeline_sha256": "8e6475ac7d20b2b4c541690ab755dec0e13f5476eac5ab44faa3af7b532660e9",
+  "model_sha256": "5cd2bdf0620b95bc27fb7d78ee0de5305029b673db471e64eb669a739f02d455",
+  "method": "pinned QDQ model on exact board-aligned RGB input",
+  "reference_photo": "enrollment/person_02/reference_original.jpg",
+  "document_template_retained": true,
+  "reference_pixels_retained": true,
+  "threshold_q15": 16384,
+  "new_capture_generalization_verified": false
+}

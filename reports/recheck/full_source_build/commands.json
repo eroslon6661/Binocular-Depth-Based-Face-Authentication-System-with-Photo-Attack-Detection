@@ -1,0 +1,104 @@
+[
+  {
+    "step": "navigator_dependencies",
+    "argv": [
+      "F:\\amd2026_check_20261101\\verify_env\\Scripts\\python.exe",
+      "F:\\amd2026_submission_stage_20261101\\build\\scripts\\rebuild_legacy_dependencies.py",
+      "navigator",
+      "--out",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\navigator_deps",
+      "--tools",
+      "E:\\vivado2026.1\\2026.1\\gnu\\aarch32\\nt\\gcc-arm-none-eabi\\bin",
+      "--make",
+      "E:\\vivado2026.1\\2026.1\\Vitis\\gnuwin\\bin\\make.exe"
+    ]
+  },
+  {
+    "step": "navigator_application",
+    "argv": [
+      "F:\\amd2026_check_20261101\\verify_env\\Scripts\\python.exe",
+      "F:\\amd2026_submission_stage_20261101\\build\\scripts\\build_software.py",
+      "nav",
+      "--out",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\navigator_app",
+      "--compiler",
+      "E:\\vivado2026.1\\2026.1\\gnu\\aarch32\\nt\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe",
+      "--bsp",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\navigator_deps\\bsp",
+      "--cpu1",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\navigator_deps\\crc_core1\\crc_core1.bin"
+    ]
+  },
+  {
+    "step": "ax7020_dependencies",
+    "argv": [
+      "F:\\amd2026_check_20261101\\verify_env\\Scripts\\python.exe",
+      "F:\\amd2026_submission_stage_20261101\\build\\scripts\\rebuild_legacy_dependencies.py",
+      "ax7020",
+      "--out",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\ax7020_deps",
+      "--tools",
+      "E:\\vivado2026.1\\2026.1\\gnu\\aarch32\\nt\\gcc-arm-none-eabi\\bin",
+      "--make",
+      "E:\\vivado2026.1\\2026.1\\Vitis\\gnuwin\\bin\\make.exe"
+    ]
+  },
+  {
+    "step": "ax7020_application",
+    "argv": [
+      "F:\\amd2026_check_20261101\\verify_env\\Scripts\\python.exe",
+      "F:\\amd2026_submission_stage_20261101\\build\\scripts\\build_software.py",
+      "ax",
+      "--out",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\ax7020_app",
+      "--compiler",
+      "E:\\vivado2026.1\\2026.1\\gnu\\aarch32\\nt\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe",
+      "--bsp",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\ax7020_deps\\bsp",
+      "--cpu1",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\ax7020_deps\\crc_core1\\crc_core1.bin"
+    ]
+  },
+  {
+    "step": "fsbl",
+    "argv": [
+      "E:\\vivado2026.1\\2026.1\\Vitis\\bin\\vitis.bat",
+      "-s",
+      "F:\\amd2026_submission_stage_20261101\\build\\scripts\\rebuild_fsbl_2026.py",
+      "--workspace",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\fsbl_workspace"
+    ]
+  },
+  {
+    "step": "navigator_boot",
+    "argv": [
+      "F:\\amd2026_check_20261101\\verify_env\\Scripts\\python.exe",
+      "F:\\amd2026_submission_stage_20261101\\build\\scripts\\build_sd.py",
+      "nav",
+      "--out",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\navigator\\BOOT.BIN",
+      "--tool-root",
+      "E:\\vivado2026.1\\2026.1",
+      "--elf",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\navigator_app\\application.elf",
+      "--fsbl",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\fsbl_workspace\\navigator_source\\zynq_fsbl\\build\\fsbl.elf"
+    ]
+  },
+  {
+    "step": "ax7020_boot",
+    "argv": [
+      "F:\\amd2026_check_20261101\\verify_env\\Scripts\\python.exe",
+      "F:\\amd2026_submission_stage_20261101\\build\\scripts\\build_sd.py",
+      "ax",
+      "--out",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\ax7020\\BOOT.BIN",
+      "--tool-root",
+      "E:\\vivado2026.1\\2026.1",
+      "--elf",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\ax7020_app\\application.elf",
+      "--fsbl",
+      "F:\\amd2026_check_20261101\\one_command_build_01\\fsbl_workspace\\ax7020_source\\zynq_fsbl\\build\\fsbl.elf"
+    ]
+  }
+]

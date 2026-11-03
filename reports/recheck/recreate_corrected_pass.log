@@ -1,0 +1,584 @@
+INFO: [Common 17-3922] A valid Vivado Design Suite BASIC license has been detected. Your current license is active and will expire on 30-oct-2027.
+
+****** Vivado v2026.1 (64-bit)
+  **** SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+  **** IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+  **** SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+  **** Start of session at: Sun Nov  1 16:29:30 2026
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+
+source {F:\amd2026_submission_stage_20261101\src\navigator\hardware\recreate.tcl} -notrace
+create_project: Time (s): cpu = 00:00:11 ; elapsed = 00:00:06 . Memory (MB): peak = 593.141 ; gain = 272.777
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'f:/amd2026_submission_stage_20261101/src/navigator/hardware/ip_repo/camera'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'f:/amd2026_submission_stage_20261101/src/navigator/hardware/ip_repo/rectify'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'f:/amd2026_submission_stage_20261101/src/navigator/hardware/ip_repo/face_v3'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/vivado2026.1/2026.1/Vivado/data/ip'.
+Wrote  : <F:\amd2026_check_20261101\hardware_v2\navigator\nav_v3.srcs\sources_1\bd\system\system.bd> 
+CREATE_CELL ov5640_capture_data_0
+CREATE_CELL ov5640_capture_data_1
+CREATE_CELL processing_system7_0
+CREATE_CELL axi_vdma_0
+CREATE_CELL axi_vdma_1
+CREATE_CELL clk_wiz_0
+INFO: [Device 21-403] Loading part xc7z020clg400-2
+CREATE_CELL rst_ps7_0_100M
+CREATE_CELL rst_ps7_0_150M
+CREATE_CELL v_vid_in_axi4s_0
+CREATE_CELL v_vid_in_axi4s_1
+CREATE_CELL audio_clk_wiz
+CREATE_CELL axi_gpio_audio
+CREATE_CELL axi_gpio_key
+CREATE_CELL audio_i2s_tx
+INFO: [IP_Flow 19-5107] Inferred bus interface 'resetn' of definition 'xilinx.com:signal:reset:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'audio_clk' of definition 'xilinx.com:signal:clock:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'control_clk' of definition 'xilinx.com:signal:clock:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-4728] Bus Interface 'resetn': Added interface parameter 'POLARITY' with value 'ACTIVE_LOW'.
+WARNING: [IP_Flow 19-5661] Bus Interface 'audio_clk' does not have any bus interfaces associated with it.
+WARNING: [IP_Flow 19-11770] Clock interface 'audio_clk' has no FREQ_HZ parameter.
+WARNING: [IP_Flow 19-5661] Bus Interface 'control_clk' does not have any bus interfaces associated with it.
+WARNING: [IP_Flow 19-11770] Clock interface 'control_clk' has no FREQ_HZ parameter.
+CREATE_CELL frame_tag_left
+CREATE_CELL frame_tag_right
+CREATE_CELL axi_mem_intercon
+CREATE_CELL ps7_0_axi_periph
+CREATE_CELL rectify_left
+CREATE_CELL axi_mem_intercon_1
+CREATE_CELL rectify_right
+CREATE_CELL axi_mem_intercon_2
+CREATE_CELL capture_green_left
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aclk' of definition 'xilinx.com:signal:clock:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aclk' of definition 'xilinx.com:signal:clock:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aresetn' of definition 'xilinx.com:signal:reset:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aresetn' of definition 'xilinx.com:signal:reset:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 's_axis' of definition 'xilinx.com:interface:axis:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 's_axis' of definition 'xilinx.com:interface:axis:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'm_axis' of definition 'xilinx.com:interface:axis:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'm_axis' of definition 'xilinx.com:interface:axis:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-4728] Bus Interface 'aclk': Added interface parameter 'ASSOCIATED_BUSIF' with value 's_axis'.
+INFO: [IP_Flow 19-4728] Bus Interface 'aclk': Added interface parameter 'ASSOCIATED_RESET' with value 'aresetn'.
+INFO: [IP_Flow 19-4728] Bus Interface 'aresetn': Added interface parameter 'POLARITY' with value 'ACTIVE_LOW'.
+WARNING: [IP_Flow 19-11770] Clock interface 'aclk' has no FREQ_HZ parameter.
+CREATE_CELL capture_green_right
+CREATE_CELL frame_clock
+CREATE_CELL photo_tap_left
+WARNING: [IP_Flow 19-587] [HDL Parser] HDL port or parameter 'fifo' has a dependency on the module local parameter or undefined parameter 'DEPTH'.
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aclk' of definition 'xilinx.com:signal:clock:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aclk' of definition 'xilinx.com:signal:clock:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aresetn' of definition 'xilinx.com:signal:reset:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aresetn' of definition 'xilinx.com:signal:reset:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 's_axis' of definition 'xilinx.com:interface:axis:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 's_axis' of definition 'xilinx.com:interface:axis:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'm_axis' of definition 'xilinx.com:interface:axis:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'm_axis' of definition 'xilinx.com:interface:axis:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'photo_axis' of definition 'xilinx.com:interface:axis:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'photo_axis' of definition 'xilinx.com:interface:axis:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-4728] Bus Interface 'aclk': Added interface parameter 'ASSOCIATED_BUSIF' with value 's_axis'.
+INFO: [IP_Flow 19-4728] Bus Interface 'aclk': Added interface parameter 'ASSOCIATED_RESET' with value 'aresetn'.
+INFO: [IP_Flow 19-4728] Bus Interface 'aresetn': Added interface parameter 'POLARITY' with value 'ACTIVE_LOW'.
+WARNING: [IP_Flow 19-11770] Clock interface 'aclk' has no FREQ_HZ parameter.
+CREATE_CELL photo_left
+CREATE_CELL photo_arm_left
+CREATE_CELL photo_tag_left
+CREATE_CELL photo_tap_right
+CREATE_CELL photo_right
+CREATE_CELL photo_arm_right
+CREATE_CELL photo_tag_right
+CREATE_CELL lcd_clock
+CREATE_CELL lcd_reset
+CREATE_CELL lcd_dma
+CREATE_CELL lcd_video
+CREATE_CELL lcd_vtc
+CREATE_CELL lcd_pins
+INFO: [IP_Flow 19-5107] Inferred bus interface 'lcd_rst' of definition 'xilinx.com:signal:reset:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'lcd_clk' of definition 'xilinx.com:signal:clock:1.0' (from Xilinx Repository).
+INFO: [IP_Flow 19-4728] Bus Interface 'lcd_clk': Added interface parameter 'ASSOCIATED_RESET' with value 'lcd_rst'.
+CRITICAL WARNING: [IP_Flow 19-4751] Bus Interface 'lcd_clk': FREQ_HZ bus parameter is missing for output clock interface.
+CREATE_CELL touch_pins
+INFO: [IP_Flow 19-5107] Inferred bus interface 'touch_rst' of definition 'xilinx.com:signal:reset:1.0' (from Xilinx Repository).
+CREATE_CELL lcd_control
+CREATE_CELL touch_gpio
+CREATE_CELL rgb_memory
+CREATE_CELL audio_probe
+INFO: [xilinx.com:ip:ila:6.2-6] /audio_probe: AMD recommends using the System ILA IP in IP Integrator. The System ILA IP is functionally equivalent to an ILA and offers additional benefits in debugging interfaces both within IP Integrator and the Hardware Manager. Consult the Programming and Debug User Guide UG908 for further details.
+CREATE_CELL face_int8_accel_0
+CREATE_CELL face_act_cc
+CREATE_CELL face_param_cc
+WARNING: [BD 41-1306] The connection to interface pin </axi_gpio_audio/gpio2_io_i> is being overridden by the user with net <audio_i2s_tx_gpio_ack>. This pin will not be connected as a part of interface connection <GPIO2>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </axi_gpio_audio/gpio_io_o> is being overridden by the user with net <axi_gpio_audio_gpio_io_o>. This pin will not be connected as a part of interface connection <GPIO>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </axi_gpio_key/gpio2_io_o> is being overridden by the user with net <axi_gpio_key_gpio2_io_o>. This pin will not be connected as a part of interface connection <GPIO2>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </frame_clock/gpio_io_i> is being overridden by the user with net <capture_green_left_capture_clock_us>. This pin will not be connected as a part of interface connection <GPIO>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </frame_tag_left/gpio2_io_i> is being overridden by the user with net <capture_green_left_safe_capture_us>. This pin will not be connected as a part of interface connection <GPIO2>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </frame_tag_left/gpio_io_i> is being overridden by the user with net <capture_green_left_safe_sequence>. This pin will not be connected as a part of interface connection <GPIO>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </frame_tag_right/gpio2_io_i> is being overridden by the user with net <capture_green_right_safe_capture_us>. This pin will not be connected as a part of interface connection <GPIO2>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </frame_tag_right/gpio_io_i> is being overridden by the user with net <capture_green_right_safe_sequence>. This pin will not be connected as a part of interface connection <GPIO>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </axi_gpio_key/gpio_io_i> is being overridden by the user with net <gpio_io_i_0_1>. This pin will not be connected as a part of interface connection <GPIO>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </lcd_control/gpio_io_o> is being overridden by the user with net <lcd_control_gpio_io_o>. This pin will not be connected as a part of interface connection <GPIO>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </lcd_video/vid_active_video> is being overridden by the user with net <lcd_video_vid_active_video>. This pin will not be connected as a part of interface connection <vid_io_out>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </lcd_video/vid_data> is being overridden by the user with net <lcd_video_vid_data>. This pin will not be connected as a part of interface connection <vid_io_out>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </photo_arm_left/gpio_io_o> is being overridden by the user with net <photo_arm_left_gpio_io_o>. This pin will not be connected as a part of interface connection <GPIO>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </photo_arm_right/gpio_io_o> is being overridden by the user with net <photo_arm_right_gpio_io_o>. This pin will not be connected as a part of interface connection <GPIO>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </photo_tag_left/gpio2_io_i> is being overridden by the user with net <photo_tap_left_capture_us>. This pin will not be connected as a part of interface connection <GPIO2>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </photo_tag_left/gpio_io_i> is being overridden by the user with net <photo_tap_left_status>. This pin will not be connected as a part of interface connection <GPIO>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </photo_tag_right/gpio2_io_i> is being overridden by the user with net <photo_tap_right_capture_us>. This pin will not be connected as a part of interface connection <GPIO2>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </photo_tag_right/gpio_io_i> is being overridden by the user with net <photo_tap_right_status>. This pin will not be connected as a part of interface connection <GPIO>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </touch_gpio/gpio_io_o> is being overridden by the user with net <touch_gpio_gpio_io_o>. This pin will not be connected as a part of interface connection <GPIO>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+WARNING: [BD 41-1306] The connection to interface pin </touch_gpio/gpio2_io_i> is being overridden by the user with net <touch_pins_sense>. This pin will not be connected as a part of interface connection <GPIO2>, and might not recreate the connectivity as expected using the writ_bd_tcl command.
+Wrote  : <F:\amd2026_check_20261101\hardware_v2\navigator\nav_v3.srcs\sources_1\bd\system\system.bd> 
+clk_domain: system_processing_system7_0_0_FCLK_CLK0, clk_domain_1: system_audio_clk_wiz_0_clk_out1, clkDomainValSrc_1: DEFAULT, clk_domain_ctrl: 0
+clk_domain: system_processing_system7_0_0_FCLK_CLK0, clk_domain_1: system_lcd_clock_0_clk_out1, clkDomainValSrc_1: DEFAULT, clk_domain_ctrl: 0
+INFO: [xilinx.com:ip:clk_wiz:6.0-1] /lcd_clock clk_wiz propagate
+INFO: [xilinx.com:ip:clk_wiz:6.0-1] /clk_wiz_0 clk_wiz propagate
+INFO: [xilinx.com:ip:clk_wiz:6.0-1] /audio_clk_wiz clk_wiz propagate
+WARNING: [BD 41-926] Following properties on interface pin /photo_tap_left/s_axis have been updated from connected ip, but BD cell '/photo_tap_left' does not accept parameter changes, so they may not be synchronized with cell properties:
+	LAYERED_METADATA = xilinx.com:interface:datatypes:1.0 {TDATA {datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value xilinx.com:video:G_B_R_444:1.0} bitwidth {attribs {resolve_type automatic dependency {} format long minimum {} maximum {}} value 24} bitoffset {attribs {resolve_type immediate dependency {} format long minimum {} maximum {}} value 0} array_type {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value rows} size {attribs {resolve_type generated dependency active_rows format long minimum {} maximum {}} value 1} stride {attribs {resolve_type generated dependency active_rows_stride format long minimum {} maximum {}} value 24} datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value {}} bitwidth {attribs {resolve_type automatic dependency {} format long minimum {} maximum {}} value 24} bitoffset {attribs {resolve_type immediate dependency {} format long minimum {} maximum {}} value 0} array_type {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value cols} size {attribs {resolve_type generated dependency active_cols format long minimum {} maximum {}} value 1} stride {attribs {resolve_type generated dependency active_cols_stride format long minimum {} maximum {}} value 24} datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value {}} bitwidth {attribs {resolve_type automatic dependency {} format long minimum {} maximum {}} value 24} bitoffset {attribs {resolve_type immediate dependency {} format long minimum {} maximum {}} value 0} struct {field_G {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value G} enabled {attribs {resolve_type immediate dependency {} format bool minimum {} maximum {}} value true} datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value {}} bitwidth {attribs {resolve_type generated dependency video_data_width format long minimum {} maximum {}} value 8} bitoffset {attribs {resolve_type immediate dependency {} format long minimum {} maximum {}} value 0} integer {signed {attribs {resolve_type immediate dependency {} format bool minimum {} maximum {}} value true}}}} field_B {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value B} enabled {attribs {resolve_type generated dependency video_comp1_enabled format bool minimum {} maximum {}} value true} datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value {}} bitwidth {attribs {resolve_type generated dependency video_data_width format long minimum {} maximum {}} value 8} bitoffset {attribs {resolve_type generated dependency video_comp1_offset format long minimum {} maximum {}} value 8} integer {signed {attribs {resolve_type immediate dependency {} format bool minimum {} maximum {}} value true}}}} field_R {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value R} enabled {attribs {resolve_type generated dependency video_comp2_enabled format bool minimum {} maximum {}} value true} datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value {}} bitwidth {attribs {resolve_type generated dependency video_data_width format long minimum {} maximum {}} value 8} bitoffset {attribs {resolve_type generated dependency video_comp2_offset format long minimum {} maximum {}} value 16} integer {signed {attribs {resolve_type immediate dependency {} format bool minimum {} maximum {}} value true}}}}}}}}}}} TDATA_WIDTH 24}
+
+Please resolve any mismatches by directly setting properties on BD cell </photo_tap_left> to completely resolve these warnings.
+WARNING: [BD 41-926] Following properties on interface pin /photo_tap_right/s_axis have been updated from connected ip, but BD cell '/photo_tap_right' does not accept parameter changes, so they may not be synchronized with cell properties:
+	LAYERED_METADATA = xilinx.com:interface:datatypes:1.0 {TDATA {datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value xilinx.com:video:G_B_R_444:1.0} bitwidth {attribs {resolve_type automatic dependency {} format long minimum {} maximum {}} value 24} bitoffset {attribs {resolve_type immediate dependency {} format long minimum {} maximum {}} value 0} array_type {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value rows} size {attribs {resolve_type generated dependency active_rows format long minimum {} maximum {}} value 1} stride {attribs {resolve_type generated dependency active_rows_stride format long minimum {} maximum {}} value 24} datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value {}} bitwidth {attribs {resolve_type automatic dependency {} format long minimum {} maximum {}} value 24} bitoffset {attribs {resolve_type immediate dependency {} format long minimum {} maximum {}} value 0} array_type {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value cols} size {attribs {resolve_type generated dependency active_cols format long minimum {} maximum {}} value 1} stride {attribs {resolve_type generated dependency active_cols_stride format long minimum {} maximum {}} value 24} datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value {}} bitwidth {attribs {resolve_type automatic dependency {} format long minimum {} maximum {}} value 24} bitoffset {attribs {resolve_type immediate dependency {} format long minimum {} maximum {}} value 0} struct {field_G {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value G} enabled {attribs {resolve_type immediate dependency {} format bool minimum {} maximum {}} value true} datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value {}} bitwidth {attribs {resolve_type generated dependency video_data_width format long minimum {} maximum {}} value 8} bitoffset {attribs {resolve_type immediate dependency {} format long minimum {} maximum {}} value 0} integer {signed {attribs {resolve_type immediate dependency {} format bool minimum {} maximum {}} value true}}}} field_B {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value B} enabled {attribs {resolve_type generated dependency video_comp1_enabled format bool minimum {} maximum {}} value true} datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value {}} bitwidth {attribs {resolve_type generated dependency video_data_width format long minimum {} maximum {}} value 8} bitoffset {attribs {resolve_type generated dependency video_comp1_offset format long minimum {} maximum {}} value 8} integer {signed {attribs {resolve_type immediate dependency {} format bool minimum {} maximum {}} value true}}}} field_R {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value R} enabled {attribs {resolve_type generated dependency video_comp2_enabled format bool minimum {} maximum {}} value true} datatype {name {attribs {resolve_type immediate dependency {} format string minimum {} maximum {}} value {}} bitwidth {attribs {resolve_type generated dependency video_data_width format long minimum {} maximum {}} value 8} bitoffset {attribs {resolve_type generated dependency video_comp2_offset format long minimum {} maximum {}} value 16} integer {signed {attribs {resolve_type immediate dependency {} format bool minimum {} maximum {}} value true}}}}}}}}}}} TDATA_WIDTH 24}
+
+Please resolve any mismatches by directly setting properties on BD cell </photo_tap_right> to completely resolve these warnings.
+validate_bd_design: Time (s): cpu = 00:00:12 ; elapsed = 00:00:13 . Memory (MB): peak = 1303.914 ; gain = 75.922
+Wrote  : <F:\amd2026_check_20261101\hardware_v2\navigator\nav_v3.srcs\sources_1\bd\system\system.bd> 
+WARNING: [BD 41-2937] The design that will be created by this Tcl script contains the following user IPs:
+/ov5640_capture_data_0, /ov5640_capture_data_1, /rectify_left, /rectify_right, /face_int8_accel_0
+Please add the following user repository(s):
+f:/amd2026_submission_stage_20261101/src/navigator/hardware/ip_repo/camera
+f:/amd2026_submission_stage_20261101/src/navigator/hardware/ip_repo/rectify
+f:/amd2026_submission_stage_20261101/src/navigator/hardware/ip_repo/face_v3
+before sourcing this Tcl script or use write_project_tcl.
+WARNING: [BD 41-2925] The design that will be created by this Tcl script contains the following module references: es8388_i2s_tx_buffered, axis_rgb_to_green_oneway, axis_rgb_to_green_oneway, axis_photo_tap, axis_photo_tap, rgb_lcd_pins, gt911_pins.
+Please add the sources of those modules before sourcing this Tcl script or use write_project_tcl.
+INFO: [BD 5-148] Tcl file written out <F:/amd2026_check_20261101/hardware_v2/navigator/rebuilt_system.tcl>.
+
+INFO: [BD 41-1662] The design 'system.bd' is already validated. Therefore parameter propagation will not be re-run.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon/xbar/m_axi_bid'(1) to pin: '/axi_mem_intercon/m00_couplers/S_AXI_bid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon/xbar/m_axi_rid'(1) to pin: '/axi_mem_intercon/m00_couplers/S_AXI_rid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/s_axi_arlock'(1) to pin: '/axi_mem_intercon_1/s00_couplers/S_AXI_arlock'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/s_axi_awlock'(1) to pin: '/axi_mem_intercon_1/s00_couplers/S_AXI_awlock'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/m_axi_rid'(1) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_rid'(3) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/m_axi_bid'(1) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_bid'(3) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/xbar/s_axi_wid'(3) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_wid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/xbar/s_axi_arid'(3) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_arid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/xbar/s_axi_awid'(3) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_awid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/xbar/m_axi_bid'(3) to pin: '/axi_mem_intercon_1/m00_couplers/S_AXI_bid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/xbar/m_axi_rid'(3) to pin: '/axi_mem_intercon_1/m00_couplers/S_AXI_rid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_2/s00_couplers/auto_pc/s_axi_arlock'(1) to pin: '/axi_mem_intercon_2/s00_couplers/S_AXI_arlock'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_2/s00_couplers/auto_pc/s_axi_awlock'(1) to pin: '/axi_mem_intercon_2/s00_couplers/S_AXI_awlock'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_2/s00_couplers/auto_pc/m_axi_rid'(1) to pin: '/axi_mem_intercon_2/s00_couplers/M_AXI_rid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_2/s00_couplers/auto_pc/m_axi_bid'(1) to pin: '/axi_mem_intercon_2/s00_couplers/M_AXI_bid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/rgb_memory/xbar/m_axi_bid'(2) to pin: '/rgb_memory/m00_couplers/S_AXI_bid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/rgb_memory/xbar/m_axi_rid'(2) to pin: '/rgb_memory/m00_couplers/S_AXI_rid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP1_WID'(6) to pin: '/axi_mem_intercon_1/M00_AXI_wid'(3) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP1_ARID'(6) to pin: '/axi_mem_intercon_1/M00_AXI_arid'(3) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP1_AWID'(6) to pin: '/axi_mem_intercon_1/M00_AXI_awid'(3) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP2_WID'(6) to pin: '/axi_mem_intercon_2/M00_AXI_wid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP2_ARID'(6) to pin: '/axi_mem_intercon_2/M00_AXI_arid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP2_AWID'(6) to pin: '/axi_mem_intercon_2/M00_AXI_awid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_WID'(6) to pin: '/axi_mem_intercon/M00_AXI_wid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_ARID'(6) to pin: '/axi_mem_intercon/M00_AXI_arid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_AWID'(6) to pin: '/axi_mem_intercon/M00_AXI_awid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/face_act_cc/s_axi_arlock'(1) to pin: '/face_int8_accel_0/m_axi_gmem_act_ARLOCK'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/face_act_cc/s_axi_awlock'(1) to pin: '/face_int8_accel_0/m_axi_gmem_act_AWLOCK'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/face_param_cc/s_axi_arlock'(1) to pin: '/face_int8_accel_0/m_axi_gmem_param_ARLOCK'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP3_WID'(6) to pin: '/rgb_memory/M00_AXI_wid'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP3_ARID'(6) to pin: '/rgb_memory/M00_AXI_arid'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP3_AWID'(6) to pin: '/rgb_memory/M00_AXI_awid'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-3255] Drive strength cannot be preserved for external port cam_data_1 as its name is conflicting with net name cam_data_1 connecting ports and pins  /cam_data_0,/ov5640_capture_data_0/cam_data 
+WARNING: [BD 41-3255] Drive strength cannot be preserved for external port cam_href_1 as its name is conflicting with net name cam_href_1 connecting ports and pins  /cam_href_0,/ov5640_capture_data_0/cam_href 
+WARNING: [BD 41-3255] Drive strength cannot be preserved for external port cam_pclk_1 as its name is conflicting with net name cam_pclk_1 connecting ports and pins  /cam_pclk_0,/ov5640_capture_data_0/cam_pclk 
+WARNING: [BD 41-3255] Drive strength cannot be preserved for external port cam_vsync_1 as its name is conflicting with net name cam_vsync_1 connecting ports and pins  /cam_vsync_0,/ov5640_capture_data_0/cam_vsync 
+Verilog Output written to : F:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/synth/system.v
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon/xbar/m_axi_bid'(1) to pin: '/axi_mem_intercon/m00_couplers/S_AXI_bid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon/xbar/m_axi_rid'(1) to pin: '/axi_mem_intercon/m00_couplers/S_AXI_rid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/s_axi_arlock'(1) to pin: '/axi_mem_intercon_1/s00_couplers/S_AXI_arlock'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/s_axi_awlock'(1) to pin: '/axi_mem_intercon_1/s00_couplers/S_AXI_awlock'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/m_axi_rid'(1) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_rid'(3) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/m_axi_bid'(1) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_bid'(3) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/xbar/s_axi_wid'(3) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_wid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/xbar/s_axi_arid'(3) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_arid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/xbar/s_axi_awid'(3) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_awid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/xbar/m_axi_bid'(3) to pin: '/axi_mem_intercon_1/m00_couplers/S_AXI_bid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/xbar/m_axi_rid'(3) to pin: '/axi_mem_intercon_1/m00_couplers/S_AXI_rid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_2/s00_couplers/auto_pc/s_axi_arlock'(1) to pin: '/axi_mem_intercon_2/s00_couplers/S_AXI_arlock'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_2/s00_couplers/auto_pc/s_axi_awlock'(1) to pin: '/axi_mem_intercon_2/s00_couplers/S_AXI_awlock'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_2/s00_couplers/auto_pc/m_axi_rid'(1) to pin: '/axi_mem_intercon_2/s00_couplers/M_AXI_rid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_2/s00_couplers/auto_pc/m_axi_bid'(1) to pin: '/axi_mem_intercon_2/s00_couplers/M_AXI_bid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/rgb_memory/xbar/m_axi_bid'(2) to pin: '/rgb_memory/m00_couplers/S_AXI_bid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/rgb_memory/xbar/m_axi_rid'(2) to pin: '/rgb_memory/m00_couplers/S_AXI_rid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP1_WID'(6) to pin: '/axi_mem_intercon_1/M00_AXI_wid'(3) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP1_ARID'(6) to pin: '/axi_mem_intercon_1/M00_AXI_arid'(3) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP1_AWID'(6) to pin: '/axi_mem_intercon_1/M00_AXI_awid'(3) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP2_WID'(6) to pin: '/axi_mem_intercon_2/M00_AXI_wid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP2_ARID'(6) to pin: '/axi_mem_intercon_2/M00_AXI_arid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP2_AWID'(6) to pin: '/axi_mem_intercon_2/M00_AXI_awid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_WID'(6) to pin: '/axi_mem_intercon/M00_AXI_wid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_ARID'(6) to pin: '/axi_mem_intercon/M00_AXI_arid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_AWID'(6) to pin: '/axi_mem_intercon/M00_AXI_awid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/face_act_cc/s_axi_arlock'(1) to pin: '/face_int8_accel_0/m_axi_gmem_act_ARLOCK'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/face_act_cc/s_axi_awlock'(1) to pin: '/face_int8_accel_0/m_axi_gmem_act_AWLOCK'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/face_param_cc/s_axi_arlock'(1) to pin: '/face_int8_accel_0/m_axi_gmem_param_ARLOCK'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP3_WID'(6) to pin: '/rgb_memory/M00_AXI_wid'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP3_ARID'(6) to pin: '/rgb_memory/M00_AXI_arid'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP3_AWID'(6) to pin: '/rgb_memory/M00_AXI_awid'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-3255] Drive strength cannot be preserved for external port cam_data_1 as its name is conflicting with net name cam_data_1 connecting ports and pins  /cam_data_0,/ov5640_capture_data_0/cam_data 
+WARNING: [BD 41-3255] Drive strength cannot be preserved for external port cam_href_1 as its name is conflicting with net name cam_href_1 connecting ports and pins  /cam_href_0,/ov5640_capture_data_0/cam_href 
+WARNING: [BD 41-3255] Drive strength cannot be preserved for external port cam_pclk_1 as its name is conflicting with net name cam_pclk_1 connecting ports and pins  /cam_pclk_0,/ov5640_capture_data_0/cam_pclk 
+WARNING: [BD 41-3255] Drive strength cannot be preserved for external port cam_vsync_1 as its name is conflicting with net name cam_vsync_1 connecting ports and pins  /cam_vsync_0,/ov5640_capture_data_0/cam_vsync 
+Verilog Output written to : F:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/sim/system.v
+Verilog Output written to : F:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/hdl/system_wrapper.v
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ov5640_capture_data_0 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ov5640_capture_data_1 .
+INFO: [IP_Flow 19-5611] Unable to find an associated reset port for the interface 'M_AXI_GP0'. A default connection has been created.
+INFO: [IP_Flow 19-5611] Unable to find an associated reset port for the interface 'S_AXI_HP0'. A default connection has been created.
+INFO: [IP_Flow 19-5611] Unable to find an associated reset port for the interface 'S_AXI_HP1'. A default connection has been created.
+INFO: [IP_Flow 19-5611] Unable to find an associated reset port for the interface 'S_AXI_HP2'. A default connection has been created.
+INFO: [IP_Flow 19-5611] Unable to find an associated reset port for the interface 'S_AXI_HP3'. A default connection has been created.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block processing_system7_0 .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_axi_vdma_0_0/system_axi_vdma_0_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_vdma_0 .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_axi_vdma_1_0/system_axi_vdma_1_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_vdma_1 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block clk_wiz_0 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rst_ps7_0_100M .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rst_ps7_0_150M .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block v_vid_in_axi4s_0 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block v_vid_in_axi4s_1 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block audio_clk_wiz .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_gpio_audio .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_gpio_key .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block audio_i2s_tx .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block frame_tag_left .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block frame_tag_right .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/xbar .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/xbar .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rectify_left .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon_1/xbar .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rectify_right .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block capture_green_left .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block capture_green_right .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block frame_clock .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block photo_tap_left .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_photo_left_0/system_photo_left_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block photo_left .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block photo_arm_left .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block photo_tag_left .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block photo_tap_right .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_photo_right_0/system_photo_right_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block photo_right .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block photo_arm_right .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block photo_tag_right .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block lcd_clock .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block lcd_reset .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_lcd_dma_0/system_lcd_dma_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block lcd_dma .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block lcd_video .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block lcd_vtc .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block lcd_pins .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block touch_pins .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block lcd_control .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block touch_gpio .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rgb_memory/xbar .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_audio_probe_0/system_audio_probe_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block audio_probe .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block face_int8_accel_0 .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_face_act_cc_0/system_face_act_cc_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block face_act_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_face_param_cc_0/system_face_param_cc_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block face_param_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_axi_mem_intercon_imp_auto_pc_0/system_axi_mem_intercon_imp_auto_pc_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/s00_couplers/auto_pc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_axi_mem_intercon_imp_auto_pc_1/system_axi_mem_intercon_imp_auto_pc_1_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/s01_couplers/auto_pc .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/tier2_xbar_0 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/tier2_xbar_1 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/tier2_xbar_2 .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_ps7_0_axi_periph_imp_auto_pc_0/system_ps7_0_axi_periph_imp_auto_pc_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/s00_couplers/auto_pc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_ps7_0_axi_periph_imp_auto_cc_0/system_ps7_0_axi_periph_imp_auto_cc_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/m04_couplers/auto_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_ps7_0_axi_periph_imp_auto_cc_1/system_ps7_0_axi_periph_imp_auto_cc_1_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/m05_couplers/auto_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_ps7_0_axi_periph_imp_auto_cc_2/system_ps7_0_axi_periph_imp_auto_cc_2_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/m06_couplers/auto_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_ps7_0_axi_periph_imp_auto_cc_3/system_ps7_0_axi_periph_imp_auto_cc_3_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/m07_couplers/auto_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_ps7_0_axi_periph_imp_auto_cc_4/system_ps7_0_axi_periph_imp_auto_cc_4_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/m08_couplers/auto_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_ps7_0_axi_periph_imp_auto_cc_5/system_ps7_0_axi_periph_imp_auto_cc_5_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/m09_couplers/auto_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_ps7_0_axi_periph_imp_auto_cc_6/system_ps7_0_axi_periph_imp_auto_cc_6_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/m10_couplers/auto_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_ps7_0_axi_periph_imp_auto_cc_7/system_ps7_0_axi_periph_imp_auto_cc_7_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/m11_couplers/auto_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_ps7_0_axi_periph_imp_auto_cc_8/system_ps7_0_axi_periph_imp_auto_cc_8_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/m12_couplers/auto_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_ps7_0_axi_periph_imp_auto_cc_9/system_ps7_0_axi_periph_imp_auto_cc_9_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/m13_couplers/auto_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_ps7_0_axi_periph_imp_auto_cc_10/system_ps7_0_axi_periph_imp_auto_cc_10_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/m14_couplers/auto_cc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_axi_mem_intercon_1_imp_auto_pc_0/system_axi_mem_intercon_1_imp_auto_pc_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon_1/s00_couplers/auto_pc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_axi_mem_intercon_1_imp_auto_pc_1/system_axi_mem_intercon_1_imp_auto_pc_1_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon_1/s01_couplers/auto_pc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_axi_mem_intercon_1_imp_auto_us_0/system_axi_mem_intercon_1_imp_auto_us_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon_1/s01_couplers/auto_us .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_axi_mem_intercon_1_imp_auto_pc_2/system_axi_mem_intercon_1_imp_auto_pc_2_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon_1/s02_couplers/auto_pc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_axi_mem_intercon_1_imp_auto_us_1/system_axi_mem_intercon_1_imp_auto_us_1_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon_1/s02_couplers/auto_us .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_axi_mem_intercon_2_imp_auto_pc_0/system_axi_mem_intercon_2_imp_auto_pc_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon_2/s00_couplers/auto_pc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_rgb_memory_imp_auto_pc_0/system_rgb_memory_imp_auto_pc_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rgb_memory/s00_couplers/auto_pc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_rgb_memory_imp_auto_pc_1/system_rgb_memory_imp_auto_pc_1_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rgb_memory/s01_couplers/auto_pc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/ip/system_rgb_memory_imp_auto_pc_2/system_rgb_memory_imp_auto_pc_2_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rgb_memory/s02_couplers/auto_pc .
+Exporting to file F:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/hw_handoff/system.hwh
+Generated Hardware Definition File F:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/synth/system.hwdef
+INFO: [BD 41-3262] Generated VHDL Instantiation Template file f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/system.vho
+INFO: [BD 41-3262] Generated Verilog Instantiation Template file f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/system.veo
+INFO: [BD 41-3262] Generated System Verilog Instantiation Template file f:/amd2026_check_20261101/hardware_v2/navigator/nav_v3.gen/sources_1/bd/system/system_sv.sveo
+generate_target: Time (s): cpu = 00:00:24 ; elapsed = 00:00:30 . Memory (MB): peak = 1412.582 ; gain = 96.324
+FULL_V3_GENERATION_PASS
+INFO: [Common 17-206] Exiting Vivado at Sun Nov  1 16:30:52 2026...
+INFO: [Common 17-3922] A valid Vivado Design Suite BASIC license has been detected. Your current license is active and will expire on 30-oct-2027.
+
+****** Vivado v2026.1 (64-bit)
+  **** SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+  **** IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+  **** SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+  **** Start of session at: Sun Nov  1 16:30:53 2026
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+
+source {F:\amd2026_submission_stage_20261101\src\ax7020\hardware\recreate.tcl} -notrace
+create_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:07 . Memory (MB): peak = 589.316 ; gain = 267.250
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'f:/amd2026_submission_stage_20261101/src/ax7020/hardware/ip_repo/ip_repo'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'f:/amd2026_submission_stage_20261101/src/ax7020/hardware/ip_repo/ip'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/vivado2026.1/2026.1/Vivado/data/ip'.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_DVI_Transmitter_1_0/system_DVI_Transmitter_1_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_processing_system7_0_0/system_processing_system7_0_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_axi_vdma_2_0/system_axi_vdma_2_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_clk_wiz_0_0/system_clk_wiz_0_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_rst_ps7_0_100M_0/system_rst_ps7_0_100M_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_rst_ps7_0_150M_0/system_rst_ps7_0_150M_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_rst_sgbm_33M_0/system_rst_sgbm_33M_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_sgbm_left_vdma_0/system_sgbm_left_vdma_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_sgbm_result_vdma_0/system_sgbm_result_vdma_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_sgbm_right_vdma_0/system_sgbm_right_vdma_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_v_axi4s_vid_out_0_0/system_v_axi4s_vid_out_0_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_v_tc_0_0/system_v_tc_0_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_stereo_sgbm_0_0/system_stereo_sgbm_0_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_axi_gpio_key_0/system_axi_gpio_key_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_disparity_roi_scale_0_0/system_disparity_roi_scale_0_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_sgbm_green_left_0/system_sgbm_green_left_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_sgbm_green_right_0/system_sgbm_green_right_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_display_frame_pointer_cdc_0/system_display_frame_pointer_cdc_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_xbar_2/system_xbar_2.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_auto_pc_0/system_auto_pc_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_axi_mem_intercon_1/system_axi_mem_intercon_1.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_xbar_3/system_xbar_3.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_auto_pc_1/system_auto_pc_1.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_ps7_0_axi_periph_1/system_ps7_0_axi_periph_1.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_unused_keys_0/system_unused_keys_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_hdmi_enable_0/system_hdmi_enable_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_packet_crc_0/system_packet_crc_0.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_auto_pc_2/system_auto_pc_2.xci' referenced by design 'system' could not be found.
+WARNING: [BD 41-2576] File 'F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/ip/system_axi_mem_intercon_1_0/system_axi_mem_intercon_1_0.xci' referenced by design 'system' could not be found.
+INFO: [Project 1-1727] Source BDs should be added before importing the top BD F:/amd2026_submission_stage_20261101/src/ax7020/hardware/inputs/system.bd with BDC
+Reading block design file <F:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.srcs/sources_1/bd/inputs/system.bd>...
+Adding component instance block -- openedv.com:user:DVI_Transmitter:1.0 - DVI_Transmitter_1
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_DVI_Transmitter_1_0 
+Adding component instance block -- xilinx.com:ip:processing_system7:5.5 - processing_system7_0
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_processing_system7_0_0 
+Adding component instance block -- xilinx.com:ip:axi_vdma:6.3 - axi_vdma_2
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_axi_vdma_2_0 
+Adding component instance block -- xilinx.com:ip:clk_wiz:6.0 - clk_wiz_0
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_clk_wiz_0_0 
+INFO: [Device 21-403] Loading part xc7z020clg400-2
+Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - rst_ps7_0_100M
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_rst_ps7_0_100M_0 
+Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - rst_ps7_0_150M
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_rst_ps7_0_150M_0 
+Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - rst_sgbm_33M
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_rst_sgbm_33M_0 
+Adding component instance block -- xilinx.com:ip:axi_vdma:6.3 - sgbm_left_vdma
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_sgbm_left_vdma_0 
+Adding component instance block -- xilinx.com:ip:axi_vdma:6.3 - sgbm_result_vdma
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_sgbm_result_vdma_0 
+Adding component instance block -- xilinx.com:ip:axi_vdma:6.3 - sgbm_right_vdma
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_sgbm_right_vdma_0 
+Adding component instance block -- xilinx.com:ip:v_axi4s_vid_out:4.0 - v_axi4s_vid_out_0
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_v_axi4s_vid_out_0_0 
+Adding component instance block -- xilinx.com:ip:v_tc:6.2 - v_tc_0
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_v_tc_0_0 
+Adding component instance block -- xilinx.com:module_ref:axis_stereo_sgbm_bridge:1.0 - stereo_sgbm_0
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aclk' of definition 'xilinx.com:signal:clock:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aclk' of definition 'xilinx.com:signal:clock:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aresetn' of definition 'xilinx.com:signal:reset:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aresetn' of definition 'xilinx.com:signal:reset:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 's0_axis' of definition 'xilinx.com:interface:axis:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 's0_axis' of definition 'xilinx.com:interface:axis:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 's1_axis' of definition 'xilinx.com:interface:axis:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 's1_axis' of definition 'xilinx.com:interface:axis:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'm_axis' of definition 'xilinx.com:interface:axis:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'm_axis' of definition 'xilinx.com:interface:axis:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-4728] Bus Interface 'aclk': Added interface parameter 'ASSOCIATED_BUSIF' with value 's0_axis'.
+INFO: [IP_Flow 19-4728] Bus Interface 'aclk': Added interface parameter 'ASSOCIATED_RESET' with value 'aresetn'.
+INFO: [IP_Flow 19-4728] Bus Interface 'aresetn': Added interface parameter 'POLARITY' with value 'ACTIVE_LOW'.
+WARNING: [IP_Flow 19-11770] Clock interface 'aclk' has no FREQ_HZ parameter.
+INFO: [BD 41-1728] Could not find a module with name: system_stereo_sgbm_0_0 
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_key
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_axi_gpio_key_0 
+Adding component instance block -- xilinx.com:module_ref:axis_disparity_roi_scale:1.0 - disparity_roi_scale_0
+WARNING: [IP_Flow 19-587] [HDL Parser] HDL port or parameter 'generate_fire' has a dependency on the module local parameter or undefined parameter 'OUTPUT'.
+WARNING: [IP_Flow 19-587] [HDL Parser] HDL port or parameter 'read_first_pixel' has a dependency on the module local parameter or undefined parameter 'FILL'.
+WARNING: [IP_Flow 19-587] [HDL Parser] HDL port or parameter 'read_first_pixel' has a dependency on the module local parameter or undefined parameter 'OUTPUT'.
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aclk' of definition 'xilinx.com:signal:clock:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aclk' of definition 'xilinx.com:signal:clock:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aresetn' of definition 'xilinx.com:signal:reset:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aresetn' of definition 'xilinx.com:signal:reset:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 's_axis' of definition 'xilinx.com:interface:axis:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 's_axis' of definition 'xilinx.com:interface:axis:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'm_axis' of definition 'xilinx.com:interface:axis:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'm_axis' of definition 'xilinx.com:interface:axis:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-4728] Bus Interface 'aclk': Added interface parameter 'ASSOCIATED_BUSIF' with value 's_axis'.
+INFO: [IP_Flow 19-4728] Bus Interface 'aclk': Added interface parameter 'ASSOCIATED_RESET' with value 'aresetn'.
+INFO: [IP_Flow 19-4728] Bus Interface 'aresetn': Added interface parameter 'POLARITY' with value 'ACTIVE_LOW'.
+WARNING: [IP_Flow 19-11770] Clock interface 'aclk' has no FREQ_HZ parameter.
+INFO: [BD 41-1728] Could not find a module with name: system_disparity_roi_scale_0_0 
+Adding component instance block -- xilinx.com:module_ref:axis_green_to_rgb:1.0 - sgbm_green_left
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aclk' of definition 'xilinx.com:signal:clock:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aclk' of definition 'xilinx.com:signal:clock:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aresetn' of definition 'xilinx.com:signal:reset:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'aresetn' of definition 'xilinx.com:signal:reset:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 's_axis' of definition 'xilinx.com:interface:axis:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 's_axis' of definition 'xilinx.com:interface:axis:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'm_axis' of definition 'xilinx.com:interface:axis:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'm_axis' of definition 'xilinx.com:interface:axis:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-4728] Bus Interface 'aclk': Added interface parameter 'ASSOCIATED_BUSIF' with value 's_axis'.
+INFO: [IP_Flow 19-4728] Bus Interface 'aclk': Added interface parameter 'ASSOCIATED_RESET' with value 'aresetn'.
+INFO: [IP_Flow 19-4728] Bus Interface 'aresetn': Added interface parameter 'POLARITY' with value 'ACTIVE_LOW'.
+WARNING: [IP_Flow 19-11770] Clock interface 'aclk' has no FREQ_HZ parameter.
+INFO: [BD 41-1728] Could not find a module with name: system_sgbm_green_left_0 
+Adding component instance block -- xilinx.com:module_ref:axis_green_to_rgb:1.0 - sgbm_green_right
+INFO: [BD 41-1728] Could not find a module with name: system_sgbm_green_right_0 
+Adding component instance block -- xilinx.com:module_ref:vdma_frame_pointer_cdc:1.0 - display_frame_pointer_cdc
+INFO: [IP_Flow 19-5107] Inferred bus interface 'dest_clk' of definition 'xilinx.com:signal:clock:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'dest_clk' of definition 'xilinx.com:signal:clock:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'dest_resetn' of definition 'xilinx.com:signal:reset:1.0' (from X_INTERFACE_INFO parameter from HDL file).
+INFO: [IP_Flow 19-5107] Inferred bus interface 'dest_resetn' of definition 'xilinx.com:signal:reset:1.0' (from 'X_INTERFACE_INFO' attribute).
+INFO: [IP_Flow 19-4728] Bus Interface 'dest_clk': Added interface parameter 'ASSOCIATED_RESET' with value 'dest_resetn'.
+INFO: [IP_Flow 19-4728] Bus Interface 'dest_resetn': Added interface parameter 'POLARITY' with value 'ACTIVE_LOW'.
+WARNING: [IP_Flow 19-5661] Bus Interface 'dest_clk' does not have any bus interfaces associated with it.
+WARNING: [IP_Flow 19-11770] Clock interface 'dest_clk' has no FREQ_HZ parameter.
+INFO: [BD 41-1728] Could not find a module with name: system_display_frame_pointer_cdc_0 
+Adding component instance block -- xilinx.com:ip:axi_interconnect:2.1 - axi_mem_intercon
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_axi_mem_intercon_1 
+Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_xbar_2 
+Adding component instance block -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_auto_pc_0 
+Adding component instance block -- xilinx.com:ip:axi_interconnect:2.1 - ps7_0_axi_periph
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_ps7_0_axi_periph_1 
+Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_xbar_3 
+Adding component instance block -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_auto_pc_1 
+Adding component instance block -- xilinx.com:ip:xlconstant:1.1 - unused_keys
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_unused_keys_0 
+Adding component instance block -- xilinx.com:ip:xlconstant:1.1 - hdmi_enable
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_hdmi_enable_0 
+Adding component instance block -- xilinx.com:hls:packet_crc_accel:1.0 - packet_crc
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_packet_crc_0 
+Adding component instance block -- xilinx.com:ip:axi_interconnect:2.1 - axi_mem_intercon_1
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_axi_mem_intercon_1_0 
+Adding component instance block -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+INFO: [BD 41-434] Could not find an IP with XCI file by name: system_auto_pc_2 
+Successfully read diagram <system> from block design file <F:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.srcs/sources_1/bd/inputs/system.bd>
+INFO: [BD 41-433] Design successfully migrated to use XCI files...
+open_bd_design: Time (s): cpu = 00:00:10 ; elapsed = 00:00:14 . Memory (MB): peak = 1042.883 ; gain = 440.695
+INFO: [xilinx.com:ip:axi_vdma:6.3-17] /sgbm_result_vdma 
+                    All clocks connected to AXI VDMA are not identical, therefore configuring AXI-VDMA in ASYNC mode.
+INFO: [xilinx.com:ip:axi_vdma:6.3-16] /sgbm_right_vdma 
+                    All clocks connected to AXI VDMA are not identical, therefore configuring AXI-VDMA in ASYNC mode.
+INFO: [xilinx.com:ip:axi_vdma:6.3-16] /sgbm_left_vdma 
+                    All clocks connected to AXI VDMA are not identical, therefore configuring AXI-VDMA in ASYNC mode.
+INFO: [xilinx.com:ip:clk_wiz:6.0-1] /clk_wiz_0 clk_wiz propagate
+Wrote  : <F:\amd2026_check_20261101\hardware_v2\ax7020\ax7020.srcs\sources_1\bd\inputs\system.bd> 
+INFO: [BD 41-1662] The design 'system.bd' is already validated. Therefore parameter propagation will not be re-run.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon/m00_couplers/auto_pc/m_axi_rid'(2) to pin: '/axi_mem_intercon/m00_couplers/M_AXI_rid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon/m00_couplers/auto_pc/m_axi_bid'(2) to pin: '/axi_mem_intercon/m00_couplers/M_AXI_bid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/s_axi_arlock'(1) to pin: '/axi_mem_intercon_1/s00_couplers/S_AXI_arlock'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/s_axi_awlock'(1) to pin: '/axi_mem_intercon_1/s00_couplers/S_AXI_awlock'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/m_axi_bid'(1) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_bid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/m_axi_rid'(1) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_rid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP1_WID'(6) to pin: '/axi_mem_intercon_1/M00_AXI_wid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP1_ARID'(6) to pin: '/axi_mem_intercon_1/M00_AXI_arid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP1_AWID'(6) to pin: '/axi_mem_intercon_1/M00_AXI_awid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_WID'(6) to pin: '/axi_mem_intercon/M00_AXI_wid'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_ARID'(6) to pin: '/axi_mem_intercon/M00_AXI_arid'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_AWID'(6) to pin: '/axi_mem_intercon/M00_AXI_awid'(2) - Only lower order bits will be connected.
+Verilog Output written to : f:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/synth/system.v
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon/m00_couplers/auto_pc/m_axi_rid'(2) to pin: '/axi_mem_intercon/m00_couplers/M_AXI_rid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon/m00_couplers/auto_pc/m_axi_bid'(2) to pin: '/axi_mem_intercon/m00_couplers/M_AXI_bid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/s_axi_arlock'(1) to pin: '/axi_mem_intercon_1/s00_couplers/S_AXI_arlock'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/s_axi_awlock'(1) to pin: '/axi_mem_intercon_1/s00_couplers/S_AXI_awlock'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/m_axi_bid'(1) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_bid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/axi_mem_intercon_1/s00_couplers/auto_pc/m_axi_rid'(1) to pin: '/axi_mem_intercon_1/s00_couplers/M_AXI_rid'(6) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP1_WID'(6) to pin: '/axi_mem_intercon_1/M00_AXI_wid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP1_ARID'(6) to pin: '/axi_mem_intercon_1/M00_AXI_arid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP1_AWID'(6) to pin: '/axi_mem_intercon_1/M00_AXI_awid'(1) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_WID'(6) to pin: '/axi_mem_intercon/M00_AXI_wid'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_ARID'(6) to pin: '/axi_mem_intercon/M00_AXI_arid'(2) - Only lower order bits will be connected.
+WARNING: [BD 41-2384] Width mismatch when connecting pin: '/processing_system7_0/S_AXI_HP0_AWID'(6) to pin: '/axi_mem_intercon/M00_AXI_awid'(2) - Only lower order bits will be connected.
+Verilog Output written to : f:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/sim/system.v
+Verilog Output written to : f:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/hdl/system_wrapper.v
+INFO: [BD 41-1029] Generation completed for the IP Integrator block DVI_Transmitter_1 .
+INFO: [IP_Flow 19-5611] Unable to find an associated reset port for the interface 'M_AXI_GP0'. A default connection has been created.
+INFO: [IP_Flow 19-5611] Unable to find an associated reset port for the interface 'S_AXI_HP0'. A default connection has been created.
+INFO: [IP_Flow 19-5611] Unable to find an associated reset port for the interface 'S_AXI_HP1'. A default connection has been created.
+INFO: [BD 41-1029] Generation completed for the IP Integrator block processing_system7_0 .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/ip/system_axi_vdma_2_0/system_axi_vdma_2_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_vdma_2 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block clk_wiz_0 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rst_ps7_0_100M .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rst_ps7_0_150M .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rst_sgbm_33M .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/ip/system_sgbm_left_vdma_0/system_sgbm_left_vdma_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block sgbm_left_vdma .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/ip/system_sgbm_result_vdma_0/system_sgbm_result_vdma_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block sgbm_result_vdma .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/ip/system_sgbm_right_vdma_0/system_sgbm_right_vdma_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block sgbm_right_vdma .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block v_axi4s_vid_out_0 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block v_tc_0 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block stereo_sgbm_0 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_gpio_key .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block disparity_roi_scale_0 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block sgbm_green_left .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block sgbm_green_right .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block display_frame_pointer_cdc .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/xbar .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/xbar .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block unused_keys .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block hdmi_enable .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block packet_crc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/ip/system_axi_mem_intercon_imp_auto_pc_0/system_axi_mem_intercon_imp_auto_pc_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon/m00_couplers/auto_pc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/ip/system_ps7_0_axi_periph_imp_auto_pc_0/system_ps7_0_axi_periph_imp_auto_pc_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/s00_couplers/auto_pc .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'f:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/ip/system_axi_mem_intercon_1_imp_auto_pc_0/system_axi_mem_intercon_1_imp_auto_pc_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_mem_intercon_1/s00_couplers/auto_pc .
+Exporting to file f:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/hw_handoff/system.hwh
+Generated Hardware Definition File f:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/synth/system.hwdef
+INFO: [BD 41-3262] Generated VHDL Instantiation Template file F:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/system.vho
+INFO: [BD 41-3262] Generated Verilog Instantiation Template file F:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/system.veo
+INFO: [BD 41-3262] Generated System Verilog Instantiation Template file F:/amd2026_check_20261101/hardware_v2/ax7020/ax7020.gen/sources_1/bd/inputs/system_sv.sveo
+generate_target: Time (s): cpu = 00:00:16 ; elapsed = 00:00:19 . Memory (MB): peak = 1109.199 ; gain = 60.156
+AX_SOURCE_PROJECT_CREATED
+INFO: [Common 17-206] Exiting Vivado at Sun Nov  1 16:31:43 2026...

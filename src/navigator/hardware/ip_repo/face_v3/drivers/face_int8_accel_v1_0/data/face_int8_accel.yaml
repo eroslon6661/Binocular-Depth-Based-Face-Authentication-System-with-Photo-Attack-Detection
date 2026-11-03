@@ -1,0 +1,24 @@
+# ==============================================================
+# Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2026.1 (64-bit)
+# Tool Version Limit: 2026.06
+# Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+# Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+# 
+# ==============================================================
+%YAML 1.2
+---
+title: face_int8_accel driver
+type: driver
+properties:
+    compatible:
+        items:
+            - const: xlnx,face-int8-accel-1.0
+config:
+    - XFace_int8_accel_Config
+required:
+    - compatible
+    - reg
+additionalProperties:
+   - interrupts
+   - interrupt-parent
+

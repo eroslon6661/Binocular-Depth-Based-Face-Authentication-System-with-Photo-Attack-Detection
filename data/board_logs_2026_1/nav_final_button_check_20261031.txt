@@ -1,0 +1,112 @@
+ONE_WAY_NAV copied=4899 rectified=4900 sent=4476 rectify_us=22734 aborted=1 dropped=423 flight=3 peer=1 session=af1c20bb
+NET rx_dma=15780 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=36528 service_gap_max_us=90 prepare_us=3 prepare_max_us=0 pacing_waits=36399
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004b30c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=347150 tx_submit_us=113392 poll_us=114840
+ONE_WAY_NAV copied=4927 rectified=4929 sent=4504 rectify_us=22729 aborted=1 dropped=423 flight=2 peer=1 session=af1c20bb
+NET rx_dma=15817 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=36499 service_gap_max_us=91 prepare_us=3 prepare_max_us=0 pacing_waits=36431
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004d60c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=347215 tx_submit_us=113344 poll_us=114606
+ONE_WAY_NAV copied=4956 rectified=4957 sent=4532 rectify_us=22746 aborted=1 dropped=424 flight=2 peer=1 session=af1c20bb
+NET rx_dma=15853 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=36991 service_gap_max_us=81 prepare_us=3 prepare_max_us=0 pacing_waits=36457
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004946c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=347550 tx_submit_us=113366 poll_us=115662
+ONE_WAY_NAV copied=4985 rectified=4986 sent=4560 rectify_us=22738 aborted=1 dropped=424 flight=2 peer=1 session=af1c20bb
+NET rx_dma=15889 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=36327 service_gap_max_us=83 prepare_us=2 prepare_max_us=0 pacing_waits=36256
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004b0dc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=346063 tx_submit_us=113170 poll_us=113979
+ONE_WAY_NAV copied=5013 rectified=5014 sent=4588 rectify_us=22750 aborted=1 dropped=425 flight=2 peer=1 session=af1c20bb
+NET rx_dma=15925 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=36706 service_gap_max_us=91 prepare_us=3 prepare_max_us=0 pacing_waits=36585
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004739c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=349095 tx_submit_us=114053 poll_us=115197
+LCD_TOUCH reads=36618 ready=47 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=421 y=34 bad=0
+ONE_WAY_NAV copied=5042 rectified=5043 sent=4616 rectify_us=22756 aborted=1 dropped=426 flight=2 peer=1 session=af1c20bb
+NET rx_dma=15961 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=36309 service_gap_max_us=94 prepare_us=3 prepare_max_us=0 pacing_waits=36243
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=0049bdc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=346210 tx_submit_us=112887 poll_us=114078
+ONE_WAY_NAV copied=5070 rectified=5072 sent=4644 rectify_us=22750 aborted=1 dropped=426 flight=2 peer=1 session=af1c20bb
+NET rx_dma=15997 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=36637 service_gap_max_us=91 prepare_us=3 prepare_max_us=0 pacing_waits=36450
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004d9fc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=348227 tx_submit_us=113268 poll_us=115055
+ONE_WAY_NAV copied=5099 rectified=5100 sent=4672 rectify_us=22742 aborted=1 dropped=427 flight=2 peer=1 session=af1c20bb
+NET rx_dma=16033 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=36409 service_gap_max_us=82 prepare_us=2 prepare_max_us=0 pacing_waits=36214
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004b4cc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=346414 tx_submit_us=112756 poll_us=114296
+LCD_TOUCH edge down=1 contacts=1 raw_x=642 raw_y=95 size=1024x600
+ONE_WAY_NAV copied=5127 rectified=5129 sent=4700 rectify_us=22738 aborted=1 dropped=427 flight=2 peer=1 session=af1c20bb
+NET rx_dma=16069 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=36269 service_gap_max_us=83 prepare_us=3 prepare_max_us=0 pacing_waits=36201
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004a50c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=345743 tx_submit_us=112921 poll_us=114052
+LCD_TOUCH edge down=0 contacts=0 raw_x=632 raw_y=73 size=1024x600
+ONE_WAY_NAV copied=5156 rectified=5157 sent=4728 rectify_us=22751 aborted=1 dropped=428 flight=2 peer=1 session=af1c20bb
+NET rx_dma=16105 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=36620 service_gap_max_us=118 prepare_us=2 prepare_max_us=0 pacing_waits=36386
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004954c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=347430 tx_submit_us=113157 poll_us=114764
+LCD_TOUCH reads=36953 ready=72 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=632 y=73 bad=0
+LCD_TOUCH edge down=1 contacts=1 raw_x=648 raw_y=70 size=1024x600
+LCD button event=2 raw_x=648 raw_y=70
+MODE selected=face
+AUDIO event=mode_notice_queued accepted=212197 ack=212197 busy=1 error=0 reg=0 expected=00 actual=00
+LCD photo/status frame switch requested=0
+LCD_TOUCH edge down=0 contacts=0 raw_x=648 raw_y=70 size=1024x600
+ONE_WAY_NAV copied=5185 rectified=5186 sent=4755 rectify_us=22761 aborted=1 dropped=430 flight=3 peer=1 session=af1c20bb
+NET rx_dma=16140 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=34512 service_gap_max_us=124 prepare_us=2 prepare_max_us=0 pacing_waits=34446
+NET_RX_STATE used=257 capacity=512 max_used=259 free_head=00486dc0 ring_hw=256 ring_free=0 queue=1 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=329044 tx_submit_us=107600 poll_us=108662
+ONE_WAY_NAV copied=5213 rectified=5214 sent=4780 rectify_us=22739 aborted=1 dropped=433 flight=2 peer=1 session=af1c20bb
+NET rx_dma=16173 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=33482 service_gap_max_us=84 prepare_us=2 prepare_max_us=0 pacing_waits=33423
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004778c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=320768 tx_submit_us=104825 poll_us=105966
+ONE_WAY_NAV copied=5242 rectified=5243 sent=4806 rectify_us=22749 aborted=1 dropped=435 flight=2 peer=1 session=af1c20bb
+NET rx_dma=16207 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=33459 service_gap_max_us=122 prepare_us=2 prepare_max_us=0 pacing_waits=33402
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=0049cbc0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=319695 tx_submit_us=104849 poll_us=105895
+AUDIO event=phrase_samples_acked accepted=268450 ack=268450 busy=0 error=0 reg=0 expected=00 actual=00
+ONE_WAY_NAV copied=5270 rectified=5272 sent=4832 rectify_us=22736 aborted=1 dropped=438 flight=2 peer=1 session=af1c20bb
+NET rx_dma=16241 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=0 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=33453 service_gap_max_us=98 prepare_us=2 prepare_max_us=0 pacing_waits=33392
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004ca3c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=319928 tx_submit_us=104831 poll_us=105872
+LCD photo/status frame switch requested=1
+LCD_TOUCH edge down=1 contacts=1 raw_x=917 raw_y=126 size=1024x600
+LCD_TOUCH edge down=0 contacts=0 raw_x=917 raw_y=126 size=1024x600
+ONE_WAY_NAV copied=5299 rectified=5300 sent=4859 rectify_us=22741 aborted=1 dropped=439 flight=2 peer=1 session=af1c20bb
+NET rx_dma=16277 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=37966 service_gap_max_us=136 prepare_us=3 prepare_max_us=0 pacing_waits=35540
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004ba7c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=339117 tx_submit_us=109617 poll_us=115724
+LCD_TOUCH reads=37295 ready=85 status=00 online=1 reporting=1 irq=1 down=0 contacts=0 x=917 y=126 bad=0
+ONE_WAY_NAV copied=5328 rectified=5329 sent=4887 rectify_us=22751 aborted=1 dropped=440 flight=2 peer=1 session=af1c20bb
+NET rx_dma=16313 accepted=0 queue_full=0 qdrop=0 rx_recoveries=155 fcs=0 resource=0 overrun=0 ip_bad=0 udp_bad=0 gap_us=15
+NET_TX pending=2 recoveries=0 arp_stalls=0 udp_stalls=0 pool_stalls=549584
+NET_SCHED poll_calls=36698 service_gap_max_us=91 prepare_us=2 prepare_max_us=0 pacing_waits=36435
+NET_RX_STATE used=256 capacity=512 max_used=259 free_head=004ac7c0 ring_hw=256 ring_free=0 queue=0 pause_requests=0 resume_requests=0 pause_failures=0 pause_tx=0 pause_rx=0
+NET_CPU rx_callback_us=0 tx_encode_us=347662 tx_submit_us=112245 poll_us=114874
+
