@@ -3,6 +3,11 @@
   "release": "2026.1 optimized lean submission 2026-11-02",
   "files": [
     {
+      "path": "reports/design_report.pdf",
+      "sha256": "9eafea7baa148864048d1ff3863dc0dad6ae09bfa168f16d6f4b956b2826292e",
+      "bytes": 27774801
+    },
+    {
       "path": "project_config.json",
       "sha256": "1c3f7759757c3b6833e1d46cafef5ab597e77107b20bc0426aa1cf46cc59be46",
       "bytes": 2280
